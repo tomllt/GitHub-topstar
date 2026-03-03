@@ -1,0 +1,24 @@
+title: GitHub TopStar
+description: GitHub Star 增长排行榜追踪
+baseurl: ""
+url: ""
+
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true

@@ -1,0 +1,54 @@
+/* Custom styles for GitHub TopStar */
+
+.repo-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  padding: 16px;
+  margin: 12px 0;
+}
+
+.repo-card h3 {
+  margin-top: 0;
+}
+
+.repo-stats {
+  color: #586069;
+  font-size: 14px;
+}
+
+.repo-stats span {
+  margin-right: 16px;
+}
+
+.language-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  background: #f1f8ff;
+  color: #0366d6;
+}
+
+.star-increment {
+  color: #28a745;
+  font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th, table td {
+  padding: 8px 12px;
+  border: 1px solid #e1e4e8;
+  text-align: left;
+}
+
+table th {
+  background: #f6f8fa;
+}
+
+table tr:hover {
+  background: #f6f8fa;
+}
