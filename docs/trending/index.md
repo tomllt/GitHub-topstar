@@ -5,12 +5,21 @@ title: GitHub Trending
 
 # GitHub Trending 热门推荐
 
-> 更新时间: 2026-03-03 03:26 UTC
+> 更新时间: 2026-03-03 05:19 UTC
 
 ## 今日热门 (全语言)
 
 | 排名 | 项目 | 语言 | 今日 Star | 总 Star | 描述 |
 |------|------|------|-----------|---------|------|
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +5096 | 22.8k | π RuView: WiFi DensePose turns commodity WiFi s... |
+| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +1412 | 21.6k | 💖🧸 Self hosted, you-owned Grok Companion, a con... |
+| 3 | [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | Jupyter Notebook | +526 | 31.8k | Anthropic's Interactive Prompt Engineering Tuto... |
+| 4 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +830 | 18.2k | 🌊 The leading agent orchestration platform for ... |
+| 5 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | +1026 | 4.5k | OpenSandbox is a general-purpose sandbox platfo... |
+| 6 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +648 | 89.7k | Python tool for converting files and office doc... |
+| 7 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Python | +820 | 11.2k | A set of ready to use Agent Skills for research... |
+| 8 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript | +585 | 3.6k | IDE for the AI Agents Era - Run an army of Clau... |
+| 9 | [servo/servo](https://github.com/servo/servo) | Rust | +45 | 35.8k | Servo aims to empower developers with a lightwe... |
 
 
 ---
@@ -25,11 +34,11 @@ title: GitHub Trending
 | 3 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | +820 | 11.2k | A set of ready to use Agent Skills for research... |
 | 4 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | +108 | 44.7k | 小红书笔记 / 评论爬虫、抖音视频 / 评论爬虫、快手视频 / 评论爬虫、B 站视频 ｜ 评论... |
 | 5 | [scrapy/scrapy](https://github.com/scrapy/scrapy) | +150 | 60.5k | Scrapy, a fast high-level web crawling & scrapi... |
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | +992 | 403.0k | A collective list of free APIs |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | +992 | 403.1k | A collective list of free APIs |
 | 7 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | +184 | 3.4k |  |
-| 8 | [Polymarket/agents](https://github.com/Polymarket/agents) | +22 | 2.3k | Trade autonomously on Polymarket using AI Agents |
+| 8 | [Polymarket/agents](https://github.com/Polymarket/agents) | +22 | 2.4k | Trade autonomously on Polymarket using AI Agents |
 | 9 | [X-PLUG/MobileAgent](https://github.com/X-PLUG/MobileAgent) | +261 | 7.9k | Mobile-Agent: The Powerful GUI Agent Family |
-| 10 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | +77 | 629 | A specialized Claude Code workspace for creatin... |
+| 10 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | +77 | 633 | A specialized Claude Code workspace for creatin... |
 
 
 ---
@@ -57,8 +66,8 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +1412 | 21.5k | 💖🧸 Self hosted, you-owned Grok Companion, a con... |
-| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +830 | 18.1k | 🌊 The leading agent orchestration platform for ... |
+| 1 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | +1412 | 21.6k | 💖🧸 Self hosted, you-owned Grok Companion, a con... |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +830 | 18.2k | 🌊 The leading agent orchestration platform for ... |
 | 3 | [superset-sh/superset](https://github.com/superset-sh/superset) | +585 | 3.6k | IDE for the AI Agents Era - Run an army of Clau... |
 | 4 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | +89 | 3.1k | An Obsidian plugin that embeds Claude Code as a... |
 | 5 | [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) | +16 | 14.9k | Zigbee 🐝 to MQTT bridge 🌉, get rid of your prop... |
@@ -95,14 +104,14 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +5096 | 22.5k | π RuView: WiFi DensePose turns commodity WiFi s... |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +5096 | 22.8k | π RuView: WiFi DensePose turns commodity WiFi s... |
 | 2 | [servo/servo](https://github.com/servo/servo) | +45 | 35.8k | Servo aims to empower developers with a lightwe... |
 | 3 | [raphaelmansuy/edgequake](https://github.com/raphaelmansuy/edgequake) | +242 | 1.2k | High-performance GraphRAG inspired from LightRa... |
 | 4 | [nushell/nushell](https://github.com/nushell/nushell) | +15 | 38.6k | A new type of shell |
-| 5 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | +49 | 498 | Wolfram Language / Mathematica reimplementation... |
+| 5 | [ad-si/Woxi](https://github.com/ad-si/Woxi) | +49 | 502 | Wolfram Language / Mathematica reimplementation... |
 | 6 | [block/goose](https://github.com/block/goose) | +281 | 32.2k | an open source, extensible AI agent that goes b... |
 | 7 | [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) | +27 | 1.4k | 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 C... |
-| 8 | [j178/prek](https://github.com/j178/prek) | +62 | 6.6k | ⚡ Better `pre-commit`, re-engineered in Rust |
+| 8 | [j178/prek](https://github.com/j178/prek) | +62 | 6.7k | ⚡ Better `pre-commit`, re-engineered in Rust |
 | 9 | [facebook/pyrefly](https://github.com/facebook/pyrefly) | +9 | 5.4k | A fast type checker and language server for Python |
 | 10 | [cloudflare/pingora](https://github.com/cloudflare/pingora) | +6 | 26.2k | A library for building fast, reliable and evolv... |
 
