@@ -1,24 +1,20 @@
 title: GitHub TopStar
 description: GitHub Star 增长排行榜追踪
-baseurl: ""
-url: ""
+baseurl: "/GitHub-topstar"
+url: "https://tomllt.github.io"
 
-theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
 
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
 
+plugins:
+  - jekyll-remote-theme
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
-
-plugins:
-  - jekyll-relative-links
-
-relative_links:
-  enabled: true
-  collections: true
