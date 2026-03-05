@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-04 03:43 UTC
+> 最后更新: 2026-03-05 03:46 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +4419 | 25.6k | π RuView: WiFi DensePose turns commod... |
-| 2 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | +1150 | 5.5k | OpenSandbox is a general-purpose sand... |
-| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +832 | 22.3k | 💖🧸 Self hosted, you-owned Grok Compan... |
-| 4 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Python | +798 | 12.1k | A set of ready to use Agent Skills fo... |
-| 5 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript | +632 | 4.3k | IDE for the AI Agents Era - Run an ar... |
-| 6 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +164 | 582 | Find vulnerabilities, misconfiguratio... |
-| 7 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | Python | +135 | 7.4k | Supercharge Your LLM with the Fastest... |
-| 8 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | +126 | 3.3k | Generate code from the terminal! |
-| 9 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +112 | 17.1k | Build and run agents you can see, und... |
-| 10 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | Python | +49 | 1.3k | ReMe: Memory Management Kit for Agent... |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | - | +2209 | 5.6k | A complete AI agency at your fingerti... |
+| 2 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +1854 | 30.6k | Shannon Lite is a fully autonomous AI... |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +1454 | 25.2k | 💖🧸 Self hosted, you-owned Grok Compan... |
+| 4 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | TypeScript | +1090 | 30.9k | Perplexica is an AI-powered answering... |
+| 5 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Python | +940 | 12.8k | A set of ready to use Agent Skills fo... |
+| 6 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | +788 | 6.1k | OpenSandbox is a general-purpose sand... |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +427 | 17.4k | Build and run agents you can see, und... |
+| 8 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +380 | 890 | Find vulnerabilities, misconfiguratio... |
+| 9 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | +337 | 3.6k | Generate code from the terminal! |
+| 10 | [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) | TypeScript | +145 | 50.1k | Build AI Agents, Visually |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +4419 | π RuView: WiFi DensePose turns commod... |
-| 2 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Python | +798 | A set of ready to use Agent Skills fo... |
-| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +832 | 💖🧸 Self hosted, you-owned Grok Compan... |
-| 4 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | +126 | Generate code from the terminal! |
-| 5 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +112 | Build and run agents you can see, und... |
-| 6 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | Python | +49 | ReMe: Memory Management Kit for Agent... |
-| 7 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | Python | +135 | Supercharge Your LLM with the Fastest... |
-| 8 | [superset-sh/superset](https://github.com/superset-sh/superset) | TypeScript | +632 | IDE for the AI Agents Era - Run an ar... |
-| 9 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +164 | Find vulnerabilities, misconfiguratio... |
-| 10 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | +1150 | OpenSandbox is a general-purpose sand... |
+| 1 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +1854 | Shannon Lite is a fully autonomous AI... |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | - | +2209 | A complete AI agency at your fingerti... |
+| 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +380 | Find vulnerabilities, misconfiguratio... |
+| 4 | [K-Dense-AI/claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Python | +940 | A set of ready to use Agent Skills fo... |
+| 5 | [CodebuffAI/codebuff](https://github.com/CodebuffAI/codebuff) | TypeScript | +337 | Generate code from the terminal! |
+| 6 | [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) | Python | +788 | OpenSandbox is a general-purpose sand... |
+| 7 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +143 | Automate the process of making money ... |
+| 8 | [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) | TypeScript | +1090 | Perplexica is an AI-powered answering... |
+| 9 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +427 | Build and run agents you can see, und... |
+| 10 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +1454 | 💖🧸 Self hosted, you-owned Grok Compan... |
 
 
 [查看更多 →](trending/)
