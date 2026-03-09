@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-08 03:47 UTC
+> 最后更新: 2026-03-09 03:52 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1468 | 10.9k | A complete AI agency at your fingerti... |
-| 2 | [openai/skills](https://github.com/openai/skills) | Python | +948 | 12.8k | Skills Catalog for Codex |
-| 3 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | +586 | 15.1k | Agent framework and applications buil... |
-| 4 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +399 | 5.8k | A Simple and Universal Swarm Intellig... |
-| 5 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Jupyter Notebook | +384 | 13.6k | Sample code and notebooks for Generat... |
-| 6 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +281 | 64.7k | There can be more than Notion and Mir... |
-| 7 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +248 | 46.6k | An AI Hedge Fund Team |
-| 8 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | PowerShell | +217 | 763 | A refined collection of Hypervelocity... |
-| 9 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | +137 | 1.4k | JavaScript in-page GUI agent. Control... |
-| 10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | +129 | 108.2k | A set of beautifully-designed, access... |
+| 1 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | +4603 | 282.6k | Your own personal AI assistant. Any O... |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +1104 | 7.5k | A Simple and Universal Swarm Intellig... |
+| 3 | [openai/skills](https://github.com/openai/skills) | Python | +612 | 13.3k | Skills Catalog for Codex |
+| 4 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | +566 | 24.0k | Bash is all you need - A nano Claude ... |
+| 5 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +533 | 65.3k | There can be more than Notion and Mir... |
+| 6 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Jupyter Notebook | +522 | 14.6k | Sample code and notebooks for Generat... |
+| 7 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | +488 | 108.8k | A set of beautifully-designed, access... |
+| 8 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +443 | 2.0k | The design language that makes your A... |
+| 9 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +275 | 46.9k | An AI Hedge Fund Team |
+| 10 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | Go | +244 | 2.3k | CyberStrikeAI is an AI-native securit... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +399 | A Simple and Universal Swarm Intellig... |
-| 2 | [openai/skills](https://github.com/openai/skills) | Python | +948 | Skills Catalog for Codex |
-| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1468 | A complete AI agency at your fingerti... |
-| 4 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Jupyter Notebook | +384 | Sample code and notebooks for Generat... |
-| 5 | [agentjido/jido](https://github.com/agentjido/jido) | Elixir | +115 | 🤖 Autonomous agent framework for Elix... |
-| 6 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | Python | +586 | Agent framework and applications buil... |
-| 7 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +248 | An AI Hedge Fund Team |
-| 8 | [microsoft/hve-core](https://github.com/microsoft/hve-core) | PowerShell | +217 | A refined collection of Hypervelocity... |
-| 9 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +281 | There can be more than Notion and Mir... |
-| 10 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | +129 | A set of beautifully-designed, access... |
+| 1 | [GoogleCloudPlatform/generative-ai](https://github.com/GoogleCloudPlatform/generative-ai) | Jupyter Notebook | +522 | Sample code and notebooks for Generat... |
+| 2 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +1104 | A Simple and Universal Swarm Intellig... |
+| 3 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | TypeScript | +488 | A set of beautifully-designed, access... |
+| 4 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | +4603 | Your own personal AI assistant. Any O... |
+| 5 | [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) | TypeScript | +533 | There can be more than Notion and Mir... |
+| 6 | [Ed1s0nZ/CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) | Go | +244 | CyberStrikeAI is an AI-native securit... |
+| 7 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | +566 | Bash is all you need - A nano Claude ... |
+| 8 | [openai/skills](https://github.com/openai/skills) | Python | +612 | Skills Catalog for Codex |
+| 9 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +275 | An AI Hedge Fund Team |
+| 10 | [is-a-dev/register](https://github.com/is-a-dev/register) | JavaScript | +10 | Grab your own sweet-looking '.is-a.de... |
 
 
 [查看更多 →](trending/)
