@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-18 03:57 UTC
+> 最后更新: 2026-03-19 03:57 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +3078 | 93.0k | An agentic skills framework & softwar... |
-| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +1998 | 480.1k | Master programming by recreating your... |
-| 3 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | +1415 | 14.3k | Agent harness built with LangChain an... |
-| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1116 | 16.9k | GitNexus: The Zero-Server Code Intell... |
-| 5 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | +466 | 5.8k | A Claude Code plugin that shows what'... |
-| 6 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | C++ | +31 | 7.9k | The JavaScript / Wasm runtime that po... |
-| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 320.9k | Your own personal AI assistant. Any O... |
-| 8 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | - | 194.2k | An Open Source Machine Learning Frame... |
-| 9 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | - | 182.8k | Visual Studio Code |
-| 10 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python | - | 182.6k | AutoGPT is the vision of accessible A... |
+| 1 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +4089 | 96.7k | An agentic skills framework & softwar... |
+| 2 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | +1038 | 7.4k | A Claude Code plugin that shows what'... |
+| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +1005 | 56.0k | Unified web UI for training and runni... |
+| 4 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | +481 | 6.5k | An Open-Source Asynchronous Coding Agent |
+| 5 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | +237 | 29.9k | PlayStation 4 emulator for Windows, L... |
+| 6 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | +26 | 3.0k | An open-source, GPU-accelerated physi... |
+| 7 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | - | 384.2k | :books: Freely available programming ... |
+| 8 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 323.4k | Your own personal AI assistant. Any O... |
+| 9 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | - | 194.2k | An Open Source Machine Learning Frame... |
+| 10 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | - | 182.8k | Visual Studio Code |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,12 +31,12 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +3078 | An agentic skills framework & softwar... |
-| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +1998 | Master programming by recreating your... |
-| 3 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1116 | GitNexus: The Zero-Server Code Intell... |
-| 4 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | Python | +1415 | Agent harness built with LangChain an... |
-| 5 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | +466 | A Claude Code plugin that shows what'... |
-| 6 | [cloudflare/workerd](https://github.com/cloudflare/workerd) | C++ | +31 | The JavaScript / Wasm runtime that po... |
+| 1 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | +1038 | A Claude Code plugin that shows what'... |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +4089 | An agentic skills framework & softwar... |
+| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +1005 | Unified web UI for training and runni... |
+| 4 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | +26 | An open-source, GPU-accelerated physi... |
+| 5 | [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) | C++ | +237 | PlayStation 4 emulator for Windows, L... |
+| 6 | [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) | Python | +481 | An Open-Source Asynchronous Coding Agent |
 
 
 [查看更多 →](trending/)
