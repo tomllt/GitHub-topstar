@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-25 03:55 UTC
+> 最后更新: 2026-03-26 04:05 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +4346 | 43.9k | An open-source SuperAgent harness tha... |
-| 2 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +3006 | 24.9k | Automate the process of making money ... |
-| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +2513 | 15.5k | Project N.O.M.A.D, is a self-containe... |
-| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1760 | 41.1k | TradingAgents: Multi-Agents LLM Finan... |
-| 5 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +1449 | 5.5k | Create and share 3D architectural pro... |
-| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +1397 | 25.2k | 🌊 The leading agent orchestration pla... |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1278 | 12.6k | The agent that grows with you |
-| 8 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | Python | +995 | 32.0k | A curated list of awesome skills, hoo... |
-| 9 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +861 | 41.4k | π RuView: WiFi DensePose turns commod... |
-| 10 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +728 | 52.8k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +3787 | 46.7k | An open-source long-horizon SuperAgen... |
+| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +2353 | 6.9k | Create and share 3D architectural pro... |
+| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +1718 | 16.8k | Project N.O.M.A.D, is a self-containe... |
+| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1341 | 8.0k | AI agent skill that researches any to... |
+| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +1174 | 26.3k | 🌊 The leading agent orchestration pla... |
+| 6 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1082 | 42.4k | π RuView: WiFi DensePose turns commod... |
+| 7 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +1065 | 25.7k | Automate the process of making money ... |
+| 8 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +810 | 19.3k | Memory engine and app that is extreme... |
+| 9 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | Python | +449 | 21.4k | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
+| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | +301 | 40.7k | Python SDK, Proxy Server (AI Gateway)... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +1449 | Create and share 3D architectural pro... |
-| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +4346 | An open-source SuperAgent harness tha... |
-| 3 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +344 | Memory engine and app that is extreme... |
-| 4 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +3006 | Automate the process of making money ... |
-| 5 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +728 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +2513 | Project N.O.M.A.D, is a self-containe... |
-| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1760 | TradingAgents: Multi-Agents LLM Finan... |
-| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +209 | AI agent skill that researches any to... |
-| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +1397 | 🌊 The leading agent orchestration pla... |
-| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1278 | The agent that grows with you |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1341 | AI agent skill that researches any to... |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +3787 | An open-source long-horizon SuperAgen... |
+| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | +301 | Python SDK, Proxy Server (AI Gateway)... |
+| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +2353 | Create and share 3D architectural pro... |
+| 5 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | +71 | Give Claude Code a subconscious |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +1174 | 🌊 The leading agent orchestration pla... |
+| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +1718 | Project N.O.M.A.D, is a self-containe... |
+| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1082 | π RuView: WiFi DensePose turns commod... |
+| 9 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +810 | Memory engine and app that is extreme... |
+| 10 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +1065 | Automate the process of making money ... |
 
 
 [查看更多 →](trending/)
