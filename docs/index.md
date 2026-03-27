@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-26 04:05 UTC
+> 最后更新: 2026-03-27 04:06 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +3787 | 46.7k | An open-source long-horizon SuperAgen... |
-| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +2353 | 6.9k | Create and share 3D architectural pro... |
-| 3 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +1718 | 16.8k | Project N.O.M.A.D, is a self-containe... |
-| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1341 | 8.0k | AI agent skill that researches any to... |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +1174 | 26.3k | 🌊 The leading agent orchestration pla... |
-| 6 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1082 | 42.4k | π RuView: WiFi DensePose turns commod... |
-| 7 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +1065 | 25.7k | Automate the process of making money ... |
-| 8 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +810 | 19.3k | Memory engine and app that is extreme... |
-| 9 | [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) | Python | +449 | 21.4k | 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版 |
-| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | +301 | 40.7k | Python SDK, Proxy Server (AI Gateway)... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +2685 | 10.6k | AI agent skill that researches any to... |
+| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +2394 | 48.9k | An open-source long-horizon SuperAgen... |
+| 3 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | +1370 | 11.4k |  |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1002 | 43.3k | π RuView: WiFi DensePose turns commod... |
+| 5 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +598 | 12.9k | Teams-first Multi-agent orchestration... |
+| 6 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | +557 | 6.3k | OCR model that handles complex tables... |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +437 | 20.6k | Build and run agents you can see, und... |
+| 8 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +210 | 19.1k | An autonomous agent for deep financia... |
+| 9 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +117 | 41.4k | Building a modern alternative to Sale... |
+| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 337.6k | Your own personal AI assistant. Any O... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,15 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1341 | AI agent skill that researches any to... |
-| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +3787 | An open-source long-horizon SuperAgen... |
-| 3 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | +301 | Python SDK, Proxy Server (AI Gateway)... |
-| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +2353 | Create and share 3D architectural pro... |
-| 5 | [letta-ai/claude-subconscious](https://github.com/letta-ai/claude-subconscious) | TypeScript | +71 | Give Claude Code a subconscious |
-| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +1174 | 🌊 The leading agent orchestration pla... |
-| 7 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +1718 | Project N.O.M.A.D, is a self-containe... |
-| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1082 | π RuView: WiFi DensePose turns commod... |
-| 9 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +810 | Memory engine and app that is extreme... |
-| 10 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +1065 | Automate the process of making money ... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +2685 | AI agent skill that researches any to... |
+| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +598 | Teams-first Multi-agent orchestration... |
+| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +210 | An autonomous agent for deep financia... |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1002 | π RuView: WiFi DensePose turns commod... |
+| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +2394 | An open-source long-horizon SuperAgen... |
+| 6 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | +1370 |  |
+| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +437 | Build and run agents you can see, und... |
+| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +117 | Building a modern alternative to Sale... |
+| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | +557 | OCR model that handles complex tables... |
 
 
 [查看更多 →](trending/)
