@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-27 04:06 UTC
+> 最后更新: 2026-03-28 03:54 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +2685 | 10.6k | AI agent skill that researches any to... |
-| 2 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +2394 | 48.9k | An open-source long-horizon SuperAgen... |
-| 3 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | +1370 | 11.4k |  |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1002 | 43.3k | π RuView: WiFi DensePose turns commod... |
-| 5 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +598 | 12.9k | Teams-first Multi-agent orchestration... |
-| 6 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | +557 | 6.3k | OCR model that handles complex tables... |
-| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +437 | 20.6k | Build and run agents you can see, und... |
-| 8 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +210 | 19.1k | An autonomous agent for deep financia... |
-| 9 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +117 | 41.4k | Building a modern alternative to Sale... |
-| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 337.6k | Your own personal AI assistant. Any O... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +2821 | 12.9k | AI agent skill that researches any to... |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2752 | 118.8k | An agentic skills framework & softwar... |
+| 3 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | +1616 | 83.2k | real time face swap and one-click vid... |
+| 4 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +1411 | 14.1k | Teams-first Multi-agent orchestration... |
+| 5 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | +1066 | 11.9k |  |
+| 6 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | +912 | 7.1k | OCR model that handles complex tables... |
+| 7 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +672 | 19.7k | An autonomous agent for deep financia... |
+| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +668 | 42.1k | Building a modern alternative to Sale... |
+| 9 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | +547 | 19.2k | Open Source AI Platform - AI Chat wit... |
+| 10 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +337 | 24.7k | Open-Source Frontier Voice AI |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,15 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +2685 | AI agent skill that researches any to... |
-| 2 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +598 | Teams-first Multi-agent orchestration... |
-| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +210 | An autonomous agent for deep financia... |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1002 | π RuView: WiFi DensePose turns commod... |
-| 5 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +2394 | An open-source long-horizon SuperAgen... |
-| 6 | [Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) | Jupyter Notebook | +1370 |  |
-| 7 | [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) | Python | +437 | Build and run agents you can see, und... |
-| 8 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +117 | Building a modern alternative to Sale... |
-| 9 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | +557 | OCR model that handles complex tables... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +2821 | AI agent skill that researches any to... |
+| 2 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | +1616 | real time face swap and one-click vid... |
+| 3 | [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) | Python | +143 | The AI Scientist-v2: Workshop-Level A... |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +337 | Open-Source Frontier Voice AI |
+| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +668 | Building a modern alternative to Sale... |
+| 6 | [datalab-to/chandra](https://github.com/datalab-to/chandra) | Python | +912 | OCR model that handles complex tables... |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2752 | An agentic skills framework & softwar... |
+| 8 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +672 | An autonomous agent for deep financia... |
+| 9 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +1411 | Teams-first Multi-agent orchestration... |
+| 10 | [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) | C++ | +79 | Official source code of FreeCAD, a fr... |
 
 
 [查看更多 →](trending/)
