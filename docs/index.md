@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-03-31 04:07 UTC
+> 最后更新: 2026-04-01 04:29 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +4232 | 10.3k | A visual, example-driven guide to Cla... |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +2492 | 31.0k | Open-Source Frontier Voice AI |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1851 | 18.9k | The agent that grows with you |
-| 4 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | +1136 | 86.5k | real time face swap and one-click vid... |
-| 5 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | +1108 | 26.5k | practice made claude perfect |
-| 6 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | +502 | 64.6k | Financial data platform for analysts,... |
-| 7 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +368 | 439.8k | freeCodeCamp.org's open-source codeba... |
-| 8 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | C | +276 | 21.4k | A maintained, feature-rich and perfor... |
-| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +76 | 74.8k | Hunt down social media accounts by us... |
-| 10 | [apache/superset](https://github.com/apache/superset) | TypeScript | +49 | 72.0k | Apache Superset is a Data Visualizati... |
+| 1 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +3863 | 33.4k | Open-Source Frontier Voice AI |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2620 | 128.6k | An agentic skills framework & softwar... |
+| 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | +2407 | 29.1k | practice made claude perfect |
+| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +2390 | 13.6k | A visual, example-driven guide to Cla... |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1907 | 20.6k | The agent that grows with you |
+| 6 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +1126 | 19.5k | Teams-first Multi-agent orchestration... |
+| 7 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +873 | 339.7k | A complete computer science study pla... |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +865 | 75.6k | Hunt down social media accounts by us... |
+| 9 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | +439 | 74.3k | Turn any PDF or image document into s... |
+| 10 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | +318 | 3.8k | Self-hosted AI accounting app. LLM an... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +2492 | Open-Source Frontier Voice AI |
-| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +4232 | A visual, example-driven guide to Cla... |
-| 3 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | +1108 | practice made claude perfect |
-| 4 | [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) | Python | +1136 | real time face swap and one-click vid... |
-| 5 | [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) | Python | +502 | Financial data platform for analysts,... |
-| 6 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +368 | freeCodeCamp.org's open-source codeba... |
-| 7 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +76 | Hunt down social media accounts by us... |
-| 8 | [apache/superset](https://github.com/apache/superset) | TypeScript | +49 | Apache Superset is a Data Visualizati... |
-| 9 | [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | C | +276 | A maintained, feature-rich and perfor... |
-| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1851 | The agent that grows with you |
+| 1 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +2390 | A visual, example-driven guide to Cla... |
+| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +3863 | Open-Source Frontier Voice AI |
+| 3 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +1126 | Teams-first Multi-agent orchestration... |
+| 4 | [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) | HTML | +2407 | practice made claude perfect |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1907 | The agent that grows with you |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2620 | An agentic skills framework & softwar... |
+| 7 | [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) | Python | +130 | The absolute trainer to light up AI a... |
+| 8 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | +439 | Turn any PDF or image document into s... |
+| 9 | [Dimillian/Skills](https://github.com/Dimillian/Skills) | Shell | +115 | My Codex Skills |
+| 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +865 | Hunt down social media accounts by us... |
 
 
 [查看更多 →](trending/)
