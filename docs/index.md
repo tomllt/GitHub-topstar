@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-02 04:00 UTC
+> 最后更新: 2026-04-03 04:02 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | +10749 | 102.1k | Claude Code is an agentic coding tool... |
-| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +3301 | 15.9k | A visual, example-driven guide to Cla... |
-| 3 | [openai/codex](https://github.com/openai/codex) | Rust | +2390 | 71.9k | Lightweight coding agent that runs in... |
-| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1685 | 34.6k | Open-Source Frontier Voice AI |
-| 5 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | +398 | 156.2k | f.k.a. Awesome ChatGPT Prompts. Share... |
-| 6 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +380 | 12.3k | TimesFM (Time Series Foundation Model... |
-| 7 | [axios/axios](https://github.com/axios/axios) | JavaScript | +93 | 108.9k | Promise based HTTP client for the bro... |
-| 8 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 344.8k | Your own personal AI assistant. Any O... |
-| 9 | [vinta/awesome-python](https://github.com/vinta/awesome-python) | Python | - | 290.2k | An opinionated list of Python framewo... |
-| 10 | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | Python | - | 219.2k | All Algorithms implemented in Python |
+| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | +2867 | 12.1k | OmX - Oh My codeX: Your codex is not ... |
+| 2 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +2573 | 16.3k | Create stunning demos for free. Open-... |
+| 3 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +827 | 77.4k | Hunt down social media accounts by us... |
+| 4 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | - | +306 | 36.6k | Extracted system prompts from ChatGPT... |
+| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 346.2k | Your own personal AI assistant. Any O... |
+| 6 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | - | 194.4k | An Open Source Machine Learning Frame... |
+| 7 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | - | 183.3k | Visual Studio Code |
+| 8 | [flutter/flutter](https://github.com/flutter/flutter) | Dart | - | 175.8k | Flutter makes it easy and fast to bui... |
+| 9 | [huggingface/transformers](https://github.com/huggingface/transformers) | Python | - | 158.7k | 🤗 Transformers: the model-definition ... |
+| 10 | [langflow-ai/langflow](https://github.com/langflow-ai/langflow) | Python | - | 146.5k | Langflow is a powerful tool for build... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,13 +31,10 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Shell | +10749 | Claude Code is an agentic coding tool... |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1685 | Open-Source Frontier Voice AI |
-| 3 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +380 | TimesFM (Time Series Foundation Model... |
-| 4 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +3301 | A visual, example-driven guide to Cla... |
-| 5 | [axios/axios](https://github.com/axios/axios) | JavaScript | +93 | Promise based HTTP client for the bro... |
-| 6 | [openai/codex](https://github.com/openai/codex) | Rust | +2390 | Lightweight coding agent that runs in... |
-| 7 | [f/prompts.chat](https://github.com/f/prompts.chat) | HTML | +398 | f.k.a. Awesome ChatGPT Prompts. Share... |
+| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +2573 | Create stunning demos for free. Open-... |
+| 2 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | +2867 | OmX - Oh My codeX: Your codex is not ... |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | - | +306 | Extracted system prompts from ChatGPT... |
+| 4 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +827 | Hunt down social media accounts by us... |
 
 
 [查看更多 →](trending/)
