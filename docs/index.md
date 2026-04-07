@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-06 04:15 UTC
+> 最后更新: 2026-04-07 04:06 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +2749 | 22.7k | Create stunning demos for free. Open-... |
-| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | +998 | 25.1k | Open Source AI Platform - AI Chat wit... |
-| 3 | [block/goose](https://github.com/block/goose) | Rust | +882 | 37.2k | an open source, extensible AI agent t... |
-| 4 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | +416 | 4.0k | MLX-VLM is a package for inference an... |
-| 5 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +389 | 17.1k | A gallery that showcases on-device ML... |
-| 6 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | +355 | 32.0k | AI agent toolkit: coding agent CLI, u... |
-| 7 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +335 | 441.6k | freeCodeCamp.org's open-source codeba... |
-| 8 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | +287 | 31.1k | Telegram Desktop messaging app |
-| 9 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +124 | 1.6k |  |
-| 10 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | +76 | 3.7k | The fastest and the most accurate fil... |
+| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +1838 | 24.2k | Create stunning demos for free. Open-... |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1574 | 28.4k | The agent that grows with you |
+| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +1523 | 38.2k | an open source, extensible AI agent t... |
+| 4 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +1107 | 18.0k | A gallery that showcases on-device ML... |
+| 5 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +857 | 23.7k | GitNexus: The Zero-Server Code Intell... |
+| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +733 | 36.7k | Shannon Lite is an autonomous, white-... |
+| 7 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +483 | 2.1k |  |
+| 8 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | - | +429 | 20.7k | Agent skills for Obsidian. Teach your... |
+| 9 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +394 | 18.9k | mini cli search engine for your docs,... |
+| 10 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +295 | 7.4k | PersonaPlex code. |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +389 | A gallery that showcases on-device ML... |
-| 2 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | +416 | MLX-VLM is a package for inference an... |
-| 3 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +2749 | Create stunning demos for free. Open-... |
-| 4 | [block/goose](https://github.com/block/goose) | Rust | +882 | an open source, extensible AI agent t... |
-| 5 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | +998 | Open Source AI Platform - AI Chat wit... |
-| 6 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | +355 | AI agent toolkit: coding agent CLI, u... |
-| 7 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | +76 | The fastest and the most accurate fil... |
-| 8 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +124 |  |
-| 9 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | +287 | Telegram Desktop messaging app |
-| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +335 | freeCodeCamp.org's open-source codeba... |
+| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +857 | GitNexus: The Zero-Server Code Intell... |
+| 2 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +1107 | A gallery that showcases on-device ML... |
+| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +1523 | an open source, extensible AI agent t... |
+| 4 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +483 |  |
+| 5 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | +152 | High performance self-hosted photo an... |
+| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +733 | Shannon Lite is an autonomous, white-... |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1574 | The agent that grows with you |
+| 8 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +394 | mini cli search engine for your docs,... |
+| 9 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Swift | +25 | Telegram-iOS |
+| 10 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | - | +429 | Agent skills for Obsidian. Teach your... |
 
 
 [查看更多 →](trending/)

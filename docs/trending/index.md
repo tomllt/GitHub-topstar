@@ -5,22 +5,26 @@ title: GitHub Trending
 
 # GitHub Trending 热门推荐
 
-> 更新时间: 2026-04-06 04:15 UTC
+> 更新时间: 2026-04-07 04:06 UTC
 
 ## 今日热门 (全语言)
 
 | 排名 | 项目 | 语言 | 今日 Star | 总 Star | 描述 |
 |------|------|------|-----------|---------|------|
-| 1 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +389 | 17.1k | A gallery that showcases on-device ML/GenAI use... |
-| 2 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | Python | +416 | 4.0k | MLX-VLM is a package for inference and fine-tun... |
-| 3 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +2749 | 22.7k | Create stunning demos for free. Open-source, no... |
-| 4 | [block/goose](https://github.com/block/goose) | Rust | +882 | 37.2k | an open source, extensible AI agent that goes b... |
-| 5 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | +998 | 25.1k | Open Source AI Platform - AI Chat with advanced... |
-| 6 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | TypeScript | +355 | 32.0k | AI agent toolkit: coding agent CLI, unified LLM... |
-| 7 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | Rust | +76 | 3.7k | The fastest and the most accurate file search t... |
-| 8 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +124 | 1.6k |  |
-| 9 | [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) | C++ | +287 | 31.1k | Telegram Desktop messaging app |
-| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +335 | 441.6k | freeCodeCamp.org's open-source codebase and cur... |
+| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +857 | 23.7k | GitNexus: The Zero-Server Code Intelligence Eng... |
+| 2 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +1107 | 18.0k | A gallery that showcases on-device ML/GenAI use... |
+| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +1523 | 38.2k | an open source, extensible AI agent that goes b... |
+| 4 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +483 | 2.1k |  |
+| 5 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | +152 | 97.0k | High performance self-hosted photo and video ma... |
+| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +733 | 36.7k | Shannon Lite is an autonomous, white-box AI pen... |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1574 | 28.4k | The agent that grows with you |
+| 8 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +394 | 18.9k | mini cli search engine for your docs, knowledge... |
+| 9 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Swift | +25 | 8.3k | Telegram-iOS |
+| 10 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | - | +429 | 20.7k | Agent skills for Obsidian. Teach your agent to ... |
+| 11 | [ollama/ollama](https://github.com/ollama/ollama) | Go | +196 | 167.8k | Get up and running with Kimi-K2.5, GLM-5, MiniM... |
+| 12 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +267 | 102.1k | LLM inference in C/C++ |
+| 13 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +1838 | 24.2k | Create stunning demos for free. Open-source, no... |
+| 14 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +295 | 7.4k | PersonaPlex code. |
 
 
 ---
@@ -30,13 +34,14 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | +416 | 4.0k | MLX-VLM is a package for inference and fine-tun... |
-| 2 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | +998 | 25.1k | Open Source AI Platform - AI Chat with advanced... |
-| 3 | [microsoft/agent-framework](https://github.com/microsoft/agent-framework) | +278 | 8.9k | A framework for building, orchestrating and dep... |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +1251 | 26.6k | The agent that grows with you |
-| 5 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | +99 | 15.2k | "RAG-Anything: All-in-One RAG Framework" |
-| 6 | [google-deepmind/gemma](https://github.com/google-deepmind/gemma) | +50 | 4.4k | Gemma open-weight LLM library, from Google Deep... |
-| 7 | [atilaahmettaner/tradingview-mcp](https://github.com/atilaahmettaner/tradingview-mcp) | +39 | 680 | Advanced TradingView MCP Server for AI-powered ... |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +1574 | 28.4k | The agent that grows with you |
+| 2 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | +295 | 7.4k | PersonaPlex code. |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | +164 | 11.6k | "DeepTutor: Agent-Native Personalized Learning ... |
+| 4 | [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm) | +277 | 4.1k | MLX-VLM is a package for inference and fine-tun... |
+| 5 | [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) | +131 | 9.4k | Unofficial Python API and agentic skill for Goo... |
+| 6 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | +175 | 341.7k | Learn how to design large-scale systems. Prep f... |
+| 7 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | +639 | 25.5k | Open Source AI Platform - AI Chat with advanced... |
+| 8 | [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) | +84 | 7.9k | 66 Specialized Skills for Full-Stack Developers... |
 
 
 ---
@@ -46,16 +51,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | +30 | 1.1k | The most comprehensive toolkit for Claude Code ... |
-| 2 | [vercel/next.js](https://github.com/vercel/next.js) | +38 | 138.6k | The React Framework |
-| 3 | [SynkraAI/aiox-core](https://github.com/SynkraAI/aiox-core) | +8 | 2.6k | Synkra AIOS: AI-Orchestrated System for Full St... |
-| 4 | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | +26 | 1.2k | A curated list of Plugins that let you extend C... |
-| 5 | [facebook/react](https://github.com/facebook/react) | +32 | 244.4k | The library for web and native user interfaces. |
-| 6 | [is-a-dev/register](https://github.com/is-a-dev/register) | +8 | 10.1k | Grab your own sweet-looking '.is-a.dev' subdomain. |
-| 7 | [ComposioHQ/open-claude-cowork](https://github.com/ComposioHQ/open-claude-cowork) | +69 | 3.6k | Open Source version of Claude Cowork with 500+ ... |
-| 8 | [maboloshi/github-chinese](https://github.com/maboloshi/github-chinese) | +68 | 22.5k | GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation T... |
-| 9 | [zen-browser/desktop](https://github.com/zen-browser/desktop) | +20 | 41.1k | Welcome to a calmer internet |
-| 10 | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | +31 | 6.3k | https://hf.co/hexgrad/Kokoro-82M |
+| 1 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | +2586 | 143.1k | The agent harness performance optimization syst... |
+| 2 | [is-a-dev/register](https://github.com/is-a-dev/register) | +15 | 10.1k | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| 3 | [heyitsnoah/claudesidian](https://github.com/heyitsnoah/claudesidian) | +10 | 2.1k |  |
+| 4 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | +71 | 24.6k | Vercel's official collection of agent skills |
+| 5 | [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) | +6 | 76.5k | The iconic SVG, font, and CSS toolkit |
+| 6 | [usebruno/bruno](https://github.com/usebruno/bruno) | +40 | 42.7k | Opensource IDE For Exploring and Testing API's ... |
+| 7 | [openwrt/luci](https://github.com/openwrt/luci) | +6 | 7.5k | LuCI - OpenWrt Configuration Interface |
+| 8 | [copy/v86](https://github.com/copy/v86) | +21 | 22.4k | x86 PC emulator and x86-to-wasm JIT, running in... |
+| 9 | [rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit) | +23 | 1.1k | The most comprehensive toolkit for Claude Code ... |
+| 10 | [ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins) | +17 | 1.2k | A curated list of Plugins that let you extend C... |
 
 
 ---
@@ -65,16 +70,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | +2749 | 22.7k | Create stunning demos for free. Open-source, no... |
-| 2 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | +355 | 32.0k | AI agent toolkit: coding agent CLI, unified LLM... |
-| 3 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | +335 | 441.6k | freeCodeCamp.org's open-source codebase and cur... |
-| 4 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | +1231 | 16.7k | OmX - Oh My codeX: Your codex is not alone. Add... |
-| 5 | [yamadashy/repomix](https://github.com/yamadashy/repomix) | +68 | 23.1k | 📦 Repomix is a powerful tool that packs your en... |
-| 6 | [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) | +252 | 1.4k | Now, Stronger AI Pushes Frontiers, Stronger Our... |
-| 7 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | +300 | 46.8k | Real-time global intelligence dashboard. AI-pow... |
-| 8 | [campfirein/byterover-cli](https://github.com/campfirein/byterover-cli) | +96 | 4.2k | ByteRover CLI (brv) - The portable memory layer... |
-| 9 | [microsoft/vscode](https://github.com/microsoft/vscode) | +49 | 183.5k | Visual Studio Code |
-| 10 | [tobi/qmd](https://github.com/tobi/qmd) | +298 | 18.2k | mini cli search engine for your docs, knowledge... |
+| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | +857 | 23.7k | GitNexus: The Zero-Server Code Intelligence Eng... |
+| 2 | [immich-app/immich](https://github.com/immich-app/immich) | +152 | 97.0k | High performance self-hosted photo and video ma... |
+| 3 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | +733 | 36.7k | Shannon Lite is an autonomous, white-box AI pen... |
+| 4 | [tobi/qmd](https://github.com/tobi/qmd) | +394 | 18.9k | mini cli search engine for your docs, knowledge... |
+| 5 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | +1838 | 24.2k | Create stunning demos for free. Open-source, no... |
+| 6 | [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) | +155 | 7.9k | A free and open source instant messaging and Vo... |
+| 7 | [ResearAI/DeepScientist](https://github.com/ResearAI/DeepScientist) | +204 | 1.6k | Now, Stronger AI Pushes Frontiers, Stronger Our... |
+| 8 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | +519 | 32.5k | AI agent toolkit: coding agent CLI, unified LLM... |
+| 9 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | +192 | 47.0k | Real-time global intelligence dashboard. AI-pow... |
+| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | +700 | 442.0k | freeCodeCamp.org's open-source codebase and cur... |
 
 
 ---
@@ -84,16 +89,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [ollama/ollama](https://github.com/ollama/ollama) | +164 | 167.3k | Get up and running with Kimi-K2.5, GLM-5, MiniM... |
-| 2 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | +50 | 32.2k | The universal proxy platform |
-| 3 | [sipeed/picoclaw](https://github.com/sipeed/picoclaw) | +160 | 27.6k | Tiny, Fast, and Deployable anywhere — automate ... |
-| 4 | [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | +46 | 36.6k | Xray, Penetrates Everything. Also the best v2ra... |
-| 5 | [rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI) | +30 | 3.7k | Fast, scriptable CLI for the App Store Connect ... |
-| 6 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | +45 | 30.1k | The easiest, most secure way to use WireGuard a... |
-| 7 | [github/gh-aw](https://github.com/github/gh-aw) | +5 | 4.2k | GitHub Agentic Workflows |
-| 8 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | +68 | 25.5k | Find, verify, and analyze leaked credentials |
-| 9 | [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | +19 | 3.8k | The to-do app to organize your life. |
-| 10 | [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) | +17 | 3.1k | Reliable model swapping for any local OpenAI/An... |
+| 1 | [ollama/ollama](https://github.com/ollama/ollama) | +196 | 167.8k | Get up and running with Kimi-K2.5, GLM-5, MiniM... |
+| 2 | [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) | +90 | 13.9k | MCP Toolbox for Databases is an open source MCP... |
+| 3 | [navidrome/navidrome](https://github.com/navidrome/navidrome) | +26 | 20.3k | 🎧 Your Personal Streaming Service |
+| 4 | [henrygd/beszel](https://github.com/henrygd/beszel) | +62 | 20.6k | Lightweight server monitoring with historical d... |
+| 5 | [syncthing/syncthing](https://github.com/syncthing/syncthing) | +36 | 81.5k | Open Source Continuous File Synchronization |
+| 6 | [github/gh-aw](https://github.com/github/gh-aw) | +10 | 4.2k | GitHub Agentic Workflows |
+| 7 | [golang/go](https://github.com/golang/go) | +24 | 133.3k | The Go programming language |
+| 8 | [SagerNet/sing-box](https://github.com/SagerNet/sing-box) | +55 | 32.2k | The universal proxy platform |
+| 9 | [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) | +28 | 3.9k | The to-do app to organize your life. |
+| 10 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | +23 | 5.2k | Modern Docker Management, Designed for Everyone |
 
 
 ---
@@ -103,16 +108,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [block/goose](https://github.com/block/goose) | +882 | 37.2k | an open source, extensible AI agent that goes b... |
-| 2 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | +76 | 3.7k | The fastest and the most accurate file search t... |
-| 3 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +381 | 27.5k | Browser automation CLI for AI agents |
-| 4 | [rust-lang/rust](https://github.com/rust-lang/rust) | +37 | 111.7k | Empowering everyone to build reliable and effic... |
-| 5 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | +45 | 105.0k | Build smaller, faster, and more secure desktop ... |
-| 6 | [servo/servo](https://github.com/servo/servo) | +21 | 36.2k | Servo aims to empower developers with a lightwe... |
-| 7 | [memvid/memvid](https://github.com/memvid/memvid) | +376 | 14.3k | Memory layer for AI Agents. Replace complex RAG... |
-| 8 | [atuinsh/atuin](https://github.com/atuinsh/atuin) | +8 | 29.0k | ✨ Making your shell magical |
-| 9 | [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) | +19 | 24.5k | An incremental parsing system for programming t... |
-| 10 | [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) | +0 | 1.9k | Counter-Strike: 2 Offset Dumper |
+| 1 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | +1523 | 38.2k | an open source, extensible AI agent that goes b... |
+| 2 | [mayocream/koharu](https://github.com/mayocream/koharu) | +123 | 1.9k | ML-powered manga translator, written in Rust. |
+| 3 | [louis-e/arnis](https://github.com/louis-e/arnis) | +65 | 14.5k | Generate any location from the real world in Mi... |
+| 4 | [zhom/donutbrowser](https://github.com/zhom/donutbrowser) | +41 | 1.3k | Simple Yet Powerful Anti-Detect Browser 🍩 |
+| 5 | [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) | +282 | 3.8k | The fastest and the most accurate file search t... |
+| 6 | [memvid/memvid](https://github.com/memvid/memvid) | +351 | 14.5k | Memory layer for AI Agents. Replace complex RAG... |
+| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +379 | 27.8k | Browser automation CLI for AI agents |
+| 8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | +19 | 6.8k | Data transformation framework for AI. Ultra per... |
+| 9 | [RustPython/RustPython](https://github.com/RustPython/RustPython) | +23 | 22.0k | A Python Interpreter written in Rust |
+| 10 | [biomejs/biome](https://github.com/biomejs/biome) | +10 | 24.2k | A toolchain for web projects, aimed to provide ... |
 
 
 ---
@@ -123,16 +128,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本周 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | +13476 | OmX - Oh My codeX: Your codex is not alone. Add... |
-| 2 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +15128 | A visual, example-driven guide to Claude Code —... |
-| 3 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +10543 | Open-Source Frontier Voice AI |
-| 4 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +12682 | Create stunning demos for free. Open-source, no... |
-| 5 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +4702 | TimesFM (Time Series Foundation Model) is a pre... |
-| 6 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +9112 | Teams-first Multi-agent orchestration for Claud... |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +9940 | The agent that grows with you |
-| 8 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | +4741 | Open Source AI Platform - AI Chat with advanced... |
-| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +5633 | Hunt down social media accounts by username acr... |
-| 10 | [vas3k/TaxHacker](https://github.com/vas3k/TaxHacker) | TypeScript | +2204 | Self-hosted AI accounting app. LLM analyzer for... |
+| 1 | [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | TypeScript | +14247 | OmX - Oh My codeX: Your codex is not alone. Add... |
+| 2 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +14396 | Create stunning demos for free. Open-source, no... |
+| 3 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +12085 | A visual, example-driven guide to Claude Code —... |
+| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +8392 | Open-Source Frontier Voice AI |
+| 5 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +4241 | TimesFM (Time Series Foundation Model) is a pre... |
+| 6 | [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | TypeScript | +7832 | Teams-first Multi-agent orchestration for Claud... |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +9662 | The agent that grows with you |
+| 8 | [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) | Python | +5240 | Open Source AI Platform - AI Chat with advanced... |
+| 9 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +2008 | A gallery that showcases on-device ML/GenAI use... |
+| 10 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +5811 | Hunt down social media accounts by username acr... |
 
 
 ---
@@ -141,13 +146,13 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本月 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +45506 | A Simple and Universal Swarm Intelligence Engin... |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +65886 | A complete AI agency at your fingertips - From ... |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +24111 | The agent that grows with you |
-| 4 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +33890 | An open-source long-horizon SuperAgent harness ... |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +11191 | My personal directory of skills, straight from ... |
-| 6 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +14089 | Automate the process of making money online. |
-| 7 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +15361 | Lightpanda: the headless browser designed for A... |
-| 8 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | +79260 | The agent harness performance optimization syst... |
-| 9 | [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) | JavaScript | +12943 | A Claude Code plugin that shows what's happenin... |
-| 10 | [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) | TypeScript | +27309 | Bash is all you need - A nano claude code–like ... |
+| 1 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +45905 | A Simple and Universal Swarm Intelligence Engin... |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +64098 | A complete AI agency at your fingertips - From ... |
+| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +25584 | The agent that grows with you |
+| 4 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +33924 | An open-source long-horizon SuperAgent harness ... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +11493 | My personal directory of skills, straight from ... |
+| 6 | [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) | Python | +13858 | Automate the process of making money online. |
+| 7 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | +14790 | JavaScript in-page GUI agent. Control web inter... |
+| 8 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +15474 | Lightpanda: the headless browser designed for A... |
+| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +15725 | The design language that makes your AI harness ... |
+| 10 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | +80296 | The agent harness performance optimization syst... |
