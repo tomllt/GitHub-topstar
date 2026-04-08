@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-07 04:06 UTC
+> 最后更新: 2026-04-08 04:08 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +1838 | 24.2k | Create stunning demos for free. Open-... |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1574 | 28.4k | The agent that grows with you |
-| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +1523 | 38.2k | an open source, extensible AI agent t... |
-| 4 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +1107 | 18.0k | A gallery that showcases on-device ML... |
-| 5 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +857 | 23.7k | GitNexus: The Zero-Server Code Intell... |
-| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +733 | 36.7k | Shannon Lite is an autonomous, white-... |
-| 7 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +483 | 2.1k |  |
-| 8 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | - | +429 | 20.7k | Agent skills for Obsidian. Teach your... |
-| 9 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +394 | 18.9k | mini cli search engine for your docs,... |
-| 10 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +295 | 7.4k | PersonaPlex code. |
+| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1195 | 24.7k | GitNexus: The Zero-Server Code Intell... |
+| 2 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +897 | 18.9k | A gallery that showcases on-device ML... |
+| 3 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +859 | 19.7k | mini cli search engine for your docs,... |
+| 4 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +662 | 8.0k | PersonaPlex code. |
+| 5 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | +636 | 10.1k | Create Reddit Videos with just✨ one c... |
+| 6 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +528 | 2.6k |  |
+| 7 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | +215 | 4.0k | A specialized Claude Code workspace f... |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +168 | 12.4k | "DeepTutor: Agent-Native Personalized... |
+| 9 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +51 | 8.2k |  |
+| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 351.4k | Your own personal AI assistant. Any O... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,15 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +857 | GitNexus: The Zero-Server Code Intell... |
-| 2 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +1107 | A gallery that showcases on-device ML... |
-| 3 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +1523 | an open source, extensible AI agent t... |
-| 4 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +483 |  |
-| 5 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | +152 | High performance self-hosted photo an... |
-| 6 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +733 | Shannon Lite is an autonomous, white-... |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1574 | The agent that grows with you |
-| 8 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +394 | mini cli search engine for your docs,... |
-| 9 | [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS) | Swift | +25 | Telegram-iOS |
-| 10 | [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) | - | +429 | Agent skills for Obsidian. Teach your... |
+| 1 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +897 | A gallery that showcases on-device ML... |
+| 2 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +528 |  |
+| 3 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +662 | PersonaPlex code. |
+| 4 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1195 | GitNexus: The Zero-Server Code Intell... |
+| 5 | [tobi/qmd](https://github.com/tobi/qmd) | TypeScript | +859 | mini cli search engine for your docs,... |
+| 6 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +51 |  |
+| 7 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | +636 | Create Reddit Videos with just✨ one c... |
+| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +168 | "DeepTutor: Agent-Native Personalized... |
+| 9 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | +215 | A specialized Claude Code workspace f... |
 
 
 [查看更多 →](trending/)
