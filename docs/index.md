@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-09 04:04 UTC
+> 最后更新: 2026-04-10 04:25 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2028 | 141.9k | An agentic skills framework & softwar... |
-| 2 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +980 | 25.4k | GitNexus: The Zero-Server Code Intell... |
-| 3 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +853 | 19.6k | A gallery that showcases on-device ML... |
-| 4 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +702 | 9.2k |  |
-| 5 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | +649 | 4.7k | A specialized Claude Code workspace f... |
-| 6 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +586 | 8.5k | PersonaPlex code. |
-| 7 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | +555 | 10.6k | Create Reddit Videos with just✨ one c... |
-| 8 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +501 | 3.0k |  |
-| 9 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +151 | 50.8k | An AI Hedge Fund Team |
-| 10 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | +91 | 4.1k | An open-source, GPU-accelerated physi... |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +6485 | 46.1k | The agent that grows with you |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2299 | 144.1k | An agentic skills framework & softwar... |
+| 3 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +1364 | 10.7k | A single CLAUDE.md file to improve Cl... |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1310 | 15.1k | "DeepTutor: Agent-Native Personalized... |
+| 5 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | +1124 | 14.0k | PDF Parser for AI-ready data. Automat... |
+| 6 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | +725 | 5.3k | A specialized Claude Code workspace f... |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +496 | 7.8k | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +245 | 12.3k | Kronos: A Foundation Model for the La... |
+| 9 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | +200 | 6.9k | An Obsidian plugin that embeds Claude... |
+| 10 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | +185 | 14.5k | The first open-source harness builder... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +702 |  |
-| 2 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | +649 | A specialized Claude Code workspace f... |
-| 3 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +853 | A gallery that showcases on-device ML... |
-| 4 | [NVIDIA/personaplex](https://github.com/NVIDIA/personaplex) | Python | +586 | PersonaPlex code. |
-| 5 | [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) | C++ | +501 |  |
-| 6 | [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) | Python | +555 | Create Reddit Videos with just✨ one c... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2028 | An agentic skills framework & softwar... |
-| 8 | [newton-physics/newton](https://github.com/newton-physics/newton) | Python | +91 | An open-source, GPU-accelerated physi... |
-| 9 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +980 | GitNexus: The Zero-Server Code Intell... |
-| 10 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +151 | An AI Hedge Fund Team |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +6485 | The agent that grows with you |
+| 2 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +1364 | A single CLAUDE.md file to improve Cl... |
+| 3 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1310 | "DeepTutor: Agent-Native Personalized... |
+| 4 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +496 | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 5 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | +1124 | PDF Parser for AI-ready data. Automat... |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2299 | An agentic skills framework & softwar... |
+| 7 | [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine) | Python | +725 | A specialized Claude Code workspace f... |
+| 8 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | +185 | The first open-source harness builder... |
+| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +245 | Kronos: A Foundation Model for the La... |
+| 10 | [YishenTu/claudian](https://github.com/YishenTu/claudian) | TypeScript | +200 | An Obsidian plugin that embeds Claude... |
 
 
 [查看更多 →](trending/)
