@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-16 04:31 UTC
+> 最后更新: 2026-04-17 04:29 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +9646 | 44.2k | A single CLAUDE.md file to improve Cl... |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +2305 | 58.1k | A Claude Code plugin that automatical... |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2055 | 154.6k | An agentic skills framework & softwar... |
-| 4 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +1391 | 12.8k | Create and share 3D architectural pro... |
-| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +1062 | 18.4k | The open-source voice synthesis studio |
-| 6 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +1058 | 55.2k | An AI Hedge Fund Team |
-| 7 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +950 | 423.5k | A collective list of free APIs |
-| 8 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +941 | 29.8k | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 9 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | +915 | 2.7k | An open source template for building ... |
-| 10 | [google/magika](https://github.com/google/magika) | Python | +768 | 13.9k | Fast and accurate AI powered file con... |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +7959 | 50.9k | A single CLAUDE.md file to improve Cl... |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1897 | 60.2k | A Claude Code plugin that automatical... |
+| 3 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +1385 | 30.9k | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +880 | 19.2k | The open-source voice synthesis studio |
+| 5 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | +872 | 2.9k | Self-evolving agent: grows skill tree... |
+| 6 | [google/magika](https://github.com/google/magika) | Python | +854 | 14.9k | Fast and accurate AI powered file con... |
+| 7 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | +812 | 3.3k | The GEP-Powered Self-Evolution Engine... |
+| 8 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | +738 | 3.3k | An open source template for building ... |
+| 9 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | +378 | 9.2k | AI that sees your screen, listens to ... |
+| 10 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | +375 | 2.4k | Claude Code skill to support Android ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +9646 | A single CLAUDE.md file to improve Cl... |
-| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +1391 | Create and share 3D architectural pro... |
-| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +2305 | A Claude Code plugin that automatical... |
-| 4 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +941 | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 5 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +1058 | An AI Hedge Fund Team |
-| 6 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | +606 | Original Apollo 11 Guidance Computer ... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +2055 | An agentic skills framework & softwar... |
-| 8 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +1062 | The open-source voice synthesis studio |
-| 9 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +950 | A collective list of free APIs |
-| 10 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | +915 | An open source template for building ... |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +7959 | A single CLAUDE.md file to improve Cl... |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1897 | A Claude Code plugin that automatical... |
+| 3 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | +872 | Self-evolving agent: grows skill tree... |
+| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +880 | The open-source voice synthesis studio |
+| 5 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | +738 | An open source template for building ... |
+| 6 | [google/magika](https://github.com/google/magika) | Python | +854 | Fast and accurate AI powered file con... |
+| 7 | [steipete/wacli](https://github.com/steipete/wacli) | Go | +321 | WhatsApp CLI |
+| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | +170 | Knowledge Engine for AI Agent Memory ... |
+| 9 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | +195 | DFlash: Block Diffusion for Flash Spe... |
+| 10 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +1385 | 《动手学大模型Dive into LLMs》系列编程实践教程 |
 
 
 [查看更多 →](trending/)
