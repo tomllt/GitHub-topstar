@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-19 04:31 UTC
+> 最后更新: 2026-04-20 04:37 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | +1131 | 5.1k | The GEP-Powered Self-Evolution Engine... |
-| 2 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | +609 | 10.6k | AI that sees your screen, listens to ... |
-| 3 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +547 | 32.1k | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 4 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | +470 | 22.4k | A lightweight, powerful framework for... |
-| 5 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | +447 | 1.7k | AI You Control: Choose your models. O... |
-| 6 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | +403 | 3.2k | Claude Code skill to support Android ... |
-| 7 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | Rust | +393 | 112.1k | An open-source remote desktop applica... |
-| 8 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | +135 | 771 | Enterprise Architecture Governance & ... |
-| 9 | [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Shell | +44 | 3.5k | Claude Desktop for Debian-based Linux... |
-| 10 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | +31 | 6.6k | DeepGEMM: clean and efficient FP8 GEM... |
+| 1 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +1254 | 7.1k | FinceptTerminal is a modern finance a... |
+| 2 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | +752 | 23.3k | A lightweight, powerful framework for... |
+| 3 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +704 | 13.7k | Turn Claude Code into a full game dev... |
+| 4 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | +695 | 2.3k | AI You Control: Choose your models. O... |
+| 5 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | +685 | 11.3k | AI that sees your screen, listens to ... |
+| 6 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | +527 | 5.7k | The GEP-Powered Self-Evolution Engine... |
+| 7 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | +393 | 39.0k | A community-supported supercharged do... |
+| 8 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | +263 | 1.1k | Enterprise Architecture Governance & ... |
+| 9 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +149 | 47.6k | π RuView: WiFi DensePose turns commod... |
+| 10 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +109 | 10.0k |  |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | +447 | AI You Control: Choose your models. O... |
-| 2 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | +609 | AI that sees your screen, listens to ... |
-| 3 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | +470 | A lightweight, powerful framework for... |
-| 4 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | +1131 | The GEP-Powered Self-Evolution Engine... |
-| 5 | [deepseek-ai/DeepGEMM](https://github.com/deepseek-ai/DeepGEMM) | Cuda | +31 | DeepGEMM: clean and efficient FP8 GEM... |
-| 6 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +547 | 《动手学大模型Dive into LLMs》系列编程实践教程 |
-| 7 | [aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) | Shell | +44 | Claude Desktop for Debian-based Linux... |
-| 8 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | Rust | +393 | An open-source remote desktop applica... |
-| 9 | [SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill) | Shell | +403 | Claude Code skill to support Android ... |
-| 10 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | +135 | Enterprise Architecture Governance & ... |
+| 1 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +1254 | FinceptTerminal is a modern finance a... |
+| 2 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | +695 | AI You Control: Choose your models. O... |
+| 3 | [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit) | HTML | +263 | Enterprise Architecture Governance & ... |
+| 4 | [openai/openai-agents-python](https://github.com/openai/openai-agents-python) | Python | +752 | A lightweight, powerful framework for... |
+| 5 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +109 |  |
+| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | +393 | A community-supported supercharged do... |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +149 | π RuView: WiFi DensePose turns commod... |
+| 8 | [EvoMap/evolver](https://github.com/EvoMap/evolver) | JavaScript | +527 | The GEP-Powered Self-Evolution Engine... |
+| 9 | [BasedHardware/omi](https://github.com/BasedHardware/omi) | Dart | +685 | AI that sees your screen, listens to ... |
+| 10 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +704 | Turn Claude Code into a full game dev... |
 
 
 [查看更多 →](trending/)
