@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-22 04:25 UTC
+> 最后更新: 2026-04-23 04:30 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +2548 | 11.9k | FinceptTerminal is a modern finance a... |
-| 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +824 | 49.0k | π RuView: WiFi DensePose turns commod... |
-| 3 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | +596 | 3.5k | AI You Control: Choose your models. O... |
-| 4 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | +534 | 53.9k | ⭐AI-driven public opinion & trend mon... |
-| 5 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | +200 | 57.9k | 12 Lessons to Get Started Building AI... |
-| 6 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | +169 | 6.8k | Code search MCP for Claude Code. Make... |
-| 7 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | +162 | 17.0k | "RAG-Anything: All-in-One RAG Framework" |
-| 8 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | - | +139 | 17.0k | A curated collection of 1000+ agent s... |
-| 9 | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | Logos | +55 | 4.9k | A flexible enhancer for YouTube on iOS |
-| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 443.3k | freeCodeCamp.org's open-source codeba... |
+| 1 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +1772 | 13.3k | FinceptTerminal is a modern finance a... |
+| 2 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | +969 | 54.6k | ⭐AI-driven public opinion & trend mon... |
+| 3 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | +871 | 7.7k | Code search MCP for Claude Code. Make... |
+| 4 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | +786 | 17.7k | "RAG-Anything: All-in-One RAG Framework" |
+| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +565 | 49.4k | π RuView: WiFi DensePose turns commod... |
+| 6 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | +521 | 12.3k | OpenMetadata is a unified metadata pl... |
+| 7 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | +518 | 59.9k | ALL IN ONE Hacking Tool For Hackers |
+| 8 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | +424 | 51.8k | Real-time global intelligence dashboa... |
+| 9 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +372 | 39.7k | Shannon Lite is an autonomous, white-... |
+| 10 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | +333 | 15.6k | The open agent skills tool - npx skills |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,15 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +2548 | FinceptTerminal is a modern finance a... |
-| 2 | [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt) | TypeScript | +596 | AI You Control: Choose your models. O... |
-| 3 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | +169 | Code search MCP for Claude Code. Make... |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +824 | π RuView: WiFi DensePose turns commod... |
-| 5 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | +200 | 12 Lessons to Get Started Building AI... |
-| 6 | [dayanch96/YTLite](https://github.com/dayanch96/YTLite) | Logos | +55 | A flexible enhancer for YouTube on iOS |
-| 7 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | +162 | "RAG-Anything: All-in-One RAG Framework" |
-| 8 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | +534 | ⭐AI-driven public opinion & trend mon... |
-| 9 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | - | +139 | A curated collection of 1000+ agent s... |
+| 1 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | +871 | Code search MCP for Claude Code. Make... |
+| 2 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +1772 | FinceptTerminal is a modern finance a... |
+| 3 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | +424 | Real-time global intelligence dashboa... |
+| 4 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | TypeScript | +149 | 🪢 Open source LLM engineering platfor... |
+| 5 | [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) | TypeScript | +372 | Shannon Lite is an autonomous, white-... |
+| 6 | [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata) | TypeScript | +521 | OpenMetadata is a unified metadata pl... |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +565 | π RuView: WiFi DensePose turns commod... |
+| 8 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | +786 | "RAG-Anything: All-in-One RAG Framework" |
+| 9 | [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) | Python | +969 | ⭐AI-driven public opinion & trend mon... |
+| 10 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | +308 | 🚀 AI 全自动短视频引擎 / AI Fully Automated Sh... |
 
 
 [查看更多 →](trending/)
