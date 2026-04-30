@@ -5,25 +5,28 @@ title: GitHub Trending
 
 # GitHub Trending 热门推荐
 
-> 更新时间: 2026-04-29 04:47 UTC
+> 更新时间: 2026-04-30 04:49 UTC
 
 ## 今日热门 (全语言)
 
 | 排名 | 项目 | 语言 | 今日 Star | 总 Star | 描述 |
 |------|------|------|-----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +7321 | 38.6k | Skills for Real Engineers. Straight from my .cl... |
-| 2 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1607 | 32.8k | GitNexus: The Zero-Server Code Intelligence Eng... |
-| 3 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | +953 | 4.2k | A curated list of practical Codex skills for au... |
-| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1483 | 45.0k | Open-Source Frontier Voice AI |
-| 5 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +346 | 26.2k | CLI tool for configuring and monitoring Claude ... |
-| 6 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +967 | 10.8k | Useful tool to track location or mobile number |
-| 7 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | +162 | 1.8k | 🎵 The Ultimate Open Source Suno Alternative - P... |
-| 8 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +644 | 428.4k | A collective list of free APIs |
-| 9 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +417 | 2.4k | Deepseek to API: A lightweight, high-performanc... |
-| 10 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1741 | 17.7k | Use claude-code for free in the terminal, VSCod... |
-| 11 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | +744 | 345.9k | Learn how to design large-scale systems. Prep f... |
-| 12 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | +147 | 386.7k | 📚 Freely available programming books |
-| 13 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | Kotlin | +699 | 12.2k | 🪐 Markdown with superpowers: from ideas to pape... |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | +12822 | 45.2k | Warp is an agentic development environment, bor... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +7280 | 45.7k | Skills for Real Engineers. Straight from my .cl... |
+| 3 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +1033 | 11.7k | Useful tool to track location or mobile number |
+| 4 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | +1177 | 4.9k | A curated list of practical Codex skills for au... |
+| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +411 | 1.5k | Coding Agent Harness |
+| 6 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +774 | 33.4k | GitNexus: The Zero-Server Code Intelligence Eng... |
+| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1690 | 45.8k | Open-Source Frontier Voice AI |
+| 8 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +465 | 2.8k | Deepseek to API: A lightweight, high-performanc... |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1653 | 173.4k | An agentic skills framework & software developm... |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +294 | 33.0k | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多... |
+| 11 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | TypeScript | +393 | 5.4k |  |
+| 12 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | +604 | 387.3k | 📚 Freely available programming books |
+| 13 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | +79 | 20.4k | 🕵️‍♂️ Collect a dossier on a person by username... |
+| 14 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +269 | 19.5k | Invidious is an alternative front-end to YouTube |
+| 15 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | JavaScript | +391 | 64.1k | uBlock Origin - An efficient blocker for Chromi... |
+| 16 | [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | C# | +102 | 132.5k | Microsoft PowerToys is a collection of utilitie... |
 
 
 ---
@@ -33,16 +36,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | +953 | 4.2k | A curated list of practical Codex skills for au... |
-| 2 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | +1483 | 45.0k | Open-Source Frontier Voice AI |
-| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | +346 | 26.2k | CLI tool for configuring and monitoring Claude ... |
-| 4 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | +967 | 10.8k | Useful tool to track location or mobile number |
-| 5 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | +644 | 428.4k | A collective list of free APIs |
-| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +1741 | 17.7k | Use claude-code for free in the terminal, VSCod... |
-| 7 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | +744 | 345.9k | Learn how to design large-scale systems. Prep f... |
-| 8 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | +147 | 386.7k | 📚 Freely available programming books |
-| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +278 | 32.3k | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多... |
-| 10 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | +932 | 54.5k | TradingAgents: Multi-Agents LLM Financial Tradi... |
+| 1 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | +1033 | 11.7k | Useful tool to track location or mobile number |
+| 2 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | +1177 | 4.9k | A curated list of practical Codex skills for au... |
+| 3 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | +1690 | 45.8k | Open-Source Frontier Voice AI |
+| 4 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | +294 | 33.0k | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多... |
+| 5 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | +604 | 387.3k | 📚 Freely available programming books |
+| 6 | [soxoj/maigret](https://github.com/soxoj/maigret) | +79 | 20.4k | 🕵️‍♂️ Collect a dossier on a person by username... |
+| 7 | [neuphonic/neutts](https://github.com/neuphonic/neutts) | +67 | 5.7k | On-device TTS model by Neuphonic |
+| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | +386 | 56.0k | TradingAgents: Multi-Agents LLM Financial Tradi... |
+| 9 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | +578 | 346.3k | Learn how to design large-scale systems. Prep f... |
+| 10 | [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt) | +27 | 5.2k | NanoGPT (124M) in 90 seconds |
 
 
 ---
@@ -52,16 +55,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | +162 | 1.8k | 🎵 The Ultimate Open Source Suno Alternative - P... |
-| 2 | [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) | +535 | 58.5k | A light-weight and powerful meta-prompting, con... |
-| 3 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | +71 | 14.5k | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支... |
-| 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | +8 | 37.8k | ToolJet is the open-source foundation of ToolJe... |
-| 5 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | +569 | 63.8k | uBlock Origin - An efficient blocker for Chromi... |
-| 6 | [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) | +22 | 8.0k | Awesome curated collection of images and prompt... |
-| 7 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | +83 | 12.7k | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw ... |
-| 8 | [copy/v86](https://github.com/copy/v86) | +43 | 22.7k | x86 PC emulator and x86-to-wasm JIT, running in... |
-| 9 | [nodejs/node](https://github.com/nodejs/node) | +23 | 117.0k | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 10 | [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern) | +110 | 26.6k | LLM Frontend for Power Users. |
+| 1 | [gorhill/uBlock](https://github.com/gorhill/uBlock) | +391 | 64.1k | uBlock Origin - An efficient blocker for Chromi... |
+| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +635 | 23.5k | The design language that makes your AI harness ... |
+| 3 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | +672 | 2.1k | 🎵 The Ultimate Open Source Suno Alternative - P... |
+| 4 | [copy/v86](https://github.com/copy/v86) | +30 | 22.7k | x86 PC emulator and x86-to-wasm JIT, running in... |
+| 5 | [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | +6 | 12.3k | Community curated list of templates for the nuc... |
+| 6 | [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) | +29 | 5.6k | 小红书爬虫数据采集，小红书全域运营解决方案 |
+| 7 | [UseInterstellar/Interstellar](https://github.com/UseInterstellar/Interstellar) | +8 | 2.0k | One of the most popular modern web proxies with... |
+| 8 | [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) | +22 | 8.8k | A collaborative list of public APIs for developers |
+| 9 | [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) | +9 | 12.7k | mailcow: dockerized - 🐮 + 🐋 = 💕 |
+| 10 | [ltaoo/wx_channels_download](https://github.com/ltaoo/wx_channels_download) | +18 | 5.6k | 微信视频号下载器 |
 
 
 ---
@@ -71,16 +74,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | +1607 | 32.8k | GitNexus: The Zero-Server Code Intelligence Eng... |
-| 2 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | +62 | 36.2k | Enhanced ChatGPT Clone: Features Agents, MCP, D... |
-| 3 | [xiaoY233/Chat2API](https://github.com/xiaoY233/Chat2API) | +18 | 440 | Chat2API enables zero-cost access to leading AI... |
-| 4 | [tldraw/tldraw](https://github.com/tldraw/tldraw) | +47 | 46.7k | very good whiteboard infinite canvas SDK |
-| 5 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +676 | 366.0k | Your own personal AI assistant. Any OS. Any Pla... |
-| 6 | [badlogic/pi-mono](https://github.com/badlogic/pi-mono) | +599 | 42.3k | AI agent toolkit: coding agent CLI, unified LLM... |
-| 7 | [novuhq/novu](https://github.com/novuhq/novu) | +13 | 38.9k | The open-source notification infrastructure. In... |
-| 8 | [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) | +96 | 33.2k | Use Claude Code as the foundation for coding in... |
-| 9 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | +113 | 115.6k | Collection of publicly available IPTV channels ... |
-| 10 | [mui/base-ui](https://github.com/mui/base-ui) | +121 | 9.5k | Unstyled UI components for building accessible ... |
+| 1 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | +774 | 33.4k | GitNexus: The Zero-Server Code Intelligence Eng... |
+| 2 | [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) | +393 | 5.4k |  |
+| 3 | [vercel-labs/portless](https://github.com/vercel-labs/portless) | +358 | 8.5k | Replace port numbers with stable, named local U... |
+| 4 | [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) | +41 | 2.1k | CC GUI 客户端（专为开发者打造的VibeCoding平台） |
+| 5 | [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) | +170 | 31.8k | Playwright MCP server |
+| 6 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | +370 | 44.1k | Spec-driven development (SDD) for AI coding ass... |
+| 7 | [getumbrel/umbrel](https://github.com/getumbrel/umbrel) | +12 | 11.1k | An elegant home server OS. Run OpenClaw, store ... |
+| 8 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | +48 | 3.3k | Become a cracked AI/ML Research Engineer |
+| 9 | [ExplosiveCoderflome/AI-Novel-Writing-Assistant](https://github.com/ExplosiveCoderflome/AI-Novel-Writing-Assistant) | +43 | 1.0k | 面向长篇小说创作的 AI Native 开源系统，用 Agent、世界观、写法引擎、RAG 和... |
+| 10 | [upstash/context7](https://github.com/upstash/context7) | +108 | 54.1k | Context7 Platform -- Up-to-date code documentat... |
 
 
 ---
@@ -90,16 +93,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | +417 | 2.4k | Deepseek to API: A lightweight, high-performanc... |
-| 2 | [putyy/res-downloader](https://github.com/putyy/res-downloader) | +44 | 17.0k | 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! |
-| 3 | [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) | +28 | 5.3k | 🌤️ OpenCloud is the open source platform for fi... |
-| 4 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | +271 | 29.6k | A unified AI model hub for aggregation & distri... |
-| 5 | [gastownhall/beads](https://github.com/gastownhall/beads) | +409 | 22.5k | Beads - A memory upgrade for your coding agent |
-| 6 | [keploy/keploy](https://github.com/keploy/keploy) | +48 | 17.2k | Open-source platform for creating safe, isolate... |
-| 7 | [knadh/listmonk](https://github.com/knadh/listmonk) | +48 | 19.8k | High performance, self-hosted, newsletter and m... |
-| 8 | [dstotijn/hetty](https://github.com/dstotijn/hetty) | +151 | 10.1k | An HTTP toolkit for security research. |
-| 9 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | +53 | 23.6k | Glamourous agentic coding for all 💘 |
-| 10 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | +171 | 6.6k | Bridge local AI coding agents (Claude Code, Cur... |
+| 1 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | +465 | 2.8k | Deepseek to API: A lightweight, high-performanc... |
+| 2 | [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) | +41 | 32.0k | SeaweedFS is a distributed storage system for o... |
+| 3 | [gastownhall/beads](https://github.com/gastownhall/beads) | +161 | 22.7k | Beads - A memory upgrade for your coding agent |
+| 4 | [everywall/ladder](https://github.com/everywall/ladder) | +713 | 7.3k | Selfhosted alternative to 12ft.io. and 1ft.io. ... |
+| 5 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | +151 | 6.8k | Bridge local AI coding agents (Claude Code, Cur... |
+| 6 | [cloudwego/eino](https://github.com/cloudwego/eino) | +26 | 11.0k | The ultimate LLM/AI application development fra... |
+| 7 | [meshery/meshery](https://github.com/meshery/meshery) | +6 | 10.2k | Meshery, the cloud native manager |
+| 8 | [dagger/dagger](https://github.com/dagger/dagger) | +15 | 15.7k | Automation engine to build, test and ship any c... |
+| 9 | [Agent-Field/agentfield](https://github.com/Agent-Field/agentfield) | +44 | 1.6k | Build, run and scale AI agents like API and mic... |
+| 10 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | +258 | 29.8k | A unified AI model hub for aggregation & distri... |
 
 
 ---
@@ -109,16 +112,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +1516 | 54.7k | A cross-platform desktop All-in-One assistant t... |
-| 2 | [zhom/donutbrowser](https://github.com/zhom/donutbrowser) | +113 | 2.1k | Simple Yet Powerful Anti-Detect Browser 🍩 |
-| 3 | [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager) | +57 | 1.8k | 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。 |
-| 4 | [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | +46 | 4.7k | ⚡ Python-free Rust inference server — OpenAI-AP... |
-| 5 | [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo) | +14 | 6.7k | A Datacenter Scale Distributed Inference Servin... |
-| 6 | [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) | +1 | 7.8k | Kata Containers is an open source project and c... |
-| 7 | [BoundaryML/baml](https://github.com/BoundaryML/baml) | +7 | 8.1k | The AI framework that adds the engineering to p... |
-| 8 | [juspay/hyperswitch](https://github.com/juspay/hyperswitch) | +7 | 42.6k | An open source payments switch written in Rust ... |
-| 9 | [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) | +8 | 5.6k | A Virtual Machine Monitor for modern Cloud work... |
-| 10 | [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) | +19 | 16.3k | A Rust compiler front-end for IDEs |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | +12822 | 45.2k | Warp is an agentic development environment, bor... |
+| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | +411 | 1.5k | Coding Agent Harness |
+| 3 | [farion1231/cc-switch](https://github.com/farion1231/cc-switch) | +1252 | 55.8k | A cross-platform desktop All-in-One assistant t... |
+| 4 | [memvid/memvid](https://github.com/memvid/memvid) | +43 | 15.3k | Memory layer for AI Agents. Replace complex RAG... |
+| 5 | [njbrake/agent-of-empires](https://github.com/njbrake/agent-of-empires) | +36 | 1.8k | Manage multiple Claude Code, OpenCode agents fr... |
+| 6 | [openai/codex](https://github.com/openai/codex) | +331 | 79.0k | Lightweight coding agent that runs in your term... |
+| 7 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | +124 | 26.8k | 🚀2.3x faster than MinIO for 4KB object payloads... |
+| 8 | [qxcnm/Codex-Manager](https://github.com/qxcnm/Codex-Manager) | +36 | 1.8k | 一个Codex cli 账号管理与切换工具。为 Codex cli提供本地网关转发。 |
+| 9 | [iii-hq/iii](https://github.com/iii-hq/iii) | +53 | 15.4k | iii unifies your existing backend stack with a ... |
+| 10 | [agentgateway/agentgateway](https://github.com/agentgateway/agentgateway) | +16 | 2.5k | Next Generation Agentic Proxy for AI Agents and... |
 
 
 ---
@@ -129,16 +132,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本周 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +15110 | Use claude-code for free in the terminal, VSCod... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +18218 | Skills for Real Engineers. Straight from my .cl... |
-| 3 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | +9252 | ALL IN ONE Hacking Tool For Hackers |
-| 4 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +25836 | A single CLAUDE.md file to improve Claude Code ... |
-| 5 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | +3767 | Code search MCP for Claude Code. Make entire co... |
-| 6 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +5926 | FinceptTerminal is a modern finance application... |
-| 7 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | +2330 | 🚀 AI 全自动短视频引擎 / AI Fully Automated Short Video ... |
-| 8 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | +4071 | Uncensored, open-source alternative to Higgsfie... |
-| 9 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | +2620 | Self-evolving agent: grows skill tree from 3.3K... |
-| 10 | [HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything) | Python | +2645 | "RAG-Anything: All-in-One RAG Framework" |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +16154 | Use claude-code for free in the terminal, VSCod... |
+| 2 | [huggingface/ml-intern](https://github.com/huggingface/ml-intern) | Python | +6388 | 🤗 ml-intern: an open-source ML engineer that re... |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +24702 | Skills for Real Engineers. Straight from my .cl... |
+| 4 | [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) | Python | +9428 | ALL IN ONE Hacking Tool For Hackers |
+| 5 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +24129 | A single CLAUDE.md file to improve Claude Code ... |
+| 6 | [zilliztech/claude-context](https://github.com/zilliztech/claude-context) | TypeScript | +3151 | Code search MCP for Claude Code. Make entire co... |
+| 7 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +5117 | FinceptTerminal is a modern finance application... |
+| 8 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +1415 | Deepseek to API: A lightweight, high-performanc... |
+| 9 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | +2445 | 🚀 AI 全自动短视频引擎 / AI Fully Automated Short Video ... |
+| 10 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | +3823 | Uncensored, open-source alternative to Higgsfie... |
 
 
 ---
@@ -147,13 +150,13 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本月 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +88829 | A single CLAUDE.md file to improve Claude Code ... |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +107890 | The agent that grows with you |
-| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +15944 | Use claude-code for free in the terminal, VSCod... |
-| 4 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +10628 | Kronos: A Foundation Model for the Language of ... |
-| 5 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +11653 | "DeepTutor: Agent-Native Personalized Learning ... |
-| 6 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +14039 | FinceptTerminal is a modern finance application... |
-| 7 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +24564 | Create stunning demos for free. Open-source, no... |
-| 8 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +6809 | A gallery that showcases on-device ML/GenAI use... |
-| 9 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | +6309 | The first open-source harness builder for AI co... |
-| 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +25993 | Python tool for converting files and office doc... |
+| 1 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +91463 | A single CLAUDE.md file to improve Claude Code ... |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +109206 | The agent that grows with you |
+| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +17106 | Use claude-code for free in the terminal, VSCod... |
+| 4 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +14863 | FinceptTerminal is a modern finance application... |
+| 5 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +11789 | "DeepTutor: Agent-Native Personalized Learning ... |
+| 6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +10729 | Kronos: A Foundation Model for the Language of ... |
+| 7 | [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) | Kotlin | +6868 | A gallery that showcases on-device ML/GenAI use... |
+| 8 | [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) | TypeScript | +24784 | Create stunning demos for free. Open-source, no... |
+| 9 | [coleam00/Archon](https://github.com/coleam00/Archon) | TypeScript | +6446 | The first open-source harness builder for AI co... |
+| 10 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +26298 | Python tool for converting files and office doc... |

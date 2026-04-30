@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-04-29 04:47 UTC
+> 最后更新: 2026-04-30 04:49 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +7321 | 38.6k | Skills for Real Engineers. Straight f... |
-| 2 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1741 | 17.7k | Use claude-code for free in the termi... |
-| 3 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1607 | 32.8k | GitNexus: The Zero-Server Code Intell... |
-| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1483 | 45.0k | Open-Source Frontier Voice AI |
-| 5 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +967 | 10.8k | Useful tool to track location or mobi... |
-| 6 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | +953 | 4.2k | A curated list of practical Codex ski... |
-| 7 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Python | +744 | 345.9k | Learn how to design large-scale syste... |
-| 8 | [iamgio/quarkdown](https://github.com/iamgio/quarkdown) | Kotlin | +699 | 12.2k | 🪐 Markdown with superpowers: from ide... |
-| 9 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +644 | 428.4k | A collective list of free APIs |
-| 10 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +417 | 2.4k | Deepseek to API: A lightweight, high-... |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | +12822 | 45.2k | Warp is an agentic development enviro... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +7280 | 45.7k | Skills for Real Engineers. Straight f... |
+| 3 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1690 | 45.8k | Open-Source Frontier Voice AI |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1653 | 173.4k | An agentic skills framework & softwar... |
+| 5 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | +1177 | 4.9k | A curated list of practical Codex ski... |
+| 6 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +1033 | 11.7k | Useful tool to track location or mobi... |
+| 7 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +774 | 33.4k | GitNexus: The Zero-Server Code Intell... |
+| 8 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Python | +604 | 387.3k | 📚 Freely available programming books |
+| 9 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +465 | 2.8k | Deepseek to API: A lightweight, high-... |
+| 10 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +411 | 1.5k | Coding Agent Harness |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +7321 | Skills for Real Engineers. Straight f... |
-| 2 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +1607 | GitNexus: The Zero-Server Code Intell... |
-| 3 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | +953 | A curated list of practical Codex ski... |
-| 4 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1483 | Open-Source Frontier Voice AI |
-| 5 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +346 | CLI tool for configuring and monitori... |
-| 6 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +967 | Useful tool to track location or mobi... |
-| 7 | [fspecii/ace-step-ui](https://github.com/fspecii/ace-step-ui) | JavaScript | +162 | 🎵 The Ultimate Open Source Suno Alter... |
-| 8 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +644 | A collective list of free APIs |
-| 9 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +417 | Deepseek to API: A lightweight, high-... |
-| 10 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1741 | Use claude-code for free in the termi... |
+| 1 | [warpdotdev/warp](https://github.com/warpdotdev/warp) | Rust | +12822 | Warp is an agentic development enviro... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +7280 | Skills for Real Engineers. Straight f... |
+| 3 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +1033 | Useful tool to track location or mobi... |
+| 4 | [ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills) | Python | +1177 | A curated list of practical Codex ski... |
+| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +411 | Coding Agent Harness |
+| 6 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +774 | GitNexus: The Zero-Server Code Intell... |
+| 7 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +1690 | Open-Source Frontier Voice AI |
+| 8 | [CJackHwang/ds2api](https://github.com/CJackHwang/ds2api) | Go | +465 | Deepseek to API: A lightweight, high-... |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1653 | An agentic skills framework & softwar... |
+| 10 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +294 | LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LL... |
 
 
 [查看更多 →](trending/)
