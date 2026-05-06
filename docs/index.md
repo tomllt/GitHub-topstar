@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-05 04:33 UTC
+> 最后更新: 2026-05-06 04:51 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2598 | 41.7k | 🌊 The leading agent orchestration pla... |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +2182 | 67.8k | TradingAgents: Multi-Agents LLM Finan... |
-| 3 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +1274 | 4.4k | Coding agent for DeepSeek models that... |
-| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1189 | 92.8k | A complete AI agency at your fingerti... |
-| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | +1119 | 25.0k | 🕵️‍♂️ Collect a dossier on a person b... |
-| 6 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +548 | 4.0k | Coding Agent Harness |
-| 7 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +535 | 13.4k | Open source DocuSign alternative. Cre... |
-| 8 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | +496 | 20.0k | A MCP for Claude Desktop / Claude Cod... |
-| 9 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +409 | 23.3k | An autonomous agent for deep financia... |
-| 10 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | +320 | 2.2k | Claude Agent SDK with a web browsing ... |
+| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +2434 | 8.9k | Coding agent for DeepSeek models that... |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2432 | 44.0k | 🌊 The leading agent orchestration pla... |
+| 3 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +2409 | 114.5k | A single CLAUDE.md file to improve Cl... |
+| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1218 | 93.8k | A complete AI agency at your fingerti... |
+| 5 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +927 | 14.1k | Open source DocuSign alternative. Cre... |
+| 6 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | +691 | 12.0k | 🚀 AI 全自动短视频引擎 / AI Fully Automated Sh... |
+| 7 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +659 | 23.9k | An autonomous agent for deep financia... |
+| 8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | +438 | 8.5k | Incremental engine for long horizon a... |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +366 | 345.9k | A complete computer science study pla... |
+| 10 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | +321 | 7.9k | VSCode theme based off the easemate I... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2598 | 🌊 The leading agent orchestration pla... |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +2182 | TradingAgents: Multi-Agents LLM Finan... |
-| 3 | [browserbase/skills](https://github.com/browserbase/skills) | JavaScript | +320 | Claude Agent SDK with a web browsing ... |
-| 4 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +1274 | Coding agent for DeepSeek models that... |
-| 5 | [soxoj/maigret](https://github.com/soxoj/maigret) | Python | +1119 | 🕵️‍♂️ Collect a dossier on a person b... |
-| 6 | [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) | C++ | +82 | qBittorrent BitTorrent client |
-| 7 | [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) | TypeScript | +496 | A MCP for Claude Desktop / Claude Cod... |
-| 8 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +548 | Coding Agent Harness |
-| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1189 | A complete AI agency at your fingerti... |
-| 10 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +409 | An autonomous agent for deep financia... |
+| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +2434 | Coding agent for DeepSeek models that... |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2432 | 🌊 The leading agent orchestration pla... |
+| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +659 | An autonomous agent for deep financia... |
+| 4 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +927 | Open source DocuSign alternative. Cre... |
+| 5 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | +321 | VSCode theme based off the easemate I... |
+| 6 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +276 | Context window optimization for AI co... |
+| 7 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | +438 | Incremental engine for long horizon a... |
+| 8 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1218 | A complete AI agency at your fingerti... |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +366 | A complete computer science study pla... |
+| 10 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | Python | +211 | A collection of projects showcasing R... |
 
 
 [查看更多 →](trending/)
