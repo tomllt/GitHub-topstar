@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-06 04:51 UTC
+> 最后更新: 2026-05-07 04:51 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +2434 | 8.9k | Coding agent for DeepSeek models that... |
-| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2432 | 44.0k | 🌊 The leading agent orchestration pla... |
-| 3 | [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) | - | +2409 | 114.5k | A single CLAUDE.md file to improve Cl... |
-| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1218 | 93.8k | A complete AI agency at your fingerti... |
-| 5 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +927 | 14.1k | Open source DocuSign alternative. Cre... |
-| 6 | [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) | Python | +691 | 12.0k | 🚀 AI 全自动短视频引擎 / AI Fully Automated Sh... |
-| 7 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +659 | 23.9k | An autonomous agent for deep financia... |
-| 8 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | +438 | 8.5k | Incremental engine for long horizon a... |
-| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +366 | 345.9k | A complete computer science study pla... |
-| 10 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | +321 | 7.9k | VSCode theme based off the easemate I... |
+| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +6175 | 15.3k | Coding agent for DeepSeek models that... |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2192 | 45.4k | 🌊 The leading agent orchestration pla... |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1125 | 46.5k | 🕷️ An adaptive Web Scraping framework... |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +800 | 31.1k | Production-grade engineering skills f... |
+| 5 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +774 | 15.0k | Open source DocuSign alternative. Cre... |
+| 6 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +666 | 24.4k | An autonomous agent for deep financia... |
+| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +641 | 9.4k |  |
+| 8 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | +532 | 5.8k | ~95% on SimpleQA (e.g. Qwen3.6-27B on... |
+| 9 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | +503 | 8.2k | VSCode theme based off the easemate I... |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +337 | 65.6k | An open-source long-horizon SuperAgen... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +2434 | Coding agent for DeepSeek models that... |
-| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2432 | 🌊 The leading agent orchestration pla... |
-| 3 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +659 | An autonomous agent for deep financia... |
-| 4 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +927 | Open source DocuSign alternative. Cre... |
-| 5 | [bwya77/vscode-dark-islands](https://github.com/bwya77/vscode-dark-islands) | PowerShell | +321 | VSCode theme based off the easemate I... |
-| 6 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +276 | Context window optimization for AI co... |
-| 7 | [cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex) | Python | +438 | Incremental engine for long horizon a... |
-| 8 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1218 | A complete AI agency at your fingerti... |
-| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +366 | A complete computer science study pla... |
-| 10 | [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) | Python | +211 | A collection of projects showcasing R... |
+| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +6175 | Coding agent for DeepSeek models that... |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +800 | Production-grade engineering skills f... |
+| 3 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | +218 | ⚡ TabPFN: Foundation Model for Tabula... |
+| 4 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +774 | Open source DocuSign alternative. Cre... |
+| 5 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | +532 | ~95% on SimpleQA (e.g. Qwen3.6-27B on... |
+| 6 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | +113 | Truly independent web browser |
+| 7 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | +230 | InsForge is a Postgres-based backend ... |
+| 8 | [virattt/dexter](https://github.com/virattt/dexter) | TypeScript | +666 | An autonomous agent for deep financia... |
+| 9 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +641 |  |
+| 10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +2192 | 🌊 The leading agent orchestration pla... |
 
 
 [查看更多 →](trending/)
