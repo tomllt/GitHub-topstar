@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-08 04:33 UTC
+> 最后更新: 2026-05-09 04:40 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +5799 | 19.6k | Coding agent for DeepSeek models that... |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +3062 | 33.3k | Production-grade engineering skills f... |
-| 3 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +1343 | 12.3k |  |
-| 4 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | +943 | 29.7k | 📑 PageIndex: Document Index for Vecto... |
-| 5 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +900 | 15.7k | Open source DocuSign alternative. Cre... |
-| 6 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | +671 | 3.6k | DFlash: Block Diffusion for Flash Spe... |
-| 7 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | +559 | 6.4k | ~95% on SimpleQA (e.g. Qwen3.6-27B on... |
-| 8 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | +460 | 8.9k | InsForge is a Postgres-based backend ... |
-| 9 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +390 | 44.6k | an open source, extensible AI agent t... |
-| 10 | [PriorLabs/TabPFN](https://github.com/PriorLabs/TabPFN) | Python | +230 | 6.8k | ⚡ TabPFN: Foundation Model for Tabula... |
+| 1 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +3731 | 22.2k | Coding agent for DeepSeek models that... |
+| 2 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +3660 | 15.7k |  |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +1893 | 35.9k | Production-grade engineering skills f... |
+| 4 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +1052 | 5.8k | Unlimited FREE AI coding. Connect Cla... |
+| 5 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | +667 | 44.9k | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 6 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | +559 | 6.8k | ~95% on SimpleQA (e.g. Qwen3.6-27B on... |
+| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +526 | 3.3k | Stealth Chromium that passes every bo... |
+| 8 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | +379 | 3.9k | DFlash: Block Diffusion for Flash Spe... |
+| 9 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | +202 | 14.8k | "AI-Trader: 100% Fully-Automated Agen... |
+| 10 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | +125 | 76.6k | The ultimate space for work and life ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +1343 |  |
-| 2 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +5799 | Coding agent for DeepSeek models that... |
-| 3 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | +671 | DFlash: Block Diffusion for Flash Spe... |
-| 4 | [InsForge/InsForge](https://github.com/InsForge/InsForge) | TypeScript | +460 | InsForge is a Postgres-based backend ... |
-| 5 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | +559 | ~95% on SimpleQA (e.g. Qwen3.6-27B on... |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +3062 | Production-grade engineering skills f... |
-| 7 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | +943 | 📑 PageIndex: Document Index for Vecto... |
-| 8 | [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) | TypeScript | +131 | An open source template for building ... |
-| 9 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +900 | Open source DocuSign alternative. Cre... |
-| 10 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +149 | 🇻🇳 Unlimited FREE AI coding. Connect ... |
+| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +3660 |  |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +1893 | Production-grade engineering skills f... |
+| 3 | [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) | Rust | +3731 | Coding agent for DeepSeek models that... |
+| 4 | [z-lab/dflash](https://github.com/z-lab/dflash) | Python | +379 | DFlash: Block Diffusion for Flash Spe... |
+| 5 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +1052 | Unlimited FREE AI coding. Connect Cla... |
+| 6 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +526 | Stealth Chromium that passes every bo... |
+| 7 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | Python | +58 | AI-Driven Life Cycle (AI-DLC) adaptiv... |
+| 8 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | +202 | "AI-Trader: 100% Fully-Automated Agen... |
+| 9 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | Python | +559 | ~95% on SimpleQA (e.g. Qwen3.6-27B on... |
+| 10 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | +125 | The ultimate space for work and life ... |
 
 
 [查看更多 →](trending/)
