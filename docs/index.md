@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-11 05:15 UTC
+> 最后更新: 2026-05-12 04:52 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +1449 | 19.2k |  |
-| 2 | [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) | JavaScript | +1081 | 178.5k | The agent harness performance optimiz... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +1065 | 38.7k | Production-grade engineering skills f... |
-| 4 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +803 | 7.5k | Unlimited FREE AI coding. Connect Cla... |
-| 5 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | +748 | 46.8k | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 6 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | +669 | 32.4k | The Open-Source Multimodal AI Agent S... |
-| 7 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | +635 | 9.3k | 💻 vibe coding 2026 / Your first moder... |
-| 8 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | +579 | 6.9k | 3D Gaussian Splat Editor |
-| 9 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +496 | 5.0k | Stealth Chromium that passes every bo... |
-| 10 | [jundot/omlx](https://github.com/jundot/omlx) | Python | +185 | 13.4k | LLM inference server with continuous ... |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +2065 | 145.3k | The agent that grows with you |
+| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1320 | 6.5k | Stealth Chromium that passes every bo... |
+| 3 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | +956 | 33.2k | The Open-Source Multimodal AI Agent S... |
+| 4 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +941 | 8.5k | Unlimited FREE AI coding. Connect Cla... |
+| 5 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | +812 | 10.1k | 💻 vibe coding 2026 / Your first moder... |
+| 6 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | +531 | 7.4k | 3D Gaussian Splat Editor |
+| 7 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +430 | 4.9k | #1 Persistent memory for AI coding ag... |
+| 8 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +427 | 11.0k | Let's use AI to Earn! |
+| 9 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +422 | 37.4k | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 10 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +366 | 1.6k | Your Personal AI super intelligence. ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | +669 | The Open-Source Multimodal AI Agent S... |
-| 2 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +1449 |  |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +1065 | Production-grade engineering skills f... |
-| 4 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +496 | Stealth Chromium that passes every bo... |
-| 5 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | +163 | "AI-Trader: 100% Fully-Automated Agen... |
-| 6 | [jundot/omlx](https://github.com/jundot/omlx) | Python | +185 | LLM inference server with continuous ... |
-| 7 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | +635 | 💻 vibe coding 2026 / Your first moder... |
-| 8 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | +579 | 3D Gaussian Splat Editor |
-| 9 | [lsdefine/GenericAgent](https://github.com/lsdefine/GenericAgent) | Python | +174 | Self-evolving agent: grows skill tree... |
-| 10 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +803 | Unlimited FREE AI coding. Connect Cla... |
+| 1 | [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) | TypeScript | +956 | The Open-Source Multimodal AI Agent S... |
+| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1320 | Stealth Chromium that passes every bo... |
+| 3 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +427 | Let's use AI to Earn! |
+| 4 | [playcanvas/supersplat](https://github.com/playcanvas/supersplat) | TypeScript | +531 | 3D Gaussian Splat Editor |
+| 5 | [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) | JavaScript | +812 | 💻 vibe coding 2026 / Your first moder... |
+| 6 | [decolua/9router](https://github.com/decolua/9router) | JavaScript | +941 | Unlimited FREE AI coding. Connect Cla... |
+| 7 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +366 | Your Personal AI super intelligence. ... |
+| 8 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | +212 | Your agent writes bad React. This cat... |
+| 9 | [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) | Jupyter Notebook | +422 | 《动手学大模型Dive into LLMs》系列编程实践教程 |
+| 10 | [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) | Python | +39 | Stable Diffusion web UI |
 
 
 [查看更多 →](trending/)
