@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-13 05:01 UTC
+> 最后更新: 2026-05-14 05:00 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +3867 | 76.7k | Skills for Real Engineers. Straight f... |
-| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1606 | 8.2k | Stealth Chromium that passes every bo... |
-| 3 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +1282 | 12.1k | Let's use AI to Earn! |
-| 4 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1048 | 6.1k | #1 Persistent memory for AI coding ag... |
-| 5 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1014 | 3.0k | Your Personal AI super intelligence. ... |
-| 6 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | +788 | 8.9k | Your agent writes bad React. This cat... |
-| 7 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | +772 | 93.9k | Implement a ChatGPT-like LLM in PyTor... |
-| 8 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | +599 | 48.5k | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 9 | [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) | Python | +229 | 16.8k | "AI-Trader: 100% Fully-Automated Agen... |
-| 10 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Java | +116 | 2.3k | Open-source, ad-free Android multimed... |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +3392 | 79.5k | Skills for Real Engineers. Straight f... |
+| 2 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1835 | 9.8k | Stealth Chromium that passes every bo... |
+| 3 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1696 | 6.1k | Your Personal AI super intelligence. ... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1401 | 189.9k | An agentic skills framework & softwar... |
+| 5 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1379 | 8.0k | #1 Persistent memory for AI coding ag... |
+| 6 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +1120 | 98.6k | 💫 Toolkit to help you get started wit... |
+| 7 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +981 | 13.2k | Let's use AI to Earn! |
+| 8 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | +859 | 4.5k | Lightning-Fast, On-Device, Multilingu... |
+| 9 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | +821 | 94.6k | Implement a ChatGPT-like LLM in PyTor... |
+| 10 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | +604 | 9.4k | Your agent writes bad React. This cat... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1014 | Your Personal AI super intelligence. ... |
-| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1048 | #1 Persistent memory for AI coding ag... |
-| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1606 | Stealth Chromium that passes every bo... |
-| 4 | [apernet/hysteria](https://github.com/apernet/hysteria) | Go | +51 | Hysteria is a powerful, lightning fas... |
-| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +3867 | Skills for Real Engineers. Straight f... |
-| 6 | [anonfaded/FadCam](https://github.com/anonfaded/FadCam) | Java | +116 | Open-source, ad-free Android multimed... |
-| 7 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | +788 | Your agent writes bad React. This cat... |
-| 8 | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | Jupyter Notebook | +772 | Implement a ChatGPT-like LLM in PyTor... |
-| 9 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | Python | +599 | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
-| 10 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +1282 | Let's use AI to Earn! |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1696 | Your Personal AI super intelligence. ... |
+| 2 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1379 | #1 Persistent memory for AI coding ag... |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1401 | An agentic skills framework & softwar... |
+| 4 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +981 | Let's use AI to Earn! |
+| 5 | [influxdata/telegraf](https://github.com/influxdata/telegraf) | Go | +13 | Agent for collecting, processing, agg... |
+| 6 | [millionco/react-doctor](https://github.com/millionco/react-doctor) | TypeScript | +604 | Your agent writes bad React. This cat... |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +99 | A set of ready to use Agent Skills fo... |
+| 8 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | +435 | Agentic AI Infrastructure for magnify... |
+| 9 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | +859 | Lightning-Fast, On-Device, Multilingu... |
+| 10 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1835 | Stealth Chromium that passes every bo... |
 
 
 [查看更多 →](trending/)
