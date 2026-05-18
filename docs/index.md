@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-17 05:10 UTC
+> 最后更新: 2026-05-18 05:23 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1549 | 11.0k | Your Personal AI super intelligence. ... |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1305 | 194.2k | An agentic skills framework & softwar... |
-| 3 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1010 | 58.5k | π RuView turns commodity WiFi signals... |
-| 4 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | +749 | 7.0k | Lightning-Fast, On-Device, Multilingu... |
-| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +673 | 23.3k | A set of ready to use Agent Skills fo... |
-| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +416 | 2.7k | Pre-indexed code knowledge graph for ... |
-| 7 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +397 | 91.4k | Incredibly fast JavaScript runtime, b... |
-| 8 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | +317 | 14.6k | Open-source alternative to AI video p... |
-| 9 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 372.5k | Your own personal AI assistant. Any O... |
-| 10 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | - | 195.1k | An Open Source Machine Learning Frame... |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1690 | 14.1k | Your Personal AI super intelligence. ... |
+| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +910 | 91.8k | Incredibly fast JavaScript runtime, b... |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +857 | 3.6k | Pre-indexed code knowledge graph for ... |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +762 | 23.9k | A set of ready to use Agent Skills fo... |
+| 5 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | +703 | 15.3k | Open-source alternative to AI video p... |
+| 6 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | +485 | 62.8k | 12 Lessons to Get Started Building AI... |
+| 7 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | TypeScript | +433 | 43.4k | Scheduling infrastructure for absolut... |
+| 8 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | +333 | 7.2k | Open-source intelligence for the glob... |
+| 9 | [knadh/listmonk](https://github.com/knadh/listmonk) | Go | +242 | 20.7k | High performance, self-hosted, newsle... |
+| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +238 | 35.9k | "CLI-Anything: Making ALL Software Ag... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,14 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +397 | Incredibly fast JavaScript runtime, b... |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +673 | A set of ready to use Agent Skills fo... |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1305 | An agentic skills framework & softwar... |
-| 4 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | +317 | Open-source alternative to AI video p... |
-| 5 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | +749 | Lightning-Fast, On-Device, Multilingu... |
-| 6 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1549 | Your Personal AI super intelligence. ... |
-| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1010 | π RuView turns commodity WiFi signals... |
-| 8 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +416 | Pre-indexed code knowledge graph for ... |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +1690 | Your Personal AI super intelligence. ... |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +238 | "CLI-Anything: Making ALL Software Ag... |
+| 3 | [calcom/cal.diy](https://github.com/calcom/cal.diy) | TypeScript | +433 | Scheduling infrastructure for absolut... |
+| 4 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +910 | Incredibly fast JavaScript runtime, b... |
+| 5 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | JavaScript | +703 | Open-source alternative to AI video p... |
+| 6 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | +333 | Open-source intelligence for the glob... |
+| 7 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | +225 | The secure, validated skill registry ... |
+| 8 | [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) | Jupyter Notebook | +172 | End-to-end, code-first tutorials for ... |
+| 9 | [dograh-hq/dograh](https://github.com/dograh-hq/dograh) | Python | +223 | Open Source Voice Agent Platform |
+| 10 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +762 | A set of ready to use Agent Skills fo... |
 
 
 [查看更多 →](trending/)
