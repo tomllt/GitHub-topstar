@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-19 05:19 UTC
+> 最后更新: 2026-05-20 05:23 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3941 | 18.1k | Your Personal AI super intelligence. ... |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +1439 | 12.4k | Academic Research Skills for Claude C... |
-| 3 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1420 | 15.5k | Stealth Chromium that passes every bo... |
-| 4 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | +1244 | 4.1k | The secure, validated skill registry ... |
-| 5 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1049 | 36.9k | "CLI-Anything: Making ALL Software Ag... |
-| 6 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | +1012 | 63.6k | 12 Lessons to Get Started Building AI... |
-| 7 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | +767 | 7.8k | Open-source intelligence for the glob... |
-| 8 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | +715 | 8.5k | Lightning-Fast, On-Device, Multilingu... |
-| 9 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +700 | 60.1k | π RuView turns commodity WiFi signals... |
-| 10 | [plausible/analytics](https://github.com/plausible/analytics) | Elixir | +638 | 26.0k | Open source, privacy-first web analyt... |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3973 | 21.9k | Your Personal AI super intelligence. ... |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +3164 | 14.5k | Academic Research Skills for Claude C... |
+| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +1955 | 138.7k | A single CLAUDE.md file to improve Cl... |
+| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +1850 | 6.9k | Pre-indexed code knowledge graph for ... |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1623 | 198.8k | An agentic skills framework & softwar... |
+| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1609 | 14.4k | #1 Persistent memory for AI coding ag... |
+| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1463 | 16.9k | Stealth Chromium that passes every bo... |
+| 8 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1120 | 101.9k | A complete AI agency at your fingerti... |
+| 9 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1038 | 37.9k | "CLI-Anything: Making ALL Software Ag... |
+| 10 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | +818 | 64.6k | 12 Lessons to Get Started Building AI... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3941 | Your Personal AI super intelligence. ... |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +1439 | Academic Research Skills for Claude C... |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1049 | "CLI-Anything: Making ALL Software Ag... |
-| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +609 | A set of ready to use Agent Skills fo... |
-| 5 | [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) | Swift | +715 | Lightning-Fast, On-Device, Multilingu... |
-| 6 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +213 | LLM inference in C/C++ |
-| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +700 | π RuView turns commodity WiFi signals... |
-| 8 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1420 | Stealth Chromium that passes every bo... |
-| 9 | [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) | TypeScript | +1244 | The secure, validated skill registry ... |
-| 10 | [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) | Python | +767 | Open-source intelligence for the glob... |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3973 | Your Personal AI super intelligence. ... |
+| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1038 | "CLI-Anything: Making ALL Software Ag... |
+| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +3164 | Academic Research Skills for Claude C... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1623 | An agentic skills framework & softwar... |
+| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +171 | Official, Anthropic-managed directory... |
+| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1609 | #1 Persistent memory for AI coding ag... |
+| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1463 | Stealth Chromium that passes every bo... |
+| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Rust | +704 | CLI proxy that reduces LLM token cons... |
+| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1120 | A complete AI agency at your fingerti... |
+| 10 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +1850 | Pre-indexed code knowledge graph for ... |
 
 
 [查看更多 →](trending/)
