@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-20 05:23 UTC
+> 最后更新: 2026-05-21 05:26 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3973 | 21.9k | Your Personal AI super intelligence. ... |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +3164 | 14.5k | Academic Research Skills for Claude C... |
-| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +1955 | 138.7k | A single CLAUDE.md file to improve Cl... |
-| 4 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +1850 | 6.9k | Pre-indexed code knowledge graph for ... |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1623 | 198.8k | An agentic skills framework & softwar... |
-| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1609 | 14.4k | #1 Persistent memory for AI coding ag... |
-| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1463 | 16.9k | Stealth Chromium that passes every bo... |
-| 8 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1120 | 101.9k | A complete AI agency at your fingerti... |
-| 9 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1038 | 37.9k | "CLI-Anything: Making ALL Software Ag... |
-| 10 | [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) | Jupyter Notebook | +818 | 64.6k | 12 Lessons to Get Started Building AI... |
+| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3394 | 23.9k | Your Personal AI super intelligence. ... |
+| 2 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +2679 | 141.4k | A single CLAUDE.md file to improve Cl... |
+| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +2123 | 10.5k | Pre-indexed code knowledge graph for ... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1743 | 200.3k | An agentic skills framework & softwar... |
+| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +1667 | 16.7k | Academic Research Skills for Claude C... |
+| 6 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1636 | 103.0k | A complete AI agency at your fingerti... |
+| 7 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1080 | 15.3k | #1 Persistent memory for AI coding ag... |
+| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +890 | 38.7k | "CLI-Anything: Making ALL Software Ag... |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +765 | 9.9k | Learn it. Build it. Ship it for others. |
+| 10 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | +741 | 5.0k | Free, Open Source, Self-Hosted WhatsA... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3973 | Your Personal AI super intelligence. ... |
-| 2 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +1038 | "CLI-Anything: Making ALL Software Ag... |
-| 3 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +3164 | Academic Research Skills for Claude C... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1623 | An agentic skills framework & softwar... |
-| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +171 | Official, Anthropic-managed directory... |
-| 6 | [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) | TypeScript | +1609 | #1 Persistent memory for AI coding ag... |
-| 7 | [CloakHQ/CloakBrowser](https://github.com/CloakHQ/CloakBrowser) | Python | +1463 | Stealth Chromium that passes every bo... |
-| 8 | [rtk-ai/rtk](https://github.com/rtk-ai/rtk) | Rust | +704 | CLI proxy that reduces LLM token cons... |
-| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1120 | A complete AI agency at your fingerti... |
-| 10 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +1850 | Pre-indexed code knowledge graph for ... |
+| 1 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +2123 | Pre-indexed code knowledge graph for ... |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +1667 | Academic Research Skills for Claude C... |
+| 3 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +3394 | Your Personal AI super intelligence. ... |
+| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +2679 | A single CLAUDE.md file to improve Cl... |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +765 | Learn it. Build it. Ship it for others. |
+| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +890 | "CLI-Anything: Making ALL Software Ag... |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | TypeScript | +270 | ⌥ AI Coding agent for the terminal — ... |
+| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1743 | An agentic skills framework & softwar... |
+| 9 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +674 | Official, Anthropic-managed directory... |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1636 | A complete AI agency at your fingerti... |
 
 
 [查看更多 →](trending/)
