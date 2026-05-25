@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-24 05:18 UTC
+> 最后更新: 2026-05-25 05:37 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +3507 | 150.0k | A single CLAUDE.md file to improve Cl... |
-| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +2456 | 20.0k | Pre-indexed code knowledge graph for ... |
-| 3 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +2299 | 22.2k | Graphs that teach > graphs that impre... |
-| 4 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +2193 | 26.7k | Official, Anthropic-managed directory... |
-| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +1521 | 14.0k | Learn it. Build it. Ship it for others. |
-| 6 | [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) | Python | +759 | 165.1k | A feature-rich command-line audio/vid... |
-| 7 | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | - | +628 | 223.9k | A collection of inspiring lists, manu... |
-| 8 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +545 | 23.2k | FinceptTerminal is a modern finance a... |
-| 9 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +435 | 41.4k | Chrome DevTools for coding agents |
-| 10 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | +410 | 32.0k | The open-source managed agents platfo... |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +3999 | 27.3k | Graphs that teach > graphs that impre... |
+| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +3003 | 22.9k | Pre-indexed code knowledge graph for ... |
+| 3 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +2551 | 152.7k | A single CLAUDE.md file to improve Cl... |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +1853 | 16.7k | Learn it. Build it. Ship it for others. |
+| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1173 | 27.4k | Official, Anthropic-managed directory... |
+| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +930 | 8.5k | 754 structured cybersecurity skills f... |
+| 7 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | +696 | 19.1k | Ghostty-based macOS terminal with ver... |
+| 8 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | +585 | 32.7k | The open-source managed agents platfo... |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +553 | 29.3k | Use claude-code for free in the termi... |
+| 10 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +550 | 504.4k | Master programming by recreating your... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +2299 | Graphs that teach > graphs that impre... |
-| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +2193 | Official, Anthropic-managed directory... |
-| 3 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +2456 | Pre-indexed code knowledge graph for ... |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +1521 | Learn it. Build it. Ship it for others. |
-| 5 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +545 | FinceptTerminal is a modern finance a... |
-| 6 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +3507 | A single CLAUDE.md file to improve Cl... |
-| 7 | [dotnet/skills](https://github.com/dotnet/skills) | C# | +266 | Repository for skills to assist AI co... |
-| 8 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +435 | Chrome DevTools for coding agents |
-| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +281 | 754 structured cybersecurity skills f... |
-| 10 | [presenton/presenton](https://github.com/presenton/presenton) | TypeScript | +241 | Open-Source AI Presentation Generator... |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +3999 | Graphs that teach > graphs that impre... |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +1853 | Learn it. Build it. Ship it for others. |
+| 3 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +1173 | Official, Anthropic-managed directory... |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +550 | Open source repository of plugins pri... |
+| 5 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +2551 | A single CLAUDE.md file to improve Cl... |
+| 6 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | +456 | AI agent toolkit: coding agent CLI, u... |
+| 7 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +553 | Use claude-code for free in the termi... |
+| 8 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +3003 | Pre-indexed code knowledge graph for ... |
+| 9 | [multica-ai/multica](https://github.com/multica-ai/multica) | TypeScript | +585 | The open-source managed agents platfo... |
+| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +106 | Kronos: A Foundation Model for the La... |
 
 
 [查看更多 →](trending/)
