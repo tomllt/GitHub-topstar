@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-26 05:21 UTC
+> 最后更新: 2026-05-27 05:33 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +5604 | 32.1k | Graphs that teach > graphs that impre... |
-| 2 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +3161 | 25.8k | Pre-indexed code knowledge graph for ... |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +3154 | 19.1k | Learn it. Build it. Ship it for others. |
-| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +2749 | 155.4k | A single CLAUDE.md file to improve Cl... |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2025 | 192.8k | The agent harness performance optimiz... |
-| 6 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +1441 | 15.8k | Open source repository of plugins pri... |
-| 7 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +1004 | 9.4k | 754 structured cybersecurity skills f... |
-| 8 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +640 | 102.7k | Use Garry Tan's exact Claude Code set... |
-| 9 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | +603 | 19.6k | Ghostty-based macOS terminal with ver... |
-| 10 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +345 | 4.5k | A skill file for removing AI tells fr... |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +4697 | 36.7k | Graphs that teach > graphs that impre... |
+| 2 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +2155 | 21.1k | Learn it. Build it. Ship it for others. |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1915 | 194.8k | The agent harness performance optimiz... |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +1718 | 16.8k | Open source repository of plugins pri... |
+| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +1430 | 22.4k | Taste-Skill - gives your AI good tast... |
+| 6 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | +1219 | 167.8k | DigitalPlat FreeDomain: Free Domain F... |
+| 7 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +880 | 10.3k | 754 structured cybersecurity skills f... |
+| 8 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | JavaScript | +731 | 5.4k | Curated list of the best free apps fo... |
+| 9 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +539 | 5.1k | A skill file for removing AI tells fr... |
+| 10 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +352 | 78.8k | Persistent Context Across Sessions fo... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +5604 | Graphs that teach > graphs that impre... |
-| 2 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +1441 | Open source repository of plugins pri... |
-| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +3154 | Learn it. Build it. Ship it for others. |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2025 | The agent harness performance optimiz... |
-| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +1004 | 754 structured cybersecurity skills f... |
-| 6 | [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | TypeScript | +3161 | Pre-indexed code knowledge graph for ... |
-| 7 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | +603 | Ghostty-based macOS terminal with ver... |
-| 8 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +2749 | A single CLAUDE.md file to improve Cl... |
-| 9 | [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) | Python | +317 | FinceptTerminal is a modern finance a... |
-| 10 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | +176 | A community-supported supercharged do... |
+| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +4697 | Graphs that teach > graphs that impre... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1915 | The agent harness performance optimiz... |
+| 3 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +2155 | Learn it. Build it. Ship it for others. |
+| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +1718 | Open source repository of plugins pri... |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +880 | 754 structured cybersecurity skills f... |
+| 6 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +539 | A skill file for removing AI tells fr... |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +1430 | Taste-Skill - gives your AI good tast... |
+| 8 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | +1219 | DigitalPlat FreeDomain: Free Domain F... |
+| 9 | [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) | C# | +83 | The Free Software Media System - Serv... |
+| 10 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | JavaScript | +731 | Curated list of the best free apps fo... |
 
 
 [查看更多 →](trending/)
