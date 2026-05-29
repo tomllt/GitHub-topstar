@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-28 05:26 UTC
+> 最后更新: 2026-05-29 05:30 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +4465 | 40.7k | Graphs that teach > graphs that impre... |
-| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +2715 | 24.7k | Taste-Skill - gives your AI good tast... |
-| 3 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | +2222 | 169.5k | DigitalPlat FreeDomain: Free Domain F... |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2062 | 196.3k | The agent harness performance optimiz... |
-| 5 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +1742 | 63.2k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1511 | 209.9k | An agentic skills framework & softwar... |
-| 7 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | - | +1163 | 47.2k | An advanced guide to learn English wh... |
-| 8 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +886 | 11.1k | 754 structured cybersecurity skills f... |
-| 9 | [Axorax/awesome-free-apps](https://github.com/Axorax/awesome-free-apps) | JavaScript | +728 | 6.0k | Curated list of the best free apps fo... |
-| 10 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +695 | 17.4k | Open source repository of plugins pri... |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +4698 | 67.1k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +3776 | 43.2k | Graphs that teach > graphs that impre... |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +2234 | 26.8k | Taste-Skill - gives your AI good tast... |
+| 4 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | - | +2019 | 48.8k | An advanced guide to learn English wh... |
+| 5 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | +1761 | 170.9k | DigitalPlat FreeDomain: Free Domain F... |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1730 | 211.4k | An agentic skills framework & softwar... |
+| 7 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1410 | 128.0k | Python tool for converting files and ... |
+| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1385 | 197.5k | The agent harness performance optimiz... |
+| 9 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +1066 | 506.7k | Master programming by recreating your... |
+| 10 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +761 | 6.5k | A skill file for removing AI tells fr... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +1742 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 2 | [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) | TypeScript | +4465 | Graphs that teach > graphs that impre... |
-| 3 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +664 | A skill file for removing AI tells fr... |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2062 | The agent harness performance optimiz... |
-| 5 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +695 | Open source repository of plugins pri... |
-| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +2715 | Taste-Skill - gives your AI good tast... |
-| 7 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +211 | Fully automatic censorship removal fo... |
-| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +401 | Kronos: A Foundation Model for the La... |
-| 9 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +886 | 754 structured cybersecurity skills f... |
-| 10 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +519 | The open alternative to Salesforce, d... |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +4698 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1385 | The agent harness performance optimiz... |
+| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +2234 | Taste-Skill - gives your AI good tast... |
+| 4 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +761 | A skill file for removing AI tells fr... |
+| 5 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +493 | The open alternative to Salesforce, d... |
+| 6 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | +1761 | DigitalPlat FreeDomain: Free Domain F... |
+| 7 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | - | +2019 | An advanced guide to learn English wh... |
+| 8 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1410 | Python tool for converting files and ... |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1730 | An agentic skills framework & softwar... |
+| 10 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | +65 | A meta-skill that designs domain-spec... |
 
 
 [查看更多 →](trending/)
