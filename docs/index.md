@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-30 05:10 UTC
+> 最后更新: 2026-05-31 05:36 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +3567 | 70.2k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +2062 | 28.4k | Taste-Skill - gives your AI good tast... |
-| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1873 | 130.3k | Python tool for converting files and ... |
-| 4 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | - | +1566 | 49.7k | An advanced guide to learn English wh... |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1406 | 198.7k | The agent harness performance optimiz... |
-| 6 | [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | HTML | +1313 | 171.9k | DigitalPlat FreeDomain: Free Domain F... |
-| 7 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +866 | 507.5k | Master programming by recreating your... |
-| 8 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | +701 | 7.4k | A fast, helpful, and open-source docu... |
-| 9 | [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) | - | +617 | 7.1k | A skill file for removing AI tells fr... |
-| 10 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +578 | 48.5k | The open alternative to Salesforce, d... |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2768 | 72.3k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +2470 | 132.8k | Python tool for converting files and ... |
+| 3 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | +925 | 8.0k | A fast, helpful, and open-source docu... |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +908 | 199.5k | The agent harness performance optimiz... |
+| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +817 | 508.4k | Master programming by recreating your... |
+| 6 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +779 | 22.9k | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +655 | 69.0k | π RuView turns commodity WiFi signals... |
+| 8 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +592 | 128.5k | Claude Code is an agentic coding tool... |
+| 9 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +469 | 27.4k | Project N.O.M.A.D, is a self-containe... |
+| 10 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +454 | 144.3k | Public repository for Agent Skills |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +3567 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1873 | Python tool for converting files and ... |
-| 3 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | +353 | Official Compound Engineering plugin ... |
-| 4 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +578 | The open alternative to Salesforce, d... |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +395 | Claude Code is an agentic coding tool... |
-| 6 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +2062 | Taste-Skill - gives your AI good tast... |
-| 7 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +134 | Cursor plugin specification and offic... |
-| 8 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | +701 | A fast, helpful, and open-source docu... |
-| 9 | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | +362 | A platform for reproducible world mod... |
-| 10 | [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) | - | +1566 | An advanced guide to learn English wh... |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +2470 | Python tool for converting files and ... |
+| 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2768 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +592 | Claude Code is an agentic coding tool... |
+| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +205 | Cursor plugin specification and offic... |
+| 5 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | +55 | A meta-skill that designs domain-spec... |
+| 6 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | +349 | Official Compound Engineering plugin ... |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +908 | The agent harness performance optimiz... |
+| 8 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +779 | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 9 | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | +318 | A platform for reproducible world mod... |
+| 10 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +469 | Project N.O.M.A.D, is a self-containe... |
 
 
 [查看更多 →](trending/)
