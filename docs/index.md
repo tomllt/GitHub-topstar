@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-05-31 05:36 UTC
+> 最后更新: 2026-06-01 06:20 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2768 | 72.3k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +2470 | 132.8k | Python tool for converting files and ... |
-| 3 | [run-llama/liteparse](https://github.com/run-llama/liteparse) | Rust | +925 | 8.0k | A fast, helpful, and open-source docu... |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +908 | 199.5k | The agent harness performance optimiz... |
-| 5 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +817 | 508.4k | Master programming by recreating your... |
-| 6 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +779 | 22.9k | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 7 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +655 | 69.0k | π RuView turns commodity WiFi signals... |
-| 8 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +592 | 128.5k | Claude Code is an agentic coding tool... |
-| 9 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +469 | 27.4k | Project N.O.M.A.D, is a self-containe... |
-| 10 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +454 | 144.3k | Public repository for Agent Skills |
+| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +2798 | 135.7k | Python tool for converting files and ... |
+| 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +1937 | 75.2k | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 3 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +1158 | 509.6k | Master programming by recreating your... |
+| 4 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +635 | 23.7k | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 5 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Jupyter Notebook | +626 | 3.2k | A straightforward method for training... |
+| 6 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +606 | 57.0k | 🕷️ An adaptive Web Scraping framework... |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +489 | 129.1k | Claude Code is an agentic coding tool... |
+| 8 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +374 | 27.8k | Project N.O.M.A.D, is a self-containe... |
+| 9 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +357 | 10.2k | Hermes WebUI: The best way to use Her... |
+| 10 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | +323 | 4.8k | A meta-skill that designs domain-spec... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +2470 | Python tool for converting files and ... |
-| 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2768 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
-| 3 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +592 | Claude Code is an agentic coding tool... |
-| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +205 | Cursor plugin specification and offic... |
-| 5 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | +55 | A meta-skill that designs domain-spec... |
-| 6 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | +349 | Official Compound Engineering plugin ... |
-| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +908 | The agent harness performance optimiz... |
-| 8 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +779 | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 9 | [galilai-group/stable-worldmodel](https://github.com/galilai-group/stable-worldmodel) | Python | +318 | A platform for reproducible world mod... |
-| 10 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +469 | Project N.O.M.A.D, is a self-containe... |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +1937 | 利用AI大模型，一键生成高清短视频 Generate short vide... |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +2798 | Python tool for converting files and ... |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +606 | 🕷️ An adaptive Web Scraping framework... |
+| 4 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +357 | Hermes WebUI: The best way to use Her... |
+| 5 | [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | TypeScript | +251 | Official Compound Engineering plugin ... |
+| 6 | [github/docs](https://github.com/github/docs) | TypeScript | +27 | The open-source repo for docs.github.com |
+| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +635 | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 8 | [revfactory/harness](https://github.com/revfactory/harness) | HTML | +323 | A meta-skill that designs domain-spec... |
+| 9 | [FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch) | Jupyter Notebook | +626 | A straightforward method for training... |
+| 10 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +264 | Memory engine and app that is extreme... |
 
 
 [查看更多 →](trending/)
