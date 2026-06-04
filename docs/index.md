@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-03 06:21 UTC
+> 最后更新: 2026-06-04 06:13 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +3618 | 141.6k | Python tool for converting files and ... |
-| 2 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +1722 | 12.7k | Hermes WebUI: The best way to use Her... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1533 | 204.4k | The agent harness performance optimiz... |
-| 4 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +1265 | 7.2k | Compress tool outputs, logs, files, a... |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1182 | 59.4k | 🕷️ An adaptive Web Scraping framework... |
-| 6 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +783 | 25.3k | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 7 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +680 | 24.8k | Memory engine and app that is extreme... |
-| 8 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | +574 | 18.6k | Code for Machine Learning for Algorit... |
-| 9 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | +124 | 4.6k | A modern platform for visual, flexibl... |
-| 10 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +66 | 8.5k | Talk to any LLM with hands-free voice... |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3530 | 10.5k | Compress tool outputs, logs, files, a... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2141 | 206.1k | The agent harness performance optimiz... |
+| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1984 | 143.2k | Python tool for converting files and ... |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1735 | 179.6k | The agent that grows with you |
+| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1067 | 60.5k | 🕷️ An adaptive Web Scraping framework... |
+| 6 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +719 | 13.2k | Hermes WebUI: The best way to use Her... |
+| 7 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +693 | 9.1k | Talk to any LLM with hands-free voice... |
+| 8 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +600 | 25.3k | Memory engine and app that is extreme... |
+| 9 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | +570 | 23.5k | PDF Parser for AI-ready data. Automat... |
+| 10 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +330 | 349.2k | A complete computer science study pla... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +1265 | Compress tool outputs, logs, files, a... |
-| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +3618 | Python tool for converting files and ... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1533 | The agent harness performance optimiz... |
-| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1182 | 🕷️ An adaptive Web Scraping framework... |
-| 5 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +1722 | Hermes WebUI: The best way to use Her... |
-| 6 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | +124 | A modern platform for visual, flexibl... |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +783 | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 8 | [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading) | Jupyter Notebook | +574 | Code for Machine Learning for Algorit... |
-| 9 | [jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) | Python | +30 |  |
-| 10 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +680 | Memory engine and app that is extreme... |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3530 | Compress tool outputs, logs, files, a... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2141 | The agent harness performance optimiz... |
+| 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +24 | Find vulnerabilities, misconfiguratio... |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1735 | The agent that grows with you |
+| 5 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1984 | Python tool for converting files and ... |
+| 6 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +719 | Hermes WebUI: The best way to use Her... |
+| 7 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1067 | 🕷️ An adaptive Web Scraping framework... |
+| 8 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | +570 | PDF Parser for AI-ready data. Automat... |
+| 9 | [odoo/odoo](https://github.com/odoo/odoo) | Python | +29 | Odoo. Open Source Apps To Grow Your B... |
+| 10 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +693 | Talk to any LLM with hands-free voice... |
 
 
 [查看更多 →](trending/)
