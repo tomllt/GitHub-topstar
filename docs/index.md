@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-04 06:13 UTC
+> 最后更新: 2026-06-05 05:35 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3530 | 10.5k | Compress tool outputs, logs, files, a... |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2141 | 206.1k | The agent harness performance optimiz... |
-| 3 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1984 | 143.2k | Python tool for converting files and ... |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1735 | 179.6k | The agent that grows with you |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1067 | 60.5k | 🕷️ An adaptive Web Scraping framework... |
-| 6 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +719 | 13.2k | Hermes WebUI: The best way to use Her... |
-| 7 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +693 | 9.1k | Talk to any LLM with hands-free voice... |
-| 8 | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | TypeScript | +600 | 25.3k | Memory engine and app that is extreme... |
-| 9 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | +570 | 23.5k | PDF Parser for AI-ready data. Automat... |
-| 10 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +330 | 349.2k | A complete computer science study pla... |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3142 | 13.0k | Compress tool outputs, logs, files, a... |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1913 | 181.3k | The agent that grows with you |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1750 | 207.5k | The agent harness performance optimiz... |
+| 4 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +632 | 349.9k | A complete computer science study pla... |
+| 5 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +581 | 9.7k | Talk to any LLM with hands-free voice... |
+| 6 | [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | C# | +411 | 1.4k | Windows companion suite for OpenClaw ... |
+| 7 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +321 | 108.7k | 💫 Toolkit to help you get started wit... |
+| 8 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | +308 | 5.4k | A modern platform for visual, flexibl... |
+| 9 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +255 | 35.7k | Find vulnerabilities, misconfiguratio... |
+| 10 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +212 | 25.2k | An Open Source implementation of Note... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3530 | Compress tool outputs, logs, files, a... |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +2141 | The agent harness performance optimiz... |
-| 3 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +24 | Find vulnerabilities, misconfiguratio... |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1735 | The agent that grows with you |
-| 5 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +1984 | Python tool for converting files and ... |
-| 6 | [nesquena/hermes-webui](https://github.com/nesquena/hermes-webui) | Python | +719 | Hermes WebUI: The best way to use Her... |
-| 7 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1067 | 🕷️ An adaptive Web Scraping framework... |
-| 8 | [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) | Java | +570 | PDF Parser for AI-ready data. Automat... |
-| 9 | [odoo/odoo](https://github.com/odoo/odoo) | Python | +29 | Odoo. Open Source Apps To Grow Your B... |
-| 10 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +693 | Talk to any LLM with hands-free voice... |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3142 | Compress tool outputs, logs, files, a... |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1913 | The agent that grows with you |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1750 | The agent harness performance optimiz... |
+| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | +141 | Turn any PDF or image document into s... |
+| 5 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +321 | 💫 Toolkit to help you get started wit... |
+| 6 | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | +133 | NVIDIA Cosmos is an open platform of ... |
+| 7 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +212 | An Open Source implementation of Note... |
+| 8 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +581 | Talk to any LLM with hands-free voice... |
+| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +632 | A complete computer science study pla... |
+| 10 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +38 | Multi-platform SDK for integrating Gi... |
 
 
 [查看更多 →](trending/)
