@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-05 05:35 UTC
+> 最后更新: 2026-06-06 05:10 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3142 | 13.0k | Compress tool outputs, logs, files, a... |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1913 | 181.3k | The agent that grows with you |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1750 | 207.5k | The agent harness performance optimiz... |
-| 4 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +632 | 349.9k | A complete computer science study pla... |
-| 5 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +581 | 9.7k | Talk to any LLM with hands-free voice... |
-| 6 | [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | C# | +411 | 1.4k | Windows companion suite for OpenClaw ... |
-| 7 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +321 | 108.7k | 💫 Toolkit to help you get started wit... |
-| 8 | [reconurge/flowsint](https://github.com/reconurge/flowsint) | TypeScript | +308 | 5.4k | A modern platform for visual, flexibl... |
-| 9 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | Go | +255 | 35.7k | Find vulnerabilities, misconfiguratio... |
-| 10 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +212 | 25.2k | An Open Source implementation of Note... |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +2473 | 14.7k | Compress tool outputs, logs, files, a... |
+| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1845 | 183.5k | The agent that grows with you |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1361 | 208.5k | The agent harness performance optimiz... |
+| 4 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +1152 | 26.1k | An Open Source implementation of Note... |
+| 5 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | +747 | 80.6k | Turn any PDF or image document into s... |
+| 6 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +745 | 350.5k | A complete computer science study pla... |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +731 | 28.3k | AI agent skill that researches any to... |
+| 8 | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | +479 | 9.5k | NVIDIA Cosmos is an open platform of ... |
+| 9 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | +366 | 32.8k | The Frontend Stack for Agents & Gener... |
+| 10 | [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) | C# | +326 | 1.6k | Windows companion suite for OpenClaw ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3142 | Compress tool outputs, logs, files, a... |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1913 | The agent that grows with you |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1750 | The agent harness performance optimiz... |
-| 4 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | +141 | Turn any PDF or image document into s... |
-| 5 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +321 | 💫 Toolkit to help you get started wit... |
-| 6 | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | +133 | NVIDIA Cosmos is an open platform of ... |
-| 7 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +212 | An Open Source implementation of Note... |
-| 8 | [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) | Python | +581 | Talk to any LLM with hands-free voice... |
-| 9 | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | - | +632 | A complete computer science study pla... |
-| 10 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +38 | Multi-platform SDK for integrating Gi... |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1845 | The agent that grows with you |
+| 2 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +2473 | Compress tool outputs, logs, files, a... |
+| 3 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | +366 | The Frontend Stack for Agents & Gener... |
+| 4 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +1152 | An Open Source implementation of Note... |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1361 | The agent harness performance optimiz... |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +148 | Give your AI agent eyes to see the en... |
+| 7 | [NVIDIA/cosmos](https://github.com/NVIDIA/cosmos) | Jupyter Notebook | +479 | NVIDIA Cosmos is an open platform of ... |
+| 8 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +320 | A Simple and Universal Swarm Intellig... |
+| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +731 | AI agent skill that researches any to... |
+| 10 | [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | Python | +747 | Turn any PDF or image document into s... |
 
 
 [查看更多 →](trending/)
