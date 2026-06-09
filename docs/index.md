@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-08 06:08 UTC
+> 最后更新: 2026-06-09 05:24 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1554 | 7.5k | A vector index built on TurboQuant, w... |
-| 2 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1112 | 186.3k | The agent that grows with you |
-| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1111 | 31.8k | AI agent skill that researches any to... |
-| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +1103 | 37.2k | Taste-Skill - gives your AI good tast... |
-| 5 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +554 | 27.5k | An Open Source implementation of Note... |
-| 6 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +350 | 72.7k | 所有小初高、大学PDF教材。 |
-| 7 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +322 | 47.7k | an open source, extensible AI agent t... |
-| 8 | [microsoft/pg_durable](https://github.com/microsoft/pg_durable) | Rust | +316 | 1.5k | PostgreSQL in-database durable execution |
-| 9 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +309 | 29.8k | Project N.O.M.A.D, is a self-containe... |
-| 10 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | +262 | 2.1k | OpenAI Plugins |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +3558 | 35.1k | AI agent skill that researches any to... |
+| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1729 | 9.2k | A vector index built on TurboQuant, w... |
+| 3 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | +1288 | 42.5k | We write your reusable computer visio... |
+| 4 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +699 | 48.2k | an open source, extensible AI agent t... |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +679 | 24.5k | Give your AI agent eyes to see the en... |
+| 6 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | +651 | 13.7k | Desktop app to manage markdown knowle... |
+| 7 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +592 | 73.1k | 所有小初高、大学PDF教材。 |
+| 8 | [google/skills](https://github.com/google/skills) | Python | +461 | 12.6k | Agent Skills for Google products and ... |
+| 9 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | +378 | 34.2k | The Frontend Stack for Agents & Gener... |
+| 10 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +312 | 35.9k | A visual, example-driven guide to Cla... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +1111 | AI agent skill that researches any to... |
-| 2 | [opencv/opencv](https://github.com/opencv/opencv) | C++ | +65 | Open Source Computer Vision Library |
-| 3 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | Shell | +1103 | Taste-Skill - gives your AI good tast... |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +1112 | The agent that grows with you |
-| 5 | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | TypeScript | +554 | An Open Source implementation of Note... |
-| 6 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +183 | Let's use AI to Earn! |
-| 7 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +322 | an open source, extensible AI agent t... |
-| 8 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +309 | Project N.O.M.A.D, is a self-containe... |
-| 9 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | C++ | +158 | LLM inference in C/C++ |
-| 10 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1554 | A vector index built on TurboQuant, w... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +3558 | AI agent skill that researches any to... |
+| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1729 | A vector index built on TurboQuant, w... |
+| 3 | [google/skills](https://github.com/google/skills) | Python | +461 | Agent Skills for Google products and ... |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | +651 | Desktop app to manage markdown knowle... |
+| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +679 | Give your AI agent eyes to see the en... |
+| 6 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | +62 | Agentic AI Infrastructure for magnify... |
+| 7 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +308 | AI-powered job search system built on... |
+| 8 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | - | +164 | PM Skills Marketplace: 100+ agentic s... |
+| 9 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | +296 | OpenAI Plugins |
+| 10 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Python | +143 | Find the local LLM that actually runs... |
 
 
 [查看更多 →](trending/)
