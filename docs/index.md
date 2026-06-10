@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-09 05:24 UTC
+> 最后更新: 2026-06-10 05:36 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +3558 | 35.1k | AI agent skill that researches any to... |
-| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1729 | 9.2k | A vector index built on TurboQuant, w... |
-| 3 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | +1288 | 42.5k | We write your reusable computer visio... |
-| 4 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +699 | 48.2k | an open source, extensible AI agent t... |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +679 | 24.5k | Give your AI agent eyes to see the en... |
-| 6 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | +651 | 13.7k | Desktop app to manage markdown knowle... |
-| 7 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +592 | 73.1k | 所有小初高、大学PDF教材。 |
-| 8 | [google/skills](https://github.com/google/skills) | Python | +461 | 12.6k | Agent Skills for Google products and ... |
-| 9 | [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) | TypeScript | +378 | 34.2k | The Frontend Stack for Agents & Gener... |
-| 10 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +312 | 35.9k | A visual, example-driven guide to Cla... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +3191 | 37.8k | AI agent skill that researches any to... |
+| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1801 | 10.4k | A vector index built on TurboQuant, w... |
+| 3 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +1110 | 51.9k | AI-powered job search system built on... |
+| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | +829 | 14.5k | Desktop app to manage markdown knowle... |
+| 5 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | - | +806 | 13.6k | PM Skills Marketplace: 100+ agentic s... |
+| 6 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | +733 | 43.1k | We write your reusable computer visio... |
+| 7 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Python | +633 | 4.2k | Find the local LLM that actually runs... |
+| 8 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +519 | 73.6k | 所有小初高、大学PDF教材。 |
+| 9 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +489 | 48.6k | an open source, extensible AI agent t... |
+| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Shell | +443 | 50.0k | Production-grade engineering skills f... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +3558 | AI agent skill that researches any to... |
-| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1729 | A vector index built on TurboQuant, w... |
-| 3 | [google/skills](https://github.com/google/skills) | Python | +461 | Agent Skills for Google products and ... |
-| 4 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | +651 | Desktop app to manage markdown knowle... |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +679 | Give your AI agent eyes to see the en... |
-| 6 | [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) | TypeScript | +62 | Agentic AI Infrastructure for magnify... |
-| 7 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +308 | AI-powered job search system built on... |
-| 8 | [phuryn/pm-skills](https://github.com/phuryn/pm-skills) | - | +164 | PM Skills Marketplace: 100+ agentic s... |
-| 9 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | +296 | OpenAI Plugins |
-| 10 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Python | +143 | Find the local LLM that actually runs... |
+| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +3191 | AI agent skill that researches any to... |
+| 2 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +1801 | A vector index built on TurboQuant, w... |
+| 3 | [roboflow/supervision](https://github.com/roboflow/supervision) | Python | +733 | We write your reusable computer visio... |
+| 4 | [opencv/opencv](https://github.com/opencv/opencv) | C++ | +102 | Open Source Computer Vision Library |
+| 5 | [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) | TypeScript | +829 | Desktop app to manage markdown knowle... |
+| 6 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | Rust | +489 | an open source, extensible AI agent t... |
+| 7 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | Python | +633 | Find the local LLM that actually runs... |
+| 8 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +519 | 所有小初高、大学PDF教材。 |
+| 9 | [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) | - | +79 | FULL Augment Code, Claude Code, Cluel... |
+| 10 | [yikart/AiToEarn](https://github.com/yikart/AiToEarn) | TypeScript | +402 | Let's use AI to Earn! |
 
 
 [查看更多 →](trending/)
