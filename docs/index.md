@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-17 06:30 UTC
+> 最后更新: 2026-06-18 06:13 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | +1197 | 124.4k | Collection of publicly available IPTV... |
-| 2 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +633 | 448.7k | freeCodeCamp.org's open-source codeba... |
-| 3 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +408 | 30.2k | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 4 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | +334 | 9.4k | IP addresses break, dial keys instead... |
-| 5 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | +228 | 10.9k | Meshery, the cloud native manager |
-| 6 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | +215 | 8.4k | A self-hosted data logger for your Te... |
-| 7 | [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) | TypeScript | +185 | 9.2k | Free, Open Source, Self-Hosted WhatsA... |
-| 8 | [music-assistant/server](https://github.com/music-assistant/server) | Python | +157 | 2.6k | Music Assistant is a free, opensource... |
-| 9 | [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | +156 | 10.6k | A lightweight, lightning-fast, in-pro... |
-| 10 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Rust | +146 | 7.4k | Cross-platform GUI written in Rust us... |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1523 | 134.0k | Skills for Real Engineers. Straight f... |
+| 2 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +1161 | 33.5k | Give your AI agent eyes to see the en... |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1129 | 231.4k | An agentic skills framework & softwar... |
+| 4 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +757 | 449.2k | freeCodeCamp.org's open-source codeba... |
+| 5 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +606 | 22.1k | TimesFM (Time Series Foundation Model... |
+| 6 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Rust | +457 | 7.7k | Cross-platform GUI written in Rust us... |
+| 7 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | +421 | 9.7k | IP addresses break, dial keys instead... |
+| 8 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +371 | 5.8k | High-performance code intelligence MC... |
+| 9 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | +264 | 32.4k | Open-source live-chat, email support,... |
+| 10 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | +196 | 11.1k | Meshery, the cloud native manager |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | +633 | freeCodeCamp.org's open-source codeba... |
-| 2 | [swc-project/swc](https://github.com/swc-project/swc) | Rust | +20 | Rust-based platform for the Web |
-| 3 | [teslamate-org/teslamate](https://github.com/teslamate-org/teslamate) | Elixir | +215 | A self-hosted data logger for your Te... |
-| 4 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | +1197 | Collection of publicly available IPTV... |
-| 5 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript | +56 | JavaScript API for Chrome and Firefox |
-| 6 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | +228 | Meshery, the cloud native manager |
-| 7 | [cypress-io/cypress](https://github.com/cypress-io/cypress) | TypeScript | +13 | Fast, easy and reliable testing for a... |
-| 8 | [music-assistant/server](https://github.com/music-assistant/server) | Python | +157 | Music Assistant is a free, opensource... |
-| 9 | [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | Rust | +146 | Cross-platform GUI written in Rust us... |
-| 10 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +408 | VoxCPM2: Tokenizer-Free TTS for Multi... |
+| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +371 | High-performance code intelligence MC... |
+| 2 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | +421 | IP addresses break, dial keys instead... |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +1161 | Give your AI agent eyes to see the en... |
+| 4 | [meshery/meshery](https://github.com/meshery/meshery) | TypeScript | +196 | Meshery, the cloud native manager |
+| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1129 | An agentic skills framework & softwar... |
+| 6 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +606 | TimesFM (Time Series Foundation Model... |
+| 7 | [RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) | TypeScript | +22 | The Secure CommsOS™ for mission-criti... |
+| 8 | [continuedev/continue](https://github.com/continuedev/continue) | TypeScript | +49 | open-source coding agent |
+| 9 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | +70 | Penpot: The open-source design tool f... |
+| 10 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java | +96 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁... |
 
 
 [查看更多 →](trending/)
