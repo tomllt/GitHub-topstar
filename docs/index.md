@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-06-20 05:32 UTC
+> 最后更新: 2026-06-21 06:20 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +4005 | 39.2k | Compress tool outputs, logs, files, a... |
-| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +1510 | 24.1k | TimesFM (Time Series Foundation Model... |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1110 | 233.5k | An agentic skills framework & softwar... |
-| 4 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +1058 | 8.4k | High-performance code intelligence MC... |
-| 5 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | +756 | 2.0k | macOS video editor built for AI |
-| 6 | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | - | +480 | 4.6k | GLM-5: From Vibe Coding to Agentic En... |
-| 7 | [withastro/flue](https://github.com/withastro/flue) | TypeScript | +309 | 5.9k | The sandbox agent framework. |
-| 8 | [n0-computer/iroh](https://github.com/n0-computer/iroh) | Rust | +302 | 10.3k | IP addresses break, dial keys instead... |
-| 9 | [Kong/insomnia](https://github.com/Kong/insomnia) | TypeScript | +292 | 39.0k | The open-source, cross-platform API c... |
-| 10 | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | Python | +196 | 7.7k | Official Python inference and LoRA tr... |
+| 1 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3795 | 42.3k | Compress tool outputs, logs, files, a... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1395 | 138.5k | Skills for Real Engineers. Straight f... |
+| 3 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +1271 | 9.6k | High-performance code intelligence MC... |
+| 4 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | +902 | 3.7k | macOS video editor built for AI |
+| 5 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | +801 | 20.4k | Turso is an in-process SQL database, ... |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +677 | 7.2k | World's first open-source, agentic vi... |
+| 7 | [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) | TypeScript | +513 | 23.4k | Kilo is the all-in-one agentic engine... |
+| 8 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +433 | 24.6k | TimesFM (Time Series Foundation Model... |
+| 9 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | +420 | 51.6k | Penpot: The open-source design tool f... |
+| 10 | [Kong/insomnia](https://github.com/Kong/insomnia) | TypeScript | +329 | 39.4k | The open-source, cross-platform API c... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +1058 | High-performance code intelligence MC... |
-| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +1510 | TimesFM (Time Series Foundation Model... |
-| 3 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | +756 | macOS video editor built for AI |
-| 4 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | +156 | Real-time global intelligence dashboa... |
-| 5 | [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) | HTML | +107 | A one stop repository for generative ... |
-| 6 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +147 | A framework for building agent-native... |
-| 7 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +4005 | Compress tool outputs, logs, files, a... |
-| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +156 | World's first open-source, agentic vi... |
-| 9 | [zai-org/GLM-5](https://github.com/zai-org/GLM-5) | - | +480 | GLM-5: From Vibe Coding to Agentic En... |
-| 10 | [withastro/flue](https://github.com/withastro/flue) | TypeScript | +309 | The sandbox agent framework. |
+| 1 | [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) | Swift | +902 | macOS video editor built for AI |
+| 2 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | +420 | Penpot: The open-source design tool f... |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +677 | World's first open-source, agentic vi... |
+| 4 | [tursodatabase/turso](https://github.com/tursodatabase/turso) | Rust | +801 | Turso is an in-process SQL database, ... |
+| 5 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +1271 | High-performance code intelligence MC... |
+| 6 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +433 | TimesFM (Time Series Foundation Model... |
+| 7 | [twentyhq/twenty](https://github.com/twentyhq/twenty) | TypeScript | +140 | The open alternative to Salesforce, d... |
+| 8 | [Kong/insomnia](https://github.com/Kong/insomnia) | TypeScript | +329 | The open-source, cross-platform API c... |
+| 9 | [chopratejas/headroom](https://github.com/chopratejas/headroom) | Python | +3795 | Compress tool outputs, logs, files, a... |
+| 10 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +145 | The open-source AI voice studio. Clon... |
 
 
 [查看更多 →](trending/)
