@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-01 05:38 UTC
+> 最后更新: 2026-07-02 05:15 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1791 | 121.3k | A complete AI agency at your fingerti... |
-| 2 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +1343 | 7.2k | A comprehensive dataset of 433 fitnes... |
-| 3 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | +1235 | 17.4k | SimpleX - the first messaging network... |
-| 4 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | +969 | 7.7k | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值... |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +890 | 242.7k | An agentic skills framework & softwar... |
-| 6 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +742 | 127.4k | A list of SaaS, PaaS and IaaS offerin... |
-| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +721 | 15.9k | "Vibe-Trading: Your Personal Trading ... |
-| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +721 | 12.8k | Edit videos with coding agents |
-| 9 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | +588 | 5.1k | Fastest and only macOS Dictation app ... |
-| 10 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +515 | 28.3k | Open-source AI penetration testing to... |
+| 1 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +2470 | 8.6k | A comprehensive dataset of 433 fitnes... |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +2114 | 124.0k | A complete AI agency at your fingerti... |
+| 3 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +1211 | 30.0k | Open-source AI penetration testing to... |
+| 4 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +1096 | 50.7k | 12 Weeks, 24 Lessons, AI for All! |
+| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +1010 | 9.7k | Never stop coding. Free AI gateway: o... |
+| 6 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | +708 | 2.8k | An open source design system that's f... |
+| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +694 | 16.7k | "Vibe-Trading: Your Personal Trading ... |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +693 | 13.3k | Edit videos with coding agents |
+| 9 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +609 | 9.7k | agent multiplexer that lives in your ... |
+| 10 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | +572 | 5.6k | Fastest and only macOS Dictation app ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +1343 | A comprehensive dataset of 433 fitnes... |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +515 | Open-source AI penetration testing to... |
-| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1791 | A complete AI agency at your fingerti... |
-| 4 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | +588 | Fastest and only macOS Dictation app ... |
-| 5 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +387 | Never stop coding. Free AI gateway: o... |
-| 6 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +721 | Edit videos with coding agents |
-| 7 | [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) | Python | +969 | AI 时代的伯克希尔：基于 Claude Code / Codex 的价值... |
-| 8 | [Mebus/cupp](https://github.com/Mebus/cupp) | Python | +32 | Common User Passwords Profiler (CUPP) |
-| 9 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +742 | A list of SaaS, PaaS and IaaS offerin... |
-| 10 | [google/agents-cli](https://github.com/google/agents-cli) | Python | +445 | The CLI and skills that turn any codi... |
+| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +2114 | A complete AI agency at your fingerti... |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +1211 | Open-source AI penetration testing to... |
+| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +694 | "Vibe-Trading: Your Personal Trading ... |
+| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +2470 | A comprehensive dataset of 433 fitnes... |
+| 5 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | +708 | An open source design system that's f... |
+| 6 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +1010 | Never stop coding. Free AI gateway: o... |
+| 7 | [allenai/olmocr](https://github.com/allenai/olmocr) | Python | +334 | Toolkit for linearizing PDFs for LLM ... |
+| 8 | [logto-io/logto](https://github.com/logto-io/logto) | TypeScript | +113 | 🧑‍🚀 Authentication and authorization ... |
+| 9 | [togatoga/karukan](https://github.com/togatoga/karukan) | Rust | +42 | Japanese Input Method System for Linu... |
+| 10 | [Mebus/cupp](https://github.com/Mebus/cupp) | Python | +184 | Common User Passwords Profiler (CUPP) |
 
 
 [查看更多 →](trending/)
