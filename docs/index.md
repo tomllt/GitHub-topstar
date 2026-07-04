@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-03 04:59 UTC
+> 最后更新: 2026-07-04 04:52 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +3032 | 125.7k | A complete AI agency at your fingerti... |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +2137 | 32.6k | Open-source AI penetration testing to... |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +939 | 17.4k | "Vibe-Trading: Your Personal Trading ... |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +938 | 9.4k | A comprehensive dataset of 433 fitnes... |
-| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | +926 | 81.4k | 🪨 why use many token when few token d... |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +897 | 244.7k | An agentic skills framework & softwar... |
-| 7 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +554 | 13.9k | Edit videos with coding agents |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +486 | 225.3k | The agent harness performance optimiz... |
-| 9 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +372 | 58.0k | AI-powered job search system built on... |
-| 10 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +352 | 22.8k | Use Codex from Claude Code to review ... |
+| 1 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | +2863 | 83.1k | 🪨 why use many token when few token d... |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +2803 | 34.8k | Open-source AI penetration testing to... |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1209 | 245.6k | An agentic skills framework & softwar... |
+| 4 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1208 | 126.6k | A complete AI agency at your fingerti... |
+| 5 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | +885 | 4.8k | An open source design system that's f... |
+| 6 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | +793 | 26.2k | Machine Learning Systems |
+| 7 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +634 | 23.3k | Use Codex from Claude Code to review ... |
+| 8 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +478 | 10.9k | agent multiplexer that lives in your ... |
+| 9 | [agentskills/agentskills](https://github.com/agentskills/agentskills) | Python | +406 | 22.0k | Specification and documentation for A... |
+| 10 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +405 | 45.5k | Chrome DevTools for coding agents |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +2137 | Open-source AI penetration testing to... |
-| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | +926 | 🪨 why use many token when few token d... |
-| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +3032 | A complete AI agency at your fingerti... |
-| 4 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +938 | A comprehensive dataset of 433 fitnes... |
-| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +372 | AI-powered job search system built on... |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +897 | An agentic skills framework & softwar... |
-| 7 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +104 | Chrome DevTools for coding agents |
-| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +554 | Edit videos with coding agents |
-| 9 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | +26 | Action for checking out a repo |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +486 | The agent harness performance optimiz... |
+| 1 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +2803 | Open-source AI penetration testing to... |
+| 2 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +634 | Use Codex from Claude Code to review ... |
+| 3 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | JavaScript | +2863 | 🪨 why use many token when few token d... |
+| 4 | [elastic/elasticsearch](https://github.com/elastic/elasticsearch) | Java | +91 | Free and Open Source, Distributed, RE... |
+| 5 | [actions/checkout](https://github.com/actions/checkout) | TypeScript | +129 | Action for checking out a repo |
+| 6 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +405 | Chrome DevTools for coding agents |
+| 7 | [ansible/ansible](https://github.com/ansible/ansible) | Python | +65 | Ansible is a radically simple IT auto... |
+| 8 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | +885 | An open source design system that's f... |
+| 9 | [rommapp/romm](https://github.com/rommapp/romm) | Python | +239 | A beautiful, powerful, self-hosted ro... |
+| 10 | [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book) | Python | +793 | Machine Learning Systems |
 
 
 [查看更多 →](trending/)
