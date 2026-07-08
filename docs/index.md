@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-07 05:09 UTC
+> 最后更新: 2026-07-08 04:32 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | +2494 | 19.6k | Privacy first, AI meeting assistant w... |
-| 2 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | JavaScript | +1458 | 59.2k | Taste-Skill - gives your AI good tast... |
-| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1378 | 51.9k | Extracted system prompts from Anthrop... |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1112 | 71.1k | Production-grade engineering skills f... |
-| 5 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +906 | 26.4k | Use Codex from Claude Code to review ... |
-| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +867 | 146.5k | The API to search, scrape, and intera... |
-| 7 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +779 | 13.0k | agent multiplexer that lives in your ... |
-| 8 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | +610 | 21.3k | 345 Claude Code skills & agent skills... |
-| 9 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | +598 | 16.8k | Show usage stats for OpenAI Codex and... |
-| 10 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +470 | 77.7k | π RuView turns commodity WiFi signals... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +2514 | 11.6k | AI-powered job application framework ... |
+| 2 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | +1777 | 20.9k | Privacy first, AI meeting assistant w... |
+| 3 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1691 | 53.2k | Extracted system prompts from Anthrop... |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1317 | 72.3k | Production-grade engineering skills f... |
+| 5 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1129 | 78.6k | π RuView turns commodity WiFi signals... |
+| 6 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +965 | 5.3k | Give Claude the ability to watch any ... |
+| 7 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +893 | 10.3k | OfficeCLI is the first and best Offic... |
+| 8 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | +664 | 8.5k | Instant, Concurrent, Secure & Lightwe... |
+| 9 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | Python | +531 | 6.3k | A TTS that fits in your CPU (and pocket) |
+| 10 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | +376 | 17.1k | Show usage stats for OpenAI Codex and... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1378 | Extracted system prompts from Anthrop... |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1112 | Production-grade engineering skills f... |
-| 3 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | +2494 | Privacy first, AI meeting assistant w... |
-| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +470 | π RuView turns commodity WiFi signals... |
-| 5 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | JavaScript | +1458 | Taste-Skill - gives your AI good tast... |
-| 6 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | Python | +610 | 345 Claude Code skills & agent skills... |
-| 7 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +906 | Use Codex from Claude Code to review ... |
-| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +458 | AI agent skill that researches any to... |
-| 9 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +779 | agent multiplexer that lives in your ... |
-| 10 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +427 | Give Claude the ability to watch any ... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +2514 | AI-powered job application framework ... |
+| 2 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | +1777 | Privacy first, AI meeting assistant w... |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1317 | Production-grade engineering skills f... |
+| 4 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +1129 | π RuView turns commodity WiFi signals... |
+| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1691 | Extracted system prompts from Anthrop... |
+| 6 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | +664 | Instant, Concurrent, Secure & Lightwe... |
+| 7 | [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) | HTML | +140 | 💡 Download the complete source code o... |
+| 8 | [steipete/CodexBar](https://github.com/steipete/CodexBar) | Swift | +376 | Show usage stats for OpenAI Codex and... |
+| 9 | [dotnet/skills](https://github.com/dotnet/skills) | C# | +64 | Repository for skills to assist AI co... |
+| 10 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +893 | OfficeCLI is the first and best Offic... |
 
 
 [查看更多 →](trending/)
