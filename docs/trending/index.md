@@ -5,27 +5,27 @@ title: GitHub Trending
 
 # GitHub Trending 热门推荐
 
-> 更新时间: 2026-07-09 05:10 UTC
+> 更新时间: 2026-07-10 05:08 UTC
 
 ## 今日热门 (全语言)
 
 | 排名 | 项目 | 语言 | 今日 Star | 总 Star | 描述 |
 |------|------|------|-----------|---------|------|
-| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1297 | 74.6k | Production-grade engineering skills for AI codi... |
-| 2 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +799 | 79.3k | π RuView turns commodity WiFi signals into real... |
-| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | +318 | 7.8k | TencentDB Agent Memory delivers fully local lon... |
-| 4 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | +46 | 46.6k | Next-generation ORM for Node.js & TypeScript / ... |
-| 5 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +352 | 50.9k | AI agent skill that researches any topic across... |
-| 6 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Go | +29 | 23.5k | Declarative Continuous Deployment for Kubernetes |
-| 7 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +1717 | 12.2k | OfficeCLI is the first and best Office suite pu... |
-| 8 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1218 | 54.4k | Extracted system prompts from Anthropic - Claud... |
-| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1116 | 250.1k | An agentic skills framework & software developm... |
-| 10 | [alibaba/zvec](https://github.com/alibaba/zvec) | C++ | +395 | 14.5k | A lightweight, lightning-fast, in-process vecto... |
-| 11 | [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) | CSS | +1125 | 15.1k | A Patch for GIMP 3+ for Photoshop Users |
-| 12 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +28 | 6.4k | This is MCP server for Claude that gives it ter... |
-| 13 | [huxingyi/autoremesher](https://github.com/huxingyi/autoremesher) | C++ | +296 | 2.1k | Automatic quad remeshing tool |
-| 14 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +951 | 6.2k | Give Claude the ability to watch any video. /wa... |
-| 15 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | +564 | 9.0k | Instant, Concurrent, Secure & Lightweight Sandb... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +3716 | 19.5k | AI-powered job application framework built on C... |
+| 2 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | +524 | 2.1k | Source code for Unturned, a free open-world zom... |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +2554 | 76.1k | Production-grade engineering skills for AI codi... |
+| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | - | +1391 | 100.0k | A collection of DESIGN.md files analysis by pop... |
+| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +1929 | 13.7k | OfficeCLI is the first and best Office suite pu... |
+| 6 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +185 | 6.6k | This is MCP server for Claude that gives it ter... |
+| 7 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | +194 | 47.2k | A collection of notebooks/recipes showcasing so... |
+| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +535 | 19.5k | Fully autonomous AI Agents system capable of pe... |
+| 9 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | +215 | 71.9k | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawl... |
+| 10 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | - | +243 | 29.2k | An evolving how-to guide for securing a Linux s... |
+| 11 | [huxingyi/autoremesher](https://github.com/huxingyi/autoremesher) | C++ | +403 | 2.4k | Automatic quad remeshing tool |
+| 12 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +718 | 6.8k | Give Claude the ability to watch any video. /wa... |
+| 13 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | +376 | 46.9k | Next-generation ORM for Node.js & TypeScript / ... |
+| 14 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | Python | +235 | 7.1k | A TTS that fits in your CPU (and pocket) |
+| 15 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1125 | 55.3k | Extracted system prompts from Anthropic - Claud... |
 
 
 ---
@@ -35,16 +35,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | +352 | 50.9k | AI agent skill that researches any topic across... |
-| 2 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | +951 | 6.2k | Give Claude the ability to watch any video. /wa... |
-| 3 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | +655 | 6.7k | A TTS that fits in your CPU (and pocket) |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | +149 | 53.0k | 🧠「大模型」2小时完全从0训练64M的小参数LLM！Train a 64M-parameter... |
-| 5 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | +275 | 11.8k | SkillOpt is a text-space optimizer that trains ... |
-| 6 | [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | +177 | 21.7k | 345 Claude Code skills & agent skills & plugins... |
-| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +215 | 136.9k | Claude Code is an agentic coding tool that live... |
-| 8 | [googleanalytics/google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp) | +11 | 2.6k |  |
-| 9 | [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) | +36 | 52.2k | Free, open source crypto trading bot |
-| 10 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +856 | 80.6k | AI coding assistant skill (Claude Code, Codex, ... |
+| 1 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | +215 | 71.9k | 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawl... |
+| 2 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | +718 | 6.8k | Give Claude the ability to watch any video. /wa... |
+| 3 | [kyutai-labs/pocket-tts](https://github.com/kyutai-labs/pocket-tts) | +235 | 7.1k | A TTS that fits in your CPU (and pocket) |
+| 4 | [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) | +276 | 12.0k | SkillOpt is a text-space optimizer that trains ... |
+| 5 | [fqscfqj/Y2A-Auto](https://github.com/fqscfqj/Y2A-Auto) | +211 | 1.6k | YouTube到AcFun和bilibili自动化搬运工具，支持AI翻译、字幕生成、内容审核、... |
+| 6 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +909 | 81.4k | AI coding assistant skill (Claude Code, Codex, ... |
+| 7 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | +60 | 86.3k | Hunt down social media accounts by username acr... |
+| 8 | [roboflow/supervision](https://github.com/roboflow/supervision) | +195 | 47.6k | We write your reusable computer vision tools. 💜 |
+| 9 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | +39 | 19.4k | Local-first code intelligence graph for MCP and... |
+| 10 | [LMCache/LMCache](https://github.com/LMCache/LMCache) | +98 | 10.3k | LMCache: Supercharge Your LLM with the Fastest ... |
 
 
 ---
@@ -54,16 +54,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +1297 | 74.6k | Production-grade engineering skills for AI codi... |
-| 2 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | +1218 | 54.4k | Extracted system prompts from Anthropic - Claud... |
-| 3 | [decolua/9router](https://github.com/decolua/9router) | +455 | 21.2k | Unlimited FREE AI coding. Connect Claude Code, ... |
-| 4 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +654 | 60.8k | Taste-Skill - gives your AI good taste. stops t... |
-| 5 | [fbsamples/whatsapp-business-jaspers-market](https://github.com/fbsamples/whatsapp-business-jaspers-market) | +11 | 511 | Sample Whatsapp App - Jasper's Market |
-| 6 | [GargantuaX/gemini-watermark-remover](https://github.com/GargantuaX/gemini-watermark-remover) | +29 | 4.8k | A high-performance, 100% client-side tool for r... |
-| 7 | [fastify/fastify](https://github.com/fastify/fastify) | +25 | 36.7k | Fast and low overhead web framework, for Node.js |
-| 8 | [CesiumGS/cesium](https://github.com/CesiumGS/cesium) | +5 | 15.4k | An open-source JavaScript library for world-cla... |
-| 9 | [atlassian/atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) | +4 | 842 | Official remote MCP server for Atlassian. Secur... |
-| 10 | [expressjs/express](https://github.com/expressjs/express) | +23 | 69.3k | Fast, unopinionated, minimalist web framework f... |
+| 1 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +2554 | 76.1k | Production-grade engineering skills for AI codi... |
+| 2 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | +1125 | 55.3k | Extracted system prompts from Anthropic - Claud... |
+| 3 | [decolua/9router](https://github.com/decolua/9router) | +287 | 21.4k | Unlimited FREE AI coding. Connect Claude Code, ... |
+| 4 | [zarazhangrui/follow-builders](https://github.com/zarazhangrui/follow-builders) | +40 | 5.7k | AI builders digest — monitors top AI builders o... |
+| 5 | [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) | +89 | 63.0k | Stop renting your intelligence. Own it with Any... |
+| 6 | [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) | +14 | 12.6k | Community curated list of templates for the nuc... |
+| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +382 | 45.1k | The design language that makes your AI harness ... |
+| 8 | [byoungd/up](https://github.com/byoungd/up) | +69 | 55.6k | An advanced guide which might benefit you a lot... |
+| 9 | [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) | +57 | 31.3k | ⚡️ Streaming torrent client for the web |
+| 10 | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | +29 | 7.9k | https://hf.co/hexgrad/Kokoro-82M |
 
 
 ---
@@ -73,16 +73,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | +318 | 7.8k | TencentDB Agent Memory delivers fully local lon... |
-| 2 | [prisma/prisma](https://github.com/prisma/prisma) | +46 | 46.6k | Next-generation ORM for Node.js & TypeScript / ... |
-| 3 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | +28 | 6.4k | This is MCP server for Claude that gives it ter... |
-| 4 | [dream-num/univer](https://github.com/dream-num/univer) | +131 | 13.7k | Univer is a full-stack framework for creating a... |
-| 5 | [hcengineering/platform](https://github.com/hcengineering/platform) | +42 | 26.8k | Huly — All-in-One Project Management Platform (... |
-| 6 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | +26 | 95.3k | JavaScript API for Chrome and Firefox |
-| 7 | [dyad-sh/dyad](https://github.com/dyad-sh/dyad) | +20 | 20.9k | Local, open-source AI app builder for power use... |
-| 8 | [SigNoz/signoz](https://github.com/SigNoz/signoz) | +107 | 28.5k | SigNoz is an open-source observability platform... |
-| 9 | [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) | +22 | 11.7k | 🌐 The open-source Agentic browser; alternative ... |
-| 10 | [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | +336 | 72.1k | Graphs that teach > graphs that impress. Turn a... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | +3716 | 19.5k | AI-powered job application framework built on C... |
+| 2 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | +185 | 6.6k | This is MCP server for Claude that gives it ter... |
+| 3 | [prisma/prisma](https://github.com/prisma/prisma) | +376 | 46.9k | Next-generation ORM for Node.js & TypeScript / ... |
+| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | +1146 | 40.1k | The open-source AI voice studio. Clone, dictate... |
+| 5 | [actions/starter-workflows](https://github.com/actions/starter-workflows) | +7 | 11.8k | Accelerating new GitHub Actions workflows |
+| 6 | [traycerai/traycer](https://github.com/traycerai/traycer) | +79 | 437 | Traycer: Nerve Center for Agentic Coding |
+| 7 | [langfuse/langfuse](https://github.com/langfuse/langfuse) | +94 | 30.8k | 🪢 Open source AI engineering platform: LLM eval... |
+| 8 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | +58 | 88.3k | Model Context Protocol Servers |
+| 9 | [Eugeny/tabby](https://github.com/Eugeny/tabby) | +76 | 73.1k | A terminal for a more modern age |
+| 10 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | +249 | 17.1k | ⌥ AI Coding agent for the terminal — hash-ancho... |
 
 
 ---
@@ -92,16 +92,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | +29 | 23.5k | Declarative Continuous Deployment for Kubernetes |
-| 2 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | +70 | 26.3k | Glamourous agentic coding for all 💘 |
-| 3 | [larksuite/cli](https://github.com/larksuite/cli) | +58 | 15.3k | The official Lark/Feishu CLI tool, maintained b... |
-| 4 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | +41 | 48.9k | Terraform enables you to safely and predictably... |
-| 5 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +32 | 36.8k | Find vulnerabilities, misconfigurations, secret... |
-| 6 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | +454 | 18.9k | Fully autonomous AI Agents system capable of pe... |
-| 7 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | +54 | 33.3k | The easiest, most secure way to use WireGuard a... |
-| 8 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | +30 | 29.6k | Nuclei is a fast, customizable vulnerability sc... |
-| 9 | [moby/moby](https://github.com/moby/moby) | +21 | 71.8k | The Moby Project - a collaborative project for ... |
-| 10 | [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) | +47 | 36.3k | CasaOS - A simple, easy-to-use, elegant open-so... |
+| 1 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | +535 | 19.5k | Fully autonomous AI Agents system capable of pe... |
+| 2 | [junegunn/fzf](https://github.com/junegunn/fzf) | +25 | 81.6k | 🌸 A command-line fuzzy finder |
+| 3 | [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) | +75 | 31.7k | Send push notifications to your phone or deskto... |
+| 4 | [aquasecurity/trivy](https://github.com/aquasecurity/trivy) | +41 | 36.9k | Find vulnerabilities, misconfigurations, secret... |
+| 5 | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | +19 | 1.8k | Model Context Protocol (MCP) server for Kuberne... |
+| 6 | [prometheus/node_exporter](https://github.com/prometheus/node_exporter) | +14 | 13.6k | Exporter for machine metrics |
+| 7 | [entireio/cli](https://github.com/entireio/cli) | +55 | 4.7k | 📜 Entire CLI hooks into your Git workflow to ca... |
+| 8 | [zitadel/zitadel](https://github.com/zitadel/zitadel) | +16 | 14.4k | ZITADEL - Identity infrastructure, simplified f... |
+| 9 | [velero-io/velero](https://github.com/velero-io/velero) | +9 | 10.1k | Backup and migrate Kubernetes applications and ... |
+| 10 | [mark3labs/mcp-go](https://github.com/mark3labs/mcp-go) | +4 | 8.9k | A Go implementation of the Model Context Protoc... |
 
 
 ---
@@ -111,16 +111,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +799 | 79.3k | π RuView turns commodity WiFi signals into real... |
-| 2 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | +564 | 9.0k | Instant, Concurrent, Secure & Lightweight Sandb... |
-| 3 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | +1225 | 21.7k | Privacy first, AI meeting assistant with 4x fas... |
-| 4 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | +75 | 6.6k | Open-source desktop app for downloading, organi... |
-| 5 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | +848 | 14.5k | agent multiplexer that lives in your terminal. |
-| 6 | [ruvnet/RuVector](https://github.com/ruvnet/RuVector) | +8 | 4.3k | RuVector is a High Performance, Real-Time, Self... |
-| 7 | [oven-sh/bun](https://github.com/oven-sh/bun) | +53 | 93.7k | Incredibly fast JavaScript runtime, bundler, te... |
-| 8 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | +48 | 29.6k | 🚀2.3x faster than MinIO for 4KB object payloads... |
-| 9 | [rerun-io/rerun](https://github.com/rerun-io/rerun) | +8 | 11.1k | Visualize, query, and stream to train on multim... |
-| 10 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | +84 | 50.9k | an open source, extensible AI agent that goes b... |
+| 1 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | +666 | 79.7k | π RuView turns commodity WiFi signals into real... |
+| 2 | [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) | +226 | 8.1k | A beautiful, private, local-first personal fina... |
+| 3 | [oven-sh/bun](https://github.com/oven-sh/bun) | +82 | 93.8k | Incredibly fast JavaScript runtime, bundler, te... |
+| 4 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | +476 | 9.4k | Instant, Concurrent, Secure & Lightweight Sandb... |
+| 5 | [openai/codex](https://github.com/openai/codex) | +299 | 96.8k | Lightweight coding agent that runs in your term... |
+| 6 | [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) | +38 | 66.0k | ripgrep recursively searches directories for a ... |
+| 7 | [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | +77 | 118.0k | An open-source remote desktop application desig... |
+| 8 | [longbridge/gpui-component](https://github.com/longbridge/gpui-component) | +14 | 12.0k | Rust GUI components for building fantastic cros... |
+| 9 | [t8y2/dbx](https://github.com/t8y2/dbx) | +169 | 9.5k | 20MB, lightweight, cross-platform database clie... |
+| 10 | [astral-sh/uv](https://github.com/astral-sh/uv) | +61 | 87.3k | An extremely fast Python package and project ma... |
 
 
 ---
@@ -131,16 +131,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本周 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | +8366 | Privacy first, AI meeting assistant with 4x fas... |
-| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +10274 | Open-source AI penetration testing tool to find... |
-| 3 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | +4943 | An open source design system that's fully custo... |
-| 4 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +4890 | Use Codex from Claude Code to review code or de... |
-| 5 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | +4295 | JavaScript in-page GUI agent. Control web inter... |
-| 6 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +4754 | agent multiplexer that lives in your terminal. |
-| 7 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +4424 | Never stop coding. Free AI gateway: one endpoin... |
-| 8 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +6182 | Extracted system prompts from Anthropic - Claud... |
-| 9 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | Rust | +2106 | Instant, Concurrent, Secure & Lightweight Sandb... |
-| 10 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +736 | Build local voice agents with open-source models |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +13847 | AI-powered job application framework built on C... |
+| 2 | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | Rust | +8885 | Privacy first, AI meeting assistant with 4x fas... |
+| 3 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +8370 | Open-source AI penetration testing tool to find... |
+| 4 | [facebook/astryx](https://github.com/facebook/astryx) | TypeScript | +4087 | An open source design system that's fully custo... |
+| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +7149 | Extracted system prompts from Anthropic - Claud... |
+| 6 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | JavaScript | +4792 | Use Codex from Claude Code to review code or de... |
+| 7 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +4756 | agent multiplexer that lives in your terminal. |
+| 8 | [alibaba/page-agent](https://github.com/alibaba/page-agent) | TypeScript | +4459 | JavaScript in-page GUI agent. Control web inter... |
+| 9 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +4119 | Never stop coding. Free AI gateway: one endpoin... |
+| 10 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +3630 | Give Claude the ability to watch any video. /wa... |
 
 
 ---
@@ -149,13 +149,13 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本月 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +25432 | High-performance code intelligence MCP server. ... |
-| 2 | [apple/container](https://github.com/apple/container) | Swift | +20483 | A tool for creating and running Linux container... |
-| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +31078 | World's first open-source, agentic video produc... |
-| 4 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | +11135 | Security scanner for AI agent skills. Detect vu... |
-| 5 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +29819 | Give your AI agent eyes to see the entire inter... |
-| 6 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +12446 | Extracted system prompts from Anthropic - Claud... |
-| 7 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | +14144 | Collection of publicly available IPTV channels ... |
-| 8 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | +7042 | SimpleX - the first messaging network operating... |
-| 9 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +9114 | agent multiplexer that lives in your terminal. |
-| 10 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +13169 | Open-source AI penetration testing tool to find... |
+| 1 | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | C | +26040 | High-performance code intelligence MCP server. ... |
+| 2 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +31648 | World's first open-source, agentic video produc... |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +28801 | Give your AI agent eyes to see the entire inter... |
+| 4 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | +10971 | Security scanner for AI agent skills. Detect vu... |
+| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +13616 | Extracted system prompts from Anthropic - Claud... |
+| 6 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +14585 | AI-powered job application framework built on C... |
+| 7 | [apple/container](https://github.com/apple/container) | Swift | +20582 | A tool for creating and running Linux container... |
+| 8 | [iptv-org/iptv](https://github.com/iptv-org/iptv) | TypeScript | +14536 | Collection of publicly available IPTV channels ... |
+| 9 | [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr) | Rust | +9607 | agent multiplexer that lives in your terminal. |
+| 10 | [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) | Haskell | +7111 | SimpleX - the first messaging network operating... |
