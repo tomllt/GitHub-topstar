@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-10 05:08 UTC
+> 最后更新: 2026-07-11 04:29 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +3716 | 19.5k | AI-powered job application framework ... |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +2554 | 76.1k | Production-grade engineering skills f... |
-| 3 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +1929 | 13.7k | OfficeCLI is the first and best Offic... |
-| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | - | +1391 | 100.0k | A collection of DESIGN.md files analy... |
-| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +1125 | 55.3k | Extracted system prompts from Anthrop... |
-| 6 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +718 | 6.8k | Give Claude the ability to watch any ... |
-| 7 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +535 | 19.5k | Fully autonomous AI Agents system cap... |
-| 8 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | +524 | 2.1k | Source code for Unturned, a free open... |
-| 9 | [huxingyi/autoremesher](https://github.com/huxingyi/autoremesher) | C++ | +403 | 2.4k | Automatic quad remeshing tool |
-| 10 | [prisma/prisma](https://github.com/prisma/prisma) | TypeScript | +376 | 46.9k | Next-generation ORM for Node.js & Typ... |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1712 | 164.8k | Skills for Real Engineers. Straight f... |
+| 2 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +1224 | 14.5k | OfficeCLI is the first and best Offic... |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1116 | 76.9k | Production-grade engineering skills f... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1013 | 251.9k | An agentic skills framework & softwar... |
+| 5 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +328 | 7.4k | This is MCP server for Claude that gi... |
+| 6 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +209 | 94.3k | Incredibly fast JavaScript runtime, b... |
+| 7 | [vercel/next.js](https://github.com/vercel/next.js) | JavaScript | +191 | 140.8k | The React Framework |
+| 8 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | +177 | 109.8k | TypeScript is a superset of JavaScrip... |
+| 9 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | +172 | 49.2k | Terraform enables you to safely and p... |
+| 10 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | Go | +143 | 33.7k | The easiest, most secure way to use W... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | TypeScript | +3716 | AI-powered job application framework ... |
-| 2 | [SmartlyDressedGames/U3-SDK](https://github.com/SmartlyDressedGames/U3-SDK) | C# | +524 | Source code for Unturned, a free open... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +2554 | Production-grade engineering skills f... |
-| 4 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | - | +1391 | A collection of DESIGN.md files analy... |
-| 5 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +1929 | OfficeCLI is the first and best Offic... |
-| 6 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +185 | This is MCP server for Claude that gi... |
-| 7 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | +194 | A collection of notebooks/recipes sho... |
-| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +535 | Fully autonomous AI Agents system cap... |
-| 9 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | +215 | 🚀🤖 Crawl4AI: Open-source LLM Friendly... |
-| 10 | [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) | - | +243 | An evolving how-to guide for securing... |
+| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +328 | This is MCP server for Claude that gi... |
+| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +209 | Incredibly fast JavaScript runtime, b... |
+| 3 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | +89 | Abseil Common Libraries (C++) |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1116 | Production-grade engineering skills f... |
+| 5 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | +69 | A YAML parser and emitter in C++ |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1712 | Skills for Real Engineers. Straight f... |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1013 | An agentic skills framework & softwar... |
+| 8 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | +177 | TypeScript is a superset of JavaScrip... |
+| 9 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | +76 | A modern, C++-native, test framework ... |
+| 10 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | C++ | +92 | Asio C++ Library |
 
 
 [查看更多 →](trending/)
