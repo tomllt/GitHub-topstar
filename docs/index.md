@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-11 04:29 UTC
+> 最后更新: 2026-07-12 04:42 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1712 | 164.8k | Skills for Real Engineers. Straight f... |
-| 2 | [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) | C# | +1224 | 14.5k | OfficeCLI is the first and best Offic... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1116 | 76.9k | Production-grade engineering skills f... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1013 | 251.9k | An agentic skills framework & softwar... |
-| 5 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +328 | 7.4k | This is MCP server for Claude that gi... |
-| 6 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +209 | 94.3k | Incredibly fast JavaScript runtime, b... |
-| 7 | [vercel/next.js](https://github.com/vercel/next.js) | JavaScript | +191 | 140.8k | The React Framework |
-| 8 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | +177 | 109.8k | TypeScript is a superset of JavaScrip... |
-| 9 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | +172 | 49.2k | Terraform enables you to safely and p... |
-| 10 | [tailscale/tailscale](https://github.com/tailscale/tailscale) | Go | +143 | 33.7k | The easiest, most secure way to use W... |
+| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +909 | 7.8k | This is MCP server for Claude that gi... |
+| 2 | [malisper/pgrust](https://github.com/malisper/pgrust) | Rust | +774 | 2.1k | Postgres rewritten in Rust, now passi... |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +740 | 252.5k | An agentic skills framework & softwar... |
+| 4 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +658 | 94.6k | Incredibly fast JavaScript runtime, b... |
+| 5 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +340 | 7.1k | A library of Agent Skills designed to... |
+| 6 | [vercel/next.js](https://github.com/vercel/next.js) | JavaScript | +334 | 141.0k | The React Framework |
+| 7 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +232 | 29.1k | CLI tool for configuring and monitori... |
+| 8 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | +229 | 49.4k | Terraform enables you to safely and p... |
+| 9 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | +219 | 48.0k | A collection of notebooks/recipes sho... |
+| 10 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | +118 | 17.8k | Abseil Common Libraries (C++) |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +328 | This is MCP server for Claude that gi... |
-| 2 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +209 | Incredibly fast JavaScript runtime, b... |
-| 3 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | +89 | Abseil Common Libraries (C++) |
-| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1116 | Production-grade engineering skills f... |
-| 5 | [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp) | C++ | +69 | A YAML parser and emitter in C++ |
-| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1712 | Skills for Real Engineers. Straight f... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1013 | An agentic skills framework & softwar... |
-| 8 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | TypeScript | +177 | TypeScript is a superset of JavaScrip... |
-| 9 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | +76 | A modern, C++-native, test framework ... |
-| 10 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | C++ | +92 | Asio C++ Library |
+| 1 | [catchorg/Catch2](https://github.com/catchorg/Catch2) | C++ | +113 | A modern, C++-native, test framework ... |
+| 2 | [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) | C++ | +118 | Abseil Common Libraries (C++) |
+| 3 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +232 | CLI tool for configuring and monitori... |
+| 4 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +340 | A library of Agent Skills designed to... |
+| 5 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | Go | +229 | Terraform enables you to safely and p... |
+| 6 | [zeux/meshoptimizer](https://github.com/zeux/meshoptimizer) | C++ | +110 | Mesh optimization library that makes ... |
+| 7 | [openai/plugins](https://github.com/openai/plugins) | JavaScript | +29 | OpenAI Plugins |
+| 8 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +909 | This is MCP server for Claude that gi... |
+| 9 | [chriskohlhoff/asio](https://github.com/chriskohlhoff/asio) | C++ | +76 | Asio C++ Library |
+| 10 | [oven-sh/bun](https://github.com/oven-sh/bun) | Rust | +658 | Incredibly fast JavaScript runtime, b... |
 
 
 [查看更多 →](trending/)
