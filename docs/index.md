@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-13 04:47 UTC
+> 最后更新: 2026-07-14 04:13 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +768 | 20.8k | "Vibe-Trading: Your Personal Trading ... |
-| 2 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | +609 | 7.0k | Advanced UX and interoperability exte... |
-| 3 | [malisper/pgrust](https://github.com/malisper/pgrust) | Rust | +518 | 2.6k | Postgres rewritten in Rust, now passi... |
-| 4 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | +459 | 48.5k | A collection of notebooks/recipes sho... |
-| 5 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | +444 | 3.1k | The Destructive Command Guard (dcg) i... |
-| 6 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +408 | 118.8k | 100+ AI Agent & RAG apps you can actu... |
-| 7 | [home-assistant/core](https://github.com/home-assistant/core) | Python | +400 | 89.2k | 🏡 Open source home automation that pu... |
-| 8 | [par274/sharpemu](https://github.com/par274/sharpemu) | C# | +314 | 1.3k | An experimental PlayStation 5 emulato... |
-| 9 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +274 | 29.3k | CLI tool for configuring and monitori... |
-| 10 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +210 | 8.0k | This is MCP server for Claude that gi... |
+| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1229 | 67.1k | The open-source CapCut alternative |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +1153 | 22.0k | "Vibe-Trading: Your Personal Trading ... |
+| 3 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1095 | 85.0k | AI coding assistant skill (Claude Cod... |
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +996 | 119.9k | 100+ AI Agent & RAG apps you can actu... |
+| 5 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +794 | 5.3k | Anti-AI-slop design skill for Claude ... |
+| 6 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +543 | 120.7k | 💫 Toolkit to help you get started wit... |
+| 7 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +451 | 12.8k | 1,324-exercise fitness dataset — anim... |
+| 8 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +299 | 38.7k | Marketing skills for Claude Code and ... |
+| 9 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | +118 | 51.0k | A simple, lightweight PowerShell scri... |
+| 10 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +78 | 42.0k | 💖🧸 Self hosted, you-owned Grok Compan... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | +444 | The Destructive Command Guard (dcg) i... |
-| 2 | [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | TypeScript | +210 | This is MCP server for Claude that gi... |
-| 3 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +768 | "Vibe-Trading: Your Personal Trading ... |
-| 4 | [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) | Python | +66 | Prefect is a workflow orchestration f... |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +408 | 100+ AI Agent & RAG apps you can actu... |
-| 6 | [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | Jupyter Notebook | +459 | A collection of notebooks/recipes sho... |
-| 7 | [home-assistant/core](https://github.com/home-assistant/core) | Python | +400 | 🏡 Open source home automation that pu... |
-| 8 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +125 | Project N.O.M.A.D, is a self-containe... |
-| 9 | [ColeMurray/background-agents](https://github.com/ColeMurray/background-agents) | TypeScript | +16 | An open-source background agents codi... |
-| 10 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | +609 | Advanced UX and interoperability exte... |
+| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1229 | The open-source CapCut alternative |
+| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +1153 | "Vibe-Trading: Your Personal Trading ... |
+| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +78 | 💖🧸 Self hosted, you-owned Grok Compan... |
+| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +996 | 100+ AI Agent & RAG apps you can actu... |
+| 5 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +794 | Anti-AI-slop design skill for Claude ... |
+| 6 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | +118 | A simple, lightweight PowerShell scri... |
+| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1095 | AI coding assistant skill (Claude Cod... |
+| 8 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +451 | 1,324-exercise fitness dataset — anim... |
+| 9 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +543 | 💫 Toolkit to help you get started wit... |
+| 10 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +299 | Marketing skills for Claude Code and ... |
 
 
 [查看更多 →](trending/)
