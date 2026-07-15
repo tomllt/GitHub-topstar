@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-14 04:13 UTC
+> 最后更新: 2026-07-15 04:16 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1229 | 67.1k | The open-source CapCut alternative |
-| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +1153 | 22.0k | "Vibe-Trading: Your Personal Trading ... |
-| 3 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1095 | 85.0k | AI coding assistant skill (Claude Cod... |
-| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +996 | 119.9k | 100+ AI Agent & RAG apps you can actu... |
-| 5 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +794 | 5.3k | Anti-AI-slop design skill for Claude ... |
-| 6 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +543 | 120.7k | 💫 Toolkit to help you get started wit... |
-| 7 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +451 | 12.8k | 1,324-exercise fitness dataset — anim... |
-| 8 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +299 | 38.7k | Marketing skills for Claude Code and ... |
-| 9 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | +118 | 51.0k | A simple, lightweight PowerShell scri... |
-| 10 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +78 | 42.0k | 💖🧸 Self hosted, you-owned Grok Compan... |
+| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +4276 | 69.4k | The open-source CapCut alternative |
+| 2 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1851 | 86.6k | AI coding assistant skill (Claude Cod... |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1679 | 170.7k | Skills for Real Engineers. Straight f... |
+| 4 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +1256 | 23.0k | "Vibe-Trading: Your Personal Trading ... |
+| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +1106 | 121.0k | 100+ AI Agent & RAG apps you can actu... |
+| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1015 | 6.3k | Anti-AI-slop design skill for Claude ... |
+| 7 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +851 | 13.7k | 1,324-exercise fitness dataset — anim... |
+| 8 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | +783 | 51.8k | A simple, lightweight PowerShell scri... |
+| 9 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | +473 | 4.5k | The Destructive Command Guard (dcg) i... |
+| 10 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | +395 | 56.2k | Penpot: The open-source design platfo... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1229 | The open-source CapCut alternative |
-| 2 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +1153 | "Vibe-Trading: Your Personal Trading ... |
-| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +78 | 💖🧸 Self hosted, you-owned Grok Compan... |
-| 4 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +996 | 100+ AI Agent & RAG apps you can actu... |
-| 5 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +794 | Anti-AI-slop design skill for Claude ... |
-| 6 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | +118 | A simple, lightweight PowerShell scri... |
-| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1095 | AI coding assistant skill (Claude Cod... |
-| 8 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +451 | 1,324-exercise fitness dataset — anim... |
-| 9 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +543 | 💫 Toolkit to help you get started wit... |
-| 10 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +299 | Marketing skills for Claude Code and ... |
+| 1 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +1106 | 100+ AI Agent & RAG apps you can actu... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1679 | Skills for Real Engineers. Straight f... |
+| 3 | [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) | Rust | +473 | The Destructive Command Guard (dcg) i... |
+| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +4276 | The open-source CapCut alternative |
+| 5 | [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) | Python | +109 | An AI Hedge Fund Team |
+| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1015 | Anti-AI-slop design skill for Claude ... |
+| 7 | [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) | Python | +1256 | "Vibe-Trading: Your Personal Trading ... |
+| 8 | [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) | PowerShell | +783 | A simple, lightweight PowerShell scri... |
+| 9 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +851 | 1,324-exercise fitness dataset — anim... |
+| 10 | [penpot/penpot](https://github.com/penpot/penpot) | Clojure | +395 | Penpot: The open-source design platfo... |
 
 
 [查看更多 →](trending/)
