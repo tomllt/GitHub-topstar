@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-17 04:23 UTC
+> 最后更新: 2026-07-18 04:12 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +3537 | 74.2k | The open-source CapCut alternative |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +3372 | 11.1k | Anti-AI-slop design skill for Claude ... |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2060 | 174.5k | Skills for Real Engineers. Straight f... |
-| 4 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +1107 | 89.3k | AI coding assistant skill (Claude Cod... |
-| 5 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +923 | 123.0k | 100+ AI Agent & RAG apps you can actu... |
-| 6 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +710 | 15.1k | 1,324-exercise fitness dataset — anim... |
-| 7 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | +661 | 66.0k | A coding agent for open models like K... |
-| 8 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +656 | 27.0k | DeepTutor: Lifelong Personalized Tuto... |
-| 9 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +435 | 526.5k | Master programming by recreating your... |
-| 10 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | +196 | 1.6k | Bonsai Demo |
+| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1485 | 12.2k | Anti-AI-slop design skill for Claude ... |
+| 2 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1074 | 75.0k | The open-source CapCut alternative |
+| 3 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +1068 | 527.5k | Master programming by recreating your... |
+| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +531 | 27.4k | DeepTutor: Lifelong Personalized Tuto... |
+| 5 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +438 | 36.2k | 🦔 PostHog is the leading platform for... |
+| 6 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | +431 | 66.4k | A coding agent for open models like K... |
+| 7 | [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) | Python | +280 | 13.4k | A vector index built on TurboQuant, w... |
+| 8 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | +278 | 1.7k | Bonsai Demo |
+| 9 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +233 | 9.8k | Multi-platform SDK for integrating Gi... |
+| 10 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | +200 | 6.7k | Become a cracked AI/ML Research Engineer |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [apache/ossie](https://github.com/apache/ossie) | Python | +60 | Apache Ossie, industry wide specifica... |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +3372 | Anti-AI-slop design skill for Claude ... |
-| 3 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +3537 | The open-source CapCut alternative |
-| 4 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +77 | 🦔 PostHog is the leading platform for... |
-| 5 | [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) | Rust | +661 | A coding agent for open models like K... |
-| 6 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | +196 | Bonsai Demo |
-| 7 | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) | HTML | +710 | 1,324-exercise fitness dataset — anim... |
-| 8 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +923 | 100+ AI Agent & RAG apps you can actu... |
-| 9 | [lobehub/lobehub](https://github.com/lobehub/lobehub) | TypeScript | +71 | 🤯 LobeHub is your Chief Agent Operato... |
-| 10 | [YimMenu/YimMenuV2](https://github.com/YimMenu/YimMenuV2) | C++ | +128 | Experimental menu for GTA 5: Enhanced |
+| 1 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +1068 | Master programming by recreating your... |
+| 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +438 | 🦔 PostHog is the leading platform for... |
+| 3 | [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) | TypeScript | +200 | Become a cracked AI/ML Research Engineer |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1485 | Anti-AI-slop design skill for Claude ... |
+| 5 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +233 | Multi-platform SDK for integrating Gi... |
+| 6 | [anthropics/cwc-workshops](https://github.com/anthropics/cwc-workshops) | TypeScript | +45 |  |
+| 7 | [PrismML-Eng/Bonsai-demo](https://github.com/PrismML-Eng/Bonsai-demo) | Shell | +278 | Bonsai Demo |
+| 8 | [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf) | C++ | +11 | Protocol Buffers - Google's data inte... |
+| 9 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +74 | Local-first code intelligence graph f... |
+| 10 | [docusealco/docuseal](https://github.com/docusealco/docuseal) | Ruby | +91 | Open source DocuSign alternative. Cre... |
 
 
 [查看更多 →](trending/)
