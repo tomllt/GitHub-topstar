@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-20 04:52 UTC
+> 最后更新: 2026-07-21 04:32 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | +1734 | 6.8k | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库... |
-| 2 | [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | +754 | 529.0k | Master programming by recreating your... |
-| 3 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +663 | 21.6k | Local-first code intelligence graph f... |
-| 4 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +610 | 43.5k | The open-source AI voice studio. Clon... |
-| 5 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | +595 | 2.0k | The go-to web for your AI coding agen... |
-| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +501 | 39.9k | Learn it. Build it. Ship it for others. |
-| 7 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +411 | 37.0k | 🦔 PostHog is the leading platform for... |
-| 8 | [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) | Python | +410 | 10.0k | Kimi Code CLI is your next CLI agent. |
-| 9 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | +360 | 18.5k | A Flexible Framework for Experiencing... |
-| 10 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +358 | 23.7k | AirLLM 70B inference with single 4GB GPU |
+| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +1833 | 23.5k | Local-first code intelligence graph f... |
+| 2 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | +1641 | 5.0k | Self-hosted deployment platform |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +1107 | 22.1k | Never stop coding. Free MIT AI gatewa... |
+| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +939 | 6.0k | Open source alternative to Semrush an... |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +862 | 134.9k | A complete AI agency at your fingerti... |
+| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +823 | 40.7k | Learn it. Build it. Ship it for others. |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +821 | 44.3k | The open-source AI voice studio. Clon... |
+| 8 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | +689 | 2.6k | The go-to web for your AI coding agen... |
+| 9 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +568 | 9.8k | The most intelligent agent harness fo... |
+| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | +565 | 14.3k | A feed-forward 3D foundation model fo... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | +1734 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库... |
-| 2 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +663 | Local-first code intelligence graph f... |
-| 3 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | +360 | A Flexible Framework for Experiencing... |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +501 | Learn it. Build it. Ship it for others. |
-| 5 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +610 | The open-source AI voice studio. Clon... |
-| 6 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | +595 | The go-to web for your AI coding agen... |
-| 7 | [andrewrabert/jellium-desktop](https://github.com/andrewrabert/jellium-desktop) | Rust | +43 | An unofficial desktop client for Jell... |
-| 8 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +39 | Multi-platform SDK for integrating Gi... |
-| 9 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +411 | 🦔 PostHog is the leading platform for... |
-| 10 | [microsoft/terminal](https://github.com/microsoft/terminal) | C++ | +59 | The new Windows Terminal and the orig... |
+| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +1833 | Local-first code intelligence graph f... |
+| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +568 | The most intelligent agent harness fo... |
+| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +1107 | Never stop coding. Free MIT AI gatewa... |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +823 | Learn it. Build it. Ship it for others. |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +862 | A complete AI agency at your fingerti... |
+| 6 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | +458 | A Flexible Framework for Experiencing... |
+| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +821 | The open-source AI voice studio. Clon... |
+| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | +234 | Cognee is the open-source AI memory p... |
+| 9 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | +565 | A feed-forward 3D foundation model fo... |
+| 10 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +939 | Open source alternative to Semrush an... |
 
 
 [查看更多 →](trending/)
