@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-21 04:32 UTC
+> 最后更新: 2026-07-22 04:34 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +1833 | 23.5k | Local-first code intelligence graph f... |
-| 2 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | +1641 | 5.0k | Self-hosted deployment platform |
-| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +1107 | 22.1k | Never stop coding. Free MIT AI gatewa... |
-| 4 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +939 | 6.0k | Open source alternative to Semrush an... |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +862 | 134.9k | A complete AI agency at your fingerti... |
-| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +823 | 40.7k | Learn it. Build it. Ship it for others. |
-| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +821 | 44.3k | The open-source AI voice studio. Clon... |
-| 8 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | +689 | 2.6k | The go-to web for your AI coding agen... |
-| 9 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +568 | 9.8k | The most intelligent agent harness fo... |
-| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | +565 | 14.3k | A feed-forward 3D foundation model fo... |
+| 1 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | +4624 | 15.4k | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库... |
+| 2 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +2034 | 23.8k | Never stop coding. Free MIT AI gatewa... |
+| 3 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +1925 | 24.7k | Local-first code intelligence graph f... |
+| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | - | +1866 | 7.1k | A skill for your coding agent to stop... |
+| 5 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | +1562 | 6.4k | Self-hosted deployment platform |
+| 6 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | +1295 | 66.0k | Real-time global intelligence dashboa... |
+| 7 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | +1235 | 70.0k | Original Apollo 11 Guidance Computer ... |
+| 8 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +849 | 6.7k | Open source alternative to Semrush an... |
+| 9 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +843 | 10.4k | The most intelligent agent harness fo... |
+| 10 | [KnockOutEZ/wigolo](https://github.com/KnockOutEZ/wigolo) | TypeScript | +642 | 3.2k | The go-to web for your AI coding agen... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +1833 | Local-first code intelligence graph f... |
-| 2 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +568 | The most intelligent agent harness fo... |
-| 3 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +1107 | Never stop coding. Free MIT AI gatewa... |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +823 | Learn it. Build it. Ship it for others. |
-| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +862 | A complete AI agency at your fingerti... |
-| 6 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | Python | +458 | A Flexible Framework for Experiencing... |
-| 7 | [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | TypeScript | +821 | The open-source AI voice studio. Clon... |
-| 8 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | Python | +234 | Cognee is the open-source AI memory p... |
-| 9 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | +565 | A feed-forward 3D foundation model fo... |
-| 10 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +939 | Open source alternative to Semrush an... |
+| 1 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | TypeScript | +1295 | Real-time global intelligence dashboa... |
+| 2 | [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | Python | +4624 | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库... |
+| 3 | [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) | Python | +1925 | Local-first code intelligence graph f... |
+| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | - | +1866 | A skill for your coding agent to stop... |
+| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | JavaScript | +291 | A collection of agent skills for CAD,... |
+| 6 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +843 | The most intelligent agent harness fo... |
+| 7 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | +1562 | Self-hosted deployment platform |
+| 8 | [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | Python | +416 | AI Agent Assistant & development fram... |
+| 9 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +849 | Open source alternative to Semrush an... |
+| 10 | [tradesdontlie/tradingview-mcp](https://github.com/tradesdontlie/tradingview-mcp) | JavaScript | +114 | AI-assisted TradingView chart analysi... |
 
 
 [查看更多 →](trending/)
