@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-07-29 04:29 UTC
+> 最后更新: 2026-07-30 04:14 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [bradautomates/claude-video](https://github.com/bradautomates/claude-video) | Python | +988 | 12.3k | Give Claude the ability to watch any ... |
-| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +797 | 44.9k | 💖🧸 Self hosted, you-owned Grok Compan... |
-| 3 | [yorukot/superfile](https://github.com/yorukot/superfile) | Go | +662 | 21.6k | Pretty fancy and modern terminal file... |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +636 | 235.0k | The agent harness performance optimiz... |
-| 5 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | +607 | 3.5k | A lightweight, cloud-native GIS platf... |
-| 6 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +423 | 11.6k | Turn any technical book PDF into a Cl... |
-| 7 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +341 | 18.9k | Create and share 3D architectural pro... |
-| 8 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +309 | 9.8k | A curated list of awesome libraries, ... |
-| 9 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +227 | 7.4k | Build local voice agents with open-so... |
-| 10 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | +180 | 26.1k | Jenkins automation server |
+| 1 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +1421 | 13.0k | Turn any technical book PDF into a Cl... |
+| 2 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +1022 | 19.7k | Create and share 3D architectural pro... |
+| 3 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +945 | 10.5k | A curated list of awesome libraries, ... |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +857 | 235.7k | The agent harness performance optimiz... |
+| 5 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +827 | 8.0k | Build local voice agents with open-so... |
+| 6 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +682 | 45.5k | 💖🧸 Self hosted, you-owned Grok Compan... |
+| 7 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | +671 | 4.2k | A lightweight, cloud-native GIS platf... |
+| 8 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +640 | 13.6k | The most RAM efficient harness |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +616 | 263.4k | An agentic skills framework & softwar... |
+| 10 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +359 | 16.1k | Open-source & free — Battle-tested at... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [pascalorg/editor](https://github.com/pascalorg/editor) | TypeScript | +341 | Create and share 3D architectural pro... |
-| 2 | [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) | Java | +180 | Jenkins automation server |
-| 3 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +797 | 💖🧸 Self hosted, you-owned Grok Compan... |
-| 4 | [andrewyng/aisuite](https://github.com/andrewyng/aisuite) | Python | +62 | Simple, unified interface to multiple... |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +636 | The agent harness performance optimiz... |
-| 6 | [hello245m/free-stockdb](https://github.com/hello245m/free-stockdb) | HTML | +50 | 面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地... |
-| 7 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +227 | Build local voice agents with open-so... |
-| 8 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +423 | Turn any technical book PDF into a Cl... |
-| 9 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | +607 | A lightweight, cloud-native GIS platf... |
-| 10 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +309 | A curated list of awesome libraries, ... |
+| 1 | [opengeos/GeoLibre](https://github.com/opengeos/GeoLibre) | TypeScript | +671 | A lightweight, cloud-native GIS platf... |
+| 2 | [moeru-ai/airi](https://github.com/moeru-ai/airi) | TypeScript | +682 | 💖🧸 Self hosted, you-owned Grok Compan... |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +857 | The agent harness performance optimiz... |
+| 4 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +827 | Build local voice agents with open-so... |
+| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +640 | The most RAM efficient harness |
+| 6 | [grokability/snipe-it](https://github.com/grokability/snipe-it) | PHP | +164 | A free open source IT asset/license m... |
+| 7 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | Python | +166 | Deepfakes Software For All |
+| 8 | [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Python | +336 | Open-Source Frontier Voice AI |
+| 9 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | +97 | The open-source alternative to Claude... |
+| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +616 | An agentic skills framework & softwar... |
 
 
 [查看更多 →](trending/)
