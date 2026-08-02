@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-01 04:38 UTC
+> 最后更新: 2026-08-02 04:40 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +1592 | 55.4k | 12 Weeks, 24 Lessons, AI for All! |
-| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | +806 | 19.6k | The open-source alternative to Claude... |
-| 3 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +763 | 11.8k | A curated list of awesome libraries, ... |
-| 4 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +658 | 56.3k | AI agent skill that researches any to... |
-| 5 | [1jehuang/jcode](https://github.com/1jehuang/jcode) | Rust | +527 | 14.7k | The most RAM efficient harness |
-| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +335 | 10.9k | Reverse Engineering / Authorized Pene... |
-| 7 | [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | +335 | 2.2k | a code review TUI with vim keybindings |
-| 8 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | +194 | 5.2k | 🎯 All you need. Nothing you don't. Op... |
-| 9 | [deepfakes/faceswap](https://github.com/deepfakes/faceswap) | Python | +93 | 57.0k | Deepfakes Software For All |
-| 10 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | C++ | +83 | 5.1k | A Hardware Hacking Tool with Web-Base... |
+| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +1320 | 12.0k | Reverse Engineering / Authorized Pene... |
+| 2 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +949 | 57.6k | 12 Weeks, 24 Lessons, AI for All! |
+| 3 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | +760 | 5.7k | 🎯 All you need. Nothing you don't. Op... |
+| 4 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +523 | 12.3k | A curated list of awesome libraries, ... |
+| 5 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +442 | 10.3k | Build local voice agents with open-so... |
+| 6 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +435 | 21.7k | Invidious is an alternative front-end... |
+| 7 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | +227 | 10.4k | TencentDB Agent Memory is a team-leve... |
+| 8 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +209 | 78.8k | An open-source long-horizon SuperAgen... |
+| 9 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +142 | 10.3k | Multi-platform SDK for integrating Gi... |
+| 10 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | +108 | 114.3k | 21 Lessons, Get Started Building with... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +335 | Reverse Engineering / Authorized Pene... |
-| 2 | [different-ai/openwork](https://github.com/different-ai/openwork) | TypeScript | +806 | The open-source alternative to Claude... |
-| 3 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +658 | AI agent skill that researches any to... |
-| 4 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +763 | A curated list of awesome libraries, ... |
-| 5 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +1592 | 12 Weeks, 24 Lessons, AI for All! |
-| 6 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +7 | Multi-platform SDK for integrating Gi... |
-| 7 | [chatwoot/chatwoot](https://github.com/chatwoot/chatwoot) | Ruby | +35 | Open-source live-chat, email support,... |
-| 8 | [agavra/tuicr](https://github.com/agavra/tuicr) | Rust | +335 | a code review TUI with vim keybindings |
-| 9 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | +194 | 🎯 All you need. Nothing you don't. Op... |
-| 10 | [geo-tp/ESP32-Bit-Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate) | C++ | +83 | A Hardware Hacking Tool with Web-Base... |
+| 1 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +949 | 12 Weeks, 24 Lessons, AI for All! |
+| 2 | [paperswithbacktest/awesome-systematic-trading](https://github.com/paperswithbacktest/awesome-systematic-trading) | Python | +523 | A curated list of awesome libraries, ... |
+| 3 | [usekaneo/kaneo](https://github.com/usekaneo/kaneo) | TypeScript | +760 | 🎯 All you need. Nothing you don't. Op... |
+| 4 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +1320 | Reverse Engineering / Authorized Pene... |
+| 5 | [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) | Jupyter Notebook | +108 | 21 Lessons, Get Started Building with... |
+| 6 | [github/copilot-sdk](https://github.com/github/copilot-sdk) | Java | +142 | Multi-platform SDK for integrating Gi... |
+| 7 | [github/gh-stack](https://github.com/github/gh-stack) | Go | +46 | GitHub Stacked PRs |
+| 8 | [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) | Python | +442 | Build local voice agents with open-so... |
+| 9 | [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) | Python | +58 | Gradio WebUI for creators and develop... |
+| 10 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +435 | Invidious is an alternative front-end... |
 
 
 [查看更多 →](trending/)
