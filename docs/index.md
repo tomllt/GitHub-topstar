@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-08 03:11 UTC
+> 最后更新: 2026-08-09 03:18 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2293 | 6.7k | A self-improving RLM agent for coding... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2152 | 208.9k | Skills for Real Engineers. Straight f... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1131 | 84.0k | Production-grade engineering skills f... |
-| 4 | [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | +872 | 5.8k | Give your agent a computer 👾 |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +782 | 268.8k | An agentic skills framework & softwar... |
-| 6 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | +530 | 23.6k | The authentication glue you need. |
-| 7 | [denoland/celld](https://github.com/denoland/celld) | Rust | +516 | 2.2k | self-hosted, distributed Durable Objects |
-| 8 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | Python | +355 | 186.3k | AutoGPT is the vision of accessible A... |
-| 9 | [google/skills](https://github.com/google/skills) | Python | +327 | 16.3k | Agent Skills for Google products and ... |
-| 10 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | +234 | 19.8k | Why is this running? Trace any proces... |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2483 | 9.1k | A self-improving RLM agent for coding... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1359 | 210.1k | Skills for Real Engineers. Straight f... |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +779 | 84.6k | Production-grade engineering skills f... |
+| 4 | [google/skills](https://github.com/google/skills) | Python | +481 | 16.8k | Agent Skills for Google products and ... |
+| 5 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | +467 | 24.0k | The authentication glue you need. |
+| 6 | [denoland/celld](https://github.com/denoland/celld) | Rust | +432 | 2.6k | self-hosted, distributed Durable Objects |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +153 | 96.5k | TradingAgents: Multi-Agents LLM Finan... |
+| 8 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +118 | 78.0k | 所有小初高、大学PDF教材。 |
+| 9 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | Kotlin | +101 | 49.9k | 翻墙-科学上网 |
+| 10 | [google/guava](https://github.com/google/guava) | Java | +93 | 51.9k | Google core libraries for Java |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2293 | A self-improving RLM agent for coding... |
-| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +1131 | Production-grade engineering skills f... |
-| 3 | [cloudflare/computer](https://github.com/cloudflare/computer) | TypeScript | +872 | Give your agent a computer 👾 |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2152 | Skills for Real Engineers. Straight f... |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +782 | An agentic skills framework & softwar... |
-| 6 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | +530 | The authentication glue you need. |
-| 7 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | +122 | Graph-Native Infrastructure for Conte... |
-| 8 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +141 | A Simple and Universal Swarm Intellig... |
-| 9 | [chenyme/grok2api](https://github.com/chenyme/grok2api) | Go | +55 | Multi-account API gateway for Grok Bu... |
-| 10 | [jdx/mise](https://github.com/jdx/mise) | Rust | +135 | dev tools, env vars, task runner |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2483 | A self-improving RLM agent for coding... |
+| 2 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +779 | Production-grade engineering skills f... |
+| 3 | [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) | Roff | +118 | 所有小初高、大学PDF教材。 |
+| 4 | [google/skills](https://github.com/google/skills) | Python | +481 | Agent Skills for Google products and ... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1359 | Skills for Real Engineers. Straight f... |
+| 6 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | +467 | The authentication glue you need. |
+| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +153 | TradingAgents: Multi-Agents LLM Finan... |
+| 8 | [google/guava](https://github.com/google/guava) | Java | +93 | Google core libraries for Java |
+| 9 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | +48 | Truly independent web browser |
+| 10 | [denoland/celld](https://github.com/denoland/celld) | Rust | +432 | self-hosted, distributed Durable Objects |
 
 
 [查看更多 →](trending/)
