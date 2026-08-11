@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-10 03:28 UTC
+> 最后更新: 2026-08-11 03:21 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2356 | 11.5k | A self-improving RLM agent for coding... |
-| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +858 | 140.9k | A complete AI agency at your fingerti... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +680 | 85.2k | Production-grade engineering skills f... |
-| 4 | [google/skills](https://github.com/google/skills) | Python | +528 | 17.3k | Agent Skills for Google products and ... |
-| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +365 | 125.6k | The most powerful and modular diffusi... |
-| 6 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | +310 | 24.3k | The authentication glue you need. |
-| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +306 | 61.3k | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推... |
-| 8 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | +210 | 20.8k | Why is this running? Trace any proces... |
-| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +163 | 17.7k |  |
-| 10 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | +96 | 3.1k | The ultimate RAG for your monorepo. Q... |
+| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2642 | 13.2k | A self-improving RLM agent for coding... |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1349 | 141.9k | A complete AI agency at your fingerti... |
+| 3 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | +970 | 4.2k | Graph-Native Infrastructure for Conte... |
+| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +922 | 126.4k | The most powerful and modular diffusi... |
+| 5 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +835 | 165.2k | The context API to search, scrape, an... |
+| 6 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | +682 | 3.6k | The ultimate RAG for your monorepo. Q... |
+| 7 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +659 | 85.8k | Production-grade engineering skills f... |
+| 8 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +389 | 18.1k |  |
+| 9 | [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | Python | +325 | 7.4k |  |
+| 10 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | +315 | 18.0k | ⛰️A General Hill-climbing AI harness ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2356 | A self-improving RLM agent for coding... |
-| 2 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | +96 | The ultimate RAG for your monorepo. Q... |
-| 3 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +858 | A complete AI agency at your fingerti... |
-| 4 | [pranshuparmar/witr](https://github.com/pranshuparmar/witr) | Go | +210 | Why is this running? Trace any proces... |
-| 5 | [google-deepmind/weathernext](https://github.com/google-deepmind/weathernext) | Python | +86 |  |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +680 | Production-grade engineering skills f... |
-| 7 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +306 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推... |
-| 8 | [goauthentik/authentik](https://github.com/goauthentik/authentik) | Python | +310 | The authentication glue you need. |
-| 9 | [google/skills](https://github.com/google/skills) | Python | +528 | Agent Skills for Google products and ... |
-| 10 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +365 | The most powerful and modular diffusi... |
+| 1 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | +970 | Graph-Native Infrastructure for Conte... |
+| 2 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +1349 | A complete AI agency at your fingerti... |
+| 3 | [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) | Python | +259 | 小红书笔记 / 评论爬虫、抖音视频 / 评论爬虫、快手视频 / 评论爬虫、... |
+| 4 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +659 | Production-grade engineering skills f... |
+| 5 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +198 | The open-source app everyone uses to ... |
+| 6 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +2642 | A self-improving RLM agent for coding... |
+| 7 | [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | C++ | +56 | Truly independent web browser |
+| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +154 | π RuView turns commodity WiFi signals... |
+| 9 | [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) | TypeScript | +315 | ⛰️A General Hill-climbing AI harness ... |
+| 10 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +835 | The context API to search, scrape, an... |
 
 
 [查看更多 →](trending/)
