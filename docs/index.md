@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-15 02:30 UTC
+> 最后更新: 2026-08-16 02:37 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +3646 | 17.3k | 29 editorial diagram types for Claude... |
-| 2 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | +1181 | 7.5k | Graph-Native Infrastructure for Conte... |
-| 3 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +1160 | 128.5k | 💫 Toolkit to help you get started wit... |
-| 4 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | TypeScript | +769 | 7.3k | Open-source All in One AI agent works... |
-| 5 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +662 | 5.6k | 14MB foundation model for tiny device... |
-| 6 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | TypeScript | +579 | 6.0k | Desktop app to generate 3D models fro... |
-| 7 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +501 | 71.5k | Local UI to run and train LLMs and di... |
-| 8 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | +473 | 88.4k | RAGFlow is a leading open-source Retr... |
-| 9 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | +436 | 3.0k | Macro is a unified workspace for team... |
-| 10 | [megadose/holehe](https://github.com/megadose/holehe) | Python | +427 | 12.9k | holehe allows you to check if the mai... |
+| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +2260 | 460.2k | A collective list of free APIs |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1607 | 18.7k | 29 editorial diagram types for Claude... |
+| 3 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +892 | 129.2k | 💫 Toolkit to help you get started wit... |
+| 4 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +599 | 4.1k | Meta-Framework of Spatiotemporal Comp... |
+| 5 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +547 | 6.1k | 14MB foundation model for tiny device... |
+| 6 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | +545 | 11.0k | The fastest browser for AI agents to ... |
+| 7 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | JavaScript | +544 | 39.6k | ToolJet is the open-source foundation... |
+| 8 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +434 | 72.1k | Local UI to run and train LLMs and di... |
+| 9 | [megadose/holehe](https://github.com/megadose/holehe) | Python | +382 | 13.1k | holehe allows you to check if the mai... |
+| 10 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | Python | +297 | 1.7k | Fine-tune LLMs from one YAML. Layer s... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +3646 | 29 editorial diagram types for Claude... |
-| 2 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +662 | 14MB foundation model for tiny device... |
-| 3 | [megadose/holehe](https://github.com/megadose/holehe) | Python | +427 | holehe allows you to check if the mai... |
-| 4 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | +436 | Macro is a unified workspace for team... |
-| 5 | [smicallef/spiderfoot](https://github.com/smicallef/spiderfoot) | Python | +293 | SpiderFoot automates OSINT for threat... |
-| 6 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | +165 | The fastest browser for AI agents to ... |
-| 7 | [holaboss-ai/holaOS](https://github.com/holaboss-ai/holaOS) | TypeScript | +769 | Open-source All in One AI agent works... |
-| 8 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +1160 | 💫 Toolkit to help you get started wit... |
-| 9 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | TypeScript | +579 | Desktop app to generate 3D models fro... |
-| 10 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | Go | +473 | RAGFlow is a leading open-source Retr... |
+| 1 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +599 | Meta-Framework of Spatiotemporal Comp... |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1607 | 29 editorial diagram types for Claude... |
+| 3 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +149 | Cursor plugin specification and offic... |
+| 4 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +547 | 14MB foundation model for tiny device... |
+| 5 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +434 | Local UI to run and train LLMs and di... |
+| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +2260 | A collective list of free APIs |
+| 7 | [MakazhanAlpamys/Soup](https://github.com/MakazhanAlpamys/Soup) | Python | +297 | Fine-tune LLMs from one YAML. Layer s... |
+| 8 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +892 | 💫 Toolkit to help you get started wit... |
+| 9 | [megadose/holehe](https://github.com/megadose/holehe) | Python | +382 | holehe allows you to check if the mai... |
+| 10 | [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | Swift | +104 | Fastest and only macOS Dictation app ... |
 
 
 [查看更多 →](trending/)
