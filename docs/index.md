@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-17 02:36 UTC
+> 最后更新: 2026-08-18 02:32 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +1588 | 461.9k | A collective list of free APIs |
-| 2 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +720 | 4.8k | Meta-Framework of Spatiotemporal Comp... |
-| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +572 | 72.7k | Local UI to run and train LLMs and di... |
-| 4 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | JavaScript | +452 | 40.1k | ToolJet is the open-source foundation... |
-| 5 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +443 | 6.6k | 14MB foundation model for tiny device... |
-| 6 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +270 | 25.5k | Beautiful, Modern & Opinionated Linux |
-| 7 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +150 | 84.0k | The open-source CapCut alternative |
-| 8 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 386.5k | Your own personal AI assistant. Any O... |
-| 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | - | 240.5k | The agent harness performance optimiz... |
-| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | - | 231.6k | The agent that grows with you |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +1189 | 106.2k | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
+| 2 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +957 | 5.6k | Meta-Framework of Spatiotemporal Comp... |
+| 3 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +598 | 54.3k | Open-source AI penetration testing to... |
+| 4 | [agalwood/Motrix](https://github.com/agalwood/Motrix) | TypeScript | +344 | 53.1k | A full-featured download manager. |
+| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +218 | 64.7k | Open-source AI job search: scan job p... |
+| 6 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +207 | 2.1k | Solution for long term memory for age... |
+| 7 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | +198 | 32.3k | Hundreds of models & providers. One c... |
+| 8 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +198 | 28.5k | 817 structured cybersecurity skills f... |
+| 9 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | +175 | 111.2k | High performance self-hosted photo an... |
+| 10 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | +120 | 26.0k | Production-grade Rust-native trading ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,13 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +720 | Meta-Framework of Spatiotemporal Comp... |
-| 2 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +270 | Beautiful, Modern & Opinionated Linux |
-| 3 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | Python | +572 | Local UI to run and train LLMs and di... |
-| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +150 | The open-source CapCut alternative |
-| 5 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +1588 | A collective list of free APIs |
-| 6 | [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) | JavaScript | +452 | ToolJet is the open-source foundation... |
-| 7 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +443 | 14MB foundation model for tiny device... |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +1189 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
+| 2 | [usestrix/strix](https://github.com/usestrix/strix) | Python | +598 | Open-source AI penetration testing to... |
+| 3 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | +120 | Production-grade Rust-native trading ... |
+| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +207 | Solution for long term memory for age... |
+| 5 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +198 | 817 structured cybersecurity skills f... |
+| 6 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | +198 | Hundreds of models & providers. One c... |
+| 7 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +218 | Open-source AI job search: scan job p... |
+| 8 | [jundot/omlx](https://github.com/jundot/omlx) | Python | +78 | LLM inference server with continuous ... |
+| 9 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | +175 | High performance self-hosted photo an... |
+| 10 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +957 | Meta-Framework of Spatiotemporal Comp... |
 
 
 [查看更多 →](trending/)
