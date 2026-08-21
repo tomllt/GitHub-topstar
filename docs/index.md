@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-20 02:33 UTC
+> 最后更新: 2026-08-21 02:39 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2221 | 110.9k | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1894 | 223.9k | Skills for Real Engineers. Straight f... |
-| 3 | [amadeusprotocol/node](https://github.com/amadeusprotocol/node) | Rust | +1397 | 4.6k |  |
-| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +804 | 30.3k | Self-evolving Context Database for AI... |
-| 5 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | +795 | 2.7k | local multi-agent harness |
-| 6 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +766 | 29.9k | 817 structured cybersecurity skills f... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +557 | 274.3k | An agentic skills framework & softwar... |
-| 8 | [jundot/omlx](https://github.com/jundot/omlx) | Python | +472 | 19.9k | LLM inference server with continuous ... |
-| 9 | [genlayerlabs/genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) | TypeScript | +430 | 16.2k |  |
-| 10 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +198 | 65.8k | Open-source AI job search: scan job p... |
+| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2761 | 113.0k | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2192 | 226.7k | Skills for Real Engineers. Straight f... |
+| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1545 | 12.0k | ⚡️A native, local-first alternative t... |
+| 4 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +950 | 31.1k | Self-evolving Context Database for AI... |
+| 5 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +816 | 66.8k | Open-source AI job search: scan job p... |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +727 | 275.0k | An agentic skills framework & softwar... |
+| 7 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | Kotlin | +657 | 1.6k | Visualize your year in travel using y... |
+| 8 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | +507 | 3.1k | local multi-agent harness |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +449 | 4.1k | Cursor plugin specification and offic... |
+| 10 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +332 | 3.7k | Solution for long term memory for age... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2221 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
-| 2 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +804 | Self-evolving Context Database for AI... |
-| 3 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | +795 | local multi-agent harness |
-| 4 | [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) | Python | +766 | 817 structured cybersecurity skills f... |
-| 5 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | Rust | +80 | Production-grade Rust-native trading ... |
-| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1894 | Skills for Real Engineers. Straight f... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +557 | An agentic skills framework & softwar... |
-| 8 | [jundot/omlx](https://github.com/jundot/omlx) | Python | +472 | LLM inference server with continuous ... |
-| 9 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +198 | Open-source AI job search: scan job p... |
-| 10 | [immich-app/immich](https://github.com/immich-app/immich) | TypeScript | +128 | High performance self-hosted photo an... |
+| 1 | [modular/modular](https://github.com/modular/modular) | Mojo | +268 | The Modular Platform (includes MAX & ... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2192 | Skills for Real Engineers. Straight f... |
+| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1545 | ⚡️A native, local-first alternative t... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +727 | An agentic skills framework & softwar... |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +449 | Cursor plugin specification and offic... |
+| 6 | [santifer/career-ops](https://github.com/santifer/career-ops) | JavaScript | +816 | Open-source AI job search: scan job p... |
+| 7 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +332 | Solution for long term memory for age... |
+| 8 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +2761 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
+| 9 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | +22 | Agent Substrate: the core system |
+| 10 | [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) | TypeScript | +507 | local multi-agent harness |
 
 
 [查看更多 →](trending/)
