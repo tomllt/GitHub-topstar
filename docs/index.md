@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-23 02:40 UTC
+> 最后更新: 2026-08-24 02:39 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2683 | 232.2k | Skills for Real Engineers. Straight f... |
-| 2 | [openai/codex](https://github.com/openai/codex) | Rust | +1544 | 113.5k | Lightweight coding agent that runs in... |
-| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +959 | 14.0k | ⚡️A native, local-first alternative t... |
-| 4 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +829 | 133.9k | A list of SaaS, PaaS and IaaS offerin... |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +592 | 276.2k | An agentic skills framework & softwar... |
-| 6 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | Kotlin | +441 | 2.6k | Visualize your year in travel using y... |
-| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +411 | 242.2k | The agent harness performance optimiz... |
-| 8 | [modular/modular](https://github.com/modular/modular) | Mojo | +395 | 28.9k | The Modular Platform (includes MAX & ... |
-| 9 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +315 | 205.3k | A single CLAUDE.md file to improve Cl... |
-| 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +286 | 38.6k | 🦔 PostHog is the leading platform for... |
+| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +2715 | 115.4k | Lightweight coding agent that runs in... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2447 | 234.0k | Skills for Real Engineers. Straight f... |
+| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1081 | 48.0k | Use Claude Code, Codex, Pi, and OpenC... |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1009 | 15.0k | ⚡️A native, local-first alternative t... |
+| 5 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +750 | 29.2k | Beautiful, Modern & Opinionated Linux |
+| 6 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +615 | 134.5k | A list of SaaS, PaaS and IaaS offerin... |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +454 | 235.1k | The agent that grows with you |
+| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +427 | 242.6k | The agent harness performance optimiz... |
+| 9 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +417 | 24.7k | Turn any technical book PDF into a Cl... |
+| 10 | [block/buzz](https://github.com/block/buzz) | Rust | +410 | 30.1k | A hive mind communication platform |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +1544 | Lightweight coding agent that runs in... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2683 | Skills for Real Engineers. Straight f... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +411 | The agent harness performance optimiz... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +592 | An agentic skills framework & softwar... |
-| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Go | +278 | Sub2API 一站式开源中转服务，让 Claude、Openai 、Ge... |
-| 6 | [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | +263 | 🔥🔥🔥 Open-source Jira, Linear, Monday,... |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | +149 | Fair-code workflow automation platfor... |
-| 8 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +127 | Claude Code is an agentic coding tool... |
-| 9 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +959 | ⚡️A native, local-first alternative t... |
-| 10 | [modular/modular](https://github.com/modular/modular) | Mojo | +395 | The Modular Platform (includes MAX & ... |
+| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +2715 | Lightweight coding agent that runs in... |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +401 | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2447 | Skills for Real Engineers. Straight f... |
+| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +750 | Beautiful, Modern & Opinionated Linux |
+| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1009 | ⚡️A native, local-first alternative t... |
+| 6 | [block/buzz](https://github.com/block/buzz) | Rust | +410 | A hive mind communication platform |
+| 7 | [apache/maka](https://github.com/apache/maka) | TypeScript | +51 | Apache Maka (Incubating) is a local-f... |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1081 | Use Claude Code, Codex, Pi, and OpenC... |
+| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +39 | Your Personal AI super intelligence. ... |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +427 | The agent harness performance optimiz... |
 
 
 [查看更多 →](trending/)

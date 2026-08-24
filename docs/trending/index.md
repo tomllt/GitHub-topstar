@@ -5,29 +5,30 @@ title: GitHub Trending
 
 # GitHub Trending 热门推荐
 
-> 更新时间: 2026-08-23 02:40 UTC
+> 更新时间: 2026-08-24 02:39 UTC
 
 ## 今日热门 (全语言)
 
 | 排名 | 项目 | 语言 | 今日 Star | 总 Star | 描述 |
 |------|------|------|-----------|---------|------|
-| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +1544 | 113.5k | Lightweight coding agent that runs in your term... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2683 | 232.2k | Skills for Real Engineers. Straight from my .ag... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +411 | 242.2k | The agent harness performance optimization syst... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +592 | 276.2k | An agentic skills framework & software developm... |
-| 5 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | Go | +278 | 38.8k | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订... |
-| 6 | [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | +263 | 57.2k | 🔥🔥🔥 Open-source Jira, Linear, Monday, and Click... |
-| 7 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | TypeScript | +149 | 201.8k | Fair-code workflow automation platform with nat... |
-| 8 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | Python | +127 | 142.6k | Claude Code is an agentic coding tool that live... |
-| 9 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +959 | 14.0k | ⚡️A native, local-first alternative to Logitech... |
-| 10 | [modular/modular](https://github.com/modular/modular) | Mojo | +395 | 28.9k | The Modular Platform (includes MAX & Mojo) |
-| 11 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +315 | 205.3k | A single CLAUDE.md file to improve Claude Code ... |
-| 12 | [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) | Kotlin | +441 | 2.6k | Visualize your year in travel using your Google... |
-| 13 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +829 | 133.9k | A list of SaaS, PaaS and IaaS offerings that ha... |
-| 14 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Go | +104 | 110.5k | TypeScript is a superset of JavaScript that com... |
-| 15 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +286 | 4.7k | Cursor plugin specification and official plugins |
-| 16 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +286 | 38.6k | 🦔 PostHog is the leading platform for building ... |
-| 17 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | Python | +150 | 5.5k | A full-stack AI Red Teaming platform securing A... |
+| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +2715 | 115.4k | Lightweight coding agent that runs in your term... |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +401 | 12.9k | Prompt as Code / GPT-Image2 工业级提示词引擎与模板库，470+ 个... |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2447 | 234.0k | Skills for Real Engineers. Straight from my .ag... |
+| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +750 | 29.2k | Beautiful, Modern & Opinionated Linux |
+| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1009 | 15.0k | ⚡️A native, local-first alternative to Logitech... |
+| 6 | [block/buzz](https://github.com/block/buzz) | Rust | +410 | 30.1k | A hive mind communication platform |
+| 7 | [apache/maka](https://github.com/apache/maka) | TypeScript | +51 | 2.4k | Apache Maka (Incubating) is a local-first AI ag... |
+| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1081 | 48.0k | Use Claude Code, Codex, Pi, and OpenCode for fr... |
+| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +39 | 36.8k | Your Personal AI super intelligence. A brain th... |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +427 | 242.6k | The agent harness performance optimization syst... |
+| 11 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +131 | 69.1k | 🌊 The original agent meta-harness. Deploy intel... |
+| 12 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | - | +156 | 31.3k | A curated collection of 1000+ agent skills from... |
+| 13 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +417 | 24.7k | Turn any technical book PDF into a Claude Code ... |
+| 14 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | +78 | 66.0k | Unofficial Bitwarden compatible server written ... |
+| 15 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +225 | 996 | Community plugin marketplace for Claude Cowork ... |
+| 16 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +615 | 134.5k | A list of SaaS, PaaS and IaaS offerings that ha... |
+| 17 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +201 | 129.4k | The most powerful and modular diffusion model G... |
+| 18 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +454 | 235.1k | The agent that grows with you |
 
 
 ---
@@ -37,16 +38,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +127 | 142.6k | Claude Code is an agentic coding tool that live... |
-| 2 | [PostHog/posthog](https://github.com/PostHog/posthog) | +286 | 38.6k | 🦔 PostHog is the leading platform for building ... |
-| 3 | [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) | +150 | 5.5k | A full-stack AI Red Teaming platform securing A... |
-| 4 | [shy3130/tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel) | +82 | 3.5k | TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 / 基于 TickFlo... |
-| 5 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | +462 | 109.6k | Turn any codebase, with its docs, SQL schemas, ... |
-| 6 | [forcedotcom/sf-skills](https://github.com/forcedotcom/sf-skills) | +18 | 901 | Salesforce's curated collection of agent skills... |
-| 7 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | +190 | 617 | Community plugin marketplace for Claude Cowork ... |
-| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | +62 | 73.0k | A curated list of awesome Claude Skills, resour... |
-| 9 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +119 | 11.2k | VoiceStudio is the open-source, fully-local Ele... |
-| 10 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +443 | 234.4k | The agent that grows with you |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | +1081 | 48.0k | Use Claude Code, Codex, Pi, and OpenCode for fr... |
+| 2 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | +417 | 24.7k | Turn any technical book PDF into a Claude Code ... |
+| 3 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | +225 | 997 | Community plugin marketplace for Claude Cowork ... |
+| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | +201 | 129.4k | The most powerful and modular diffusion model G... |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +454 | 235.1k | The agent that grows with you |
+| 6 | [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) | +30 | 8.0k | OBLITERATE THE CHAINS THAT BIND YOU |
+| 7 | [PostHog/posthog](https://github.com/PostHog/posthog) | +293 | 38.8k | 🦔 PostHog is the leading platform for building ... |
+| 8 | [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | +60 | 186.8k | AutoGPT is the vision of accessible AI for ever... |
+| 9 | [NVIDIA-NeMo/Speech](https://github.com/NVIDIA-NeMo/Speech) | +38 | 18.3k | A scalable generative AI framework built for re... |
+| 10 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | +361 | 142.8k | Claude Code is an agentic coding tool that live... |
 
 
 ---
@@ -56,16 +57,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +411 | 242.2k | The agent harness performance optimization syst... |
-| 2 | [santifer/career-ops](https://github.com/santifer/career-ops) | +604 | 67.8k | Open-source AI job search: scan job portals, ev... |
-| 3 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | +184 | 55.0k | Independent technology for modern publishing, m... |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +789 | 108.2k | Makes your AI agent think like the laziest seni... |
-| 5 | [dbgate/dbgate](https://github.com/dbgate/dbgate) | +2 | 7.3k | Database manager for MySQL, PostgreSQL, SQL Ser... |
-| 6 | [decolua/9router](https://github.com/decolua/9router) | +64 | 26.1k | Unlimited FREE AI coding. Connect Claude Code, ... |
-| 7 | [react/react](https://github.com/react/react) | +144 | 247.6k | The library for web and native user interfaces. |
-| 8 | [mrdoob/three.js](https://github.com/mrdoob/three.js) | +30 | 114.7k | JavaScript 3D Library. |
-| 9 | [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) | +63 | 1.6k | Claude Code toolkit - agents, commands, skills,... |
-| 10 | [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) | +7 | 40.7k | Source for remoteintech.company — a community-m... |
+| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | +401 | 12.9k | Prompt as Code / GPT-Image2 工业级提示词引擎与模板库，470+ 个... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +427 | 242.6k | The agent harness performance optimization syst... |
+| 3 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | +9 | 55.0k | Independent technology for modern publishing, m... |
+| 4 | [is-a-dev/register](https://github.com/is-a-dev/register) | +7 | 11.1k | Grab your own sweet-looking '.is-a.dev' subdomain. |
+| 5 | [byoungd/up](https://github.com/byoungd/up) | +405 | 61.1k | An advanced guide which might benefit you a lot... |
+| 6 | [nodejs/node](https://github.com/nodejs/node) | +54 | 119.3k | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 7 | [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | +394 | 79.7k | Taste-Skill - gives your AI good taste. stops t... |
+| 8 | [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) | +49 | 90.5k | A fancy self-hosted monitoring tool |
+| 9 | [reisxd/TizenTube](https://github.com/reisxd/TizenTube) | +6 | 2.0k | A TizenBrew module to remove ads and add suppor... |
+| 10 | [team-codebug/babua-dsa-patterns-course](https://github.com/team-codebug/babua-dsa-patterns-course) | +9 | 866 |  |
 
 
 ---
@@ -75,16 +76,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [makeplane/plane](https://github.com/makeplane/plane) | +263 | 57.2k | 🔥🔥🔥 Open-source Jira, Linear, Monday, and Click... |
-| 2 | [n8n-io/n8n](https://github.com/n8n-io/n8n) | +149 | 201.8k | Fair-code workflow automation platform with nat... |
-| 3 | [cursor/plugins](https://github.com/cursor/plugins) | +286 | 4.7k | Cursor plugin specification and official plugins |
-| 4 | [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) | +7 | 95.5k | JavaScript API for Chrome and Firefox |
-| 5 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +39 | 20.1k | Context window optimization for AI coding agent... |
-| 6 | [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) | +45 | 36.4k | Vane is an AI-powered answering engine. |
-| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | +230 | 26.6k | ⌥ AI Coding agent for the terminal — hash-ancho... |
-| 8 | [apache/maka](https://github.com/apache/maka) | +171 | 2.2k | Apache Maka (Incubating) is a local-first AI ag... |
-| 9 | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) | +35 | 89.8k | Model Context Protocol Servers |
-| 10 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | +107 | 19.4k | OpenAI-compatible proxy that stacks the free ti... |
+| 1 | [apache/maka](https://github.com/apache/maka) | +51 | 2.4k | Apache Maka (Incubating) is a local-first AI ag... |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +131 | 69.1k | 🌊 The original agent meta-harness. Deploy intel... |
+| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +368 | 200.7k | The open source coding agent. |
+| 4 | [withastro/astro](https://github.com/withastro/astro) | +43 | 62.0k | The web framework for content-driven websites. ... |
+| 5 | [bookorbit/bookorbit](https://github.com/bookorbit/bookorbit) | +204 | 3.1k | BookOrbit: Your Reading Space |
+| 6 | [proliferate-ai/proliferate](https://github.com/proliferate-ai/proliferate) | +32 | 324 | The open-source AI IDE for Claude Code, Codex, ... |
+| 7 | [facebook/astryx](https://github.com/facebook/astryx) | +27 | 12.3k | An open source design system that's fully custo... |
+| 8 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | +597 | 53.9k | Never stop coding. Free MIT AI gateway: one end... |
+| 9 | [laurent22/joplin](https://github.com/laurent22/joplin) | +11 | 56.1k | Joplin - the privacy-focused note taking app wi... |
+| 10 | [ibelick/ui-skills](https://github.com/ibelick/ui-skills) | +94 | 7.5k | Skills for Design Engineers |
 
 
 ---
@@ -94,16 +95,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | +278 | 38.8k | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订... |
-| 2 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | +104 | 110.5k | TypeScript is a superset of JavaScript that com... |
-| 3 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | +50 | 1.6k | Agent Substrate: the core system |
-| 4 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | +65 | 20.4k | Open-source LLM knowledge platform: turn raw do... |
-| 5 | [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) | +6 | 9.2k | The most popular Kubernetes Operator for Postgr... |
-| 6 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +298 | 100.3k | 🪨 why use many token when few token do trick — ... |
-| 7 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | +71 | 21.1k | Fast, efficient, battle-tested at Alibaba's sca... |
-| 8 | [QuantumNous/new-api](https://github.com/QuantumNous/new-api) | +77 | 45.9k | A unified AI model hub for aggregation & distri... |
-| 9 | [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) | +4 | 51.3k | Go implementation of the Ethereum protocol |
-| 10 | [etcd-io/etcd](https://github.com/etcd-io/etcd) | +9 | 52.2k | Distributed reliable key-value store for the mo... |
+| 1 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | +141 | 110.6k | TypeScript is a superset of JavaScript that com... |
+| 2 | [google/sam](https://github.com/google/sam) | +138 | 623 | SAM Sovereign Agent Mesh |
+| 3 | [kubernetes/minikube](https://github.com/kubernetes/minikube) | +0 | 32.1k | Run Kubernetes locally |
+| 4 | [bjarneo/cliamp](https://github.com/bjarneo/cliamp) | +62 | 3.5k | cliamp - Terminal music player inspired by winamp |
+| 5 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | +23 | 32.5k | GitHub's official MCP Server |
+| 6 | [restic/restic](https://github.com/restic/restic) | +21 | 35.7k | Fast, secure, efficient backup program |
+| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | +269 | 39.0k | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订... |
+| 8 | [charmbracelet/crush](https://github.com/charmbracelet/crush) | +39 | 27.6k | Glamourous agentic coding for all 💘 |
+| 9 | [mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library) | +7 | 2.0k | Official library of CLIs generated by the CLI P... |
+| 10 | [compozy/compozy](https://github.com/compozy/compozy) | +8 | 2.7k | An operating system for AI agents. Plug in the ... |
 
 
 ---
@@ -113,16 +114,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [openai/codex](https://github.com/openai/codex) | +1544 | 113.5k | Lightweight coding agent that runs in your term... |
-| 2 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +959 | 14.0k | ⚡️A native, local-first alternative to Logitech... |
-| 3 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | +324 | 27.3k | Production-grade Rust-native trading engine wit... |
-| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | +51 | 36.5k | Your Personal AI super intelligence. A brain th... |
-| 5 | [oven-sh/bun](https://github.com/oven-sh/bun) | +50 | 95.6k | Incredibly fast JavaScript runtime, bundler, te... |
-| 6 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | +68 | 65.8k | Unofficial Bitwarden compatible server written ... |
-| 7 | [aaif-goose/goose](https://github.com/aaif-goose/goose) | +81 | 53.3k | an open source, extensible AI agent that goes b... |
-| 8 | [rust-lang/cargo](https://github.com/rust-lang/cargo) | +7 | 15.4k | The Rust package manager |
-| 9 | [rustfs/rustfs](https://github.com/rustfs/rustfs) | +30 | 31.3k | 🚀2.3x faster than MinIO for 4KB object payloads... |
-| 10 | [block/buzz](https://github.com/block/buzz) | +564 | 29.8k | A hive mind communication platform |
+| 1 | [openai/codex](https://github.com/openai/codex) | +2715 | 115.4k | Lightweight coding agent that runs in your term... |
+| 2 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +1009 | 15.0k | ⚡️A native, local-first alternative to Logitech... |
+| 3 | [block/buzz](https://github.com/block/buzz) | +410 | 30.1k | A hive mind communication platform |
+| 4 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | +39 | 36.8k | Your Personal AI super intelligence. A brain th... |
+| 5 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | +78 | 66.0k | Unofficial Bitwarden compatible server written ... |
+| 6 | [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) | +174 | 27.5k | Production-grade Rust-native trading engine wit... |
+| 7 | [biomejs/biome](https://github.com/biomejs/biome) | +9 | 25.6k | A toolchain for web projects, aimed to provide ... |
+| 8 | [vercel/turborepo](https://github.com/vercel/turborepo) | +15 | 31.0k | Build system optimized for JavaScript and TypeS... |
+| 9 | [sinelaw/fresh](https://github.com/sinelaw/fresh) | +27 | 8.5k | Terminal based IDE & text editor: easy, powerfu... |
+| 10 | [slint-ui/slint](https://github.com/slint-ui/slint) | +15 | 23.5k | Slint is an open-source declarative GUI toolkit... |
 
 
 ---
@@ -133,16 +134,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本周 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +1693 | Cursor plugin specification and official plugins |
-| 2 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +3364 | Meta-Framework of Spatiotemporal Composability |
-| 3 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +3447 | Self-evolving Context Database for AI Agents. U... |
-| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +3151 | Beautiful, Modern & Opinionated Linux |
-| 5 | [modular/modular](https://github.com/modular/modular) | Mojo | +2017 | The Modular Platform (includes MAX & Mojo) |
-| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +10953 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD ... |
-| 7 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +4993 | ⚡️A native, local-first alternative to Logitech... |
-| 8 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +9381 | A collective list of free APIs |
-| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +7368 | 38 editorial diagram types for Claude Code, Cod... |
-| 10 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +2575 | Solution for long term memory for agent coding ... |
+| 1 | [modular/modular](https://github.com/modular/modular) | Mojo | +2176 | The Modular Platform (includes MAX & Mojo) |
+| 2 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +11167 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD ... |
+| 3 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +3660 | Beautiful, Modern & Opinionated Linux |
+| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +6078 | ⚡️A native, local-first alternative to Logitech... |
+| 5 | [cordiverse/cordis](https://github.com/cordiverse/cordis) | TypeScript | +2725 | Meta-Framework of Spatiotemporal Composability |
+| 6 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +3799 | Self-evolving Context Database for AI Agents. U... |
+| 7 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +8295 | A collective list of free APIs |
+| 8 | [jundot/omlx](https://github.com/jundot/omlx) | Python | +1671 | LLM inference server with continuous batching &... |
+| 9 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +406 | Community plugin marketplace for Claude Cowork ... |
+| 10 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +1761 | Cursor plugin specification and official plugins |
 
 
 ---
@@ -151,13 +152,13 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本月 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [block/buzz](https://github.com/block/buzz) | Rust | +26583 | A hive mind communication platform |
-| 2 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +15557 | A skill to stop your coding agent from burying ... |
-| 3 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | +14702 | TencentDB Agent Memory is a team-level memory h... |
-| 4 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | +11724 | The fastest browser for AI agents to run browse... |
-| 5 | [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) | Swift | +9757 | bluetooth mesh chat, IRC vibes |
-| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +18829 | Reverse Engineering / Authorized Penetration Te... |
-| 7 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +29023 | Never stop coding. Free MIT AI gateway: one end... |
-| 8 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +13881 | 12 Weeks, 24 Lessons, AI for All! |
-| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +5879 |  |
-| 10 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +4036 | Beautiful, Modern & Opinionated Linux |
+| 1 | [block/buzz](https://github.com/block/buzz) | Rust | +24429 | A hive mind communication platform |
+| 2 | [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) | TypeScript | +14878 | TencentDB Agent Memory is a team-level memory h... |
+| 3 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +14450 | A skill to stop your coding agent from burying ... |
+| 4 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +19063 | Reverse Engineering / Authorized Penetration Te... |
+| 5 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +4850 | Beautiful, Modern & Opinionated Linux |
+| 6 | [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) | Jupyter Notebook | +13993 | 12 Weeks, 24 Lessons, AI for All! |
+| 7 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +27573 | Never stop coding. Free MIT AI gateway: one end... |
+| 8 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +15086 | Turn any technical book PDF into a Claude Code ... |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +5876 |  |
+| 10 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | JavaScript | +11598 | The fastest browser for AI agents to run browse... |
