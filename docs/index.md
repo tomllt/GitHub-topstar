@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-24 02:39 UTC
+> 最后更新: 2026-08-25 02:34 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +2715 | 115.4k | Lightweight coding agent that runs in... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2447 | 234.0k | Skills for Real Engineers. Straight f... |
-| 3 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1081 | 48.0k | Use Claude Code, Codex, Pi, and OpenC... |
-| 4 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1009 | 15.0k | ⚡️A native, local-first alternative t... |
-| 5 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +750 | 29.2k | Beautiful, Modern & Opinionated Linux |
-| 6 | [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) | HTML | +615 | 134.5k | A list of SaaS, PaaS and IaaS offerin... |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +454 | 235.1k | The agent that grows with you |
-| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +427 | 242.6k | The agent harness performance optimiz... |
-| 9 | [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | Python | +417 | 24.7k | Turn any technical book PDF into a Cl... |
-| 10 | [block/buzz](https://github.com/block/buzz) | Rust | +410 | 30.1k | A hive mind communication platform |
+| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +2449 | 15.7k | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
+| 2 | [openai/codex](https://github.com/openai/codex) | Rust | +1994 | 117.2k | Lightweight coding agent that runs in... |
+| 3 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1097 | 15.9k | ⚡️A native, local-first alternative t... |
+| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +1056 | 30.2k | Beautiful, Modern & Opinionated Linux |
+| 5 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +896 | 235.9k | The agent that grows with you |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +891 | 49.1k | Use Claude Code, Codex, Pi, and OpenC... |
+| 7 | [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | - | +602 | 31.9k | A curated collection of 1000+ agent s... |
+| 8 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +588 | 206.6k | A single CLAUDE.md file to improve Cl... |
+| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +515 | 37.3k | Your Personal AI super intelligence. ... |
+| 10 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +489 | 1.4k | Community plugin marketplace for Clau... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [openai/codex](https://github.com/openai/codex) | Rust | +2715 | Lightweight coding agent that runs in... |
-| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +401 | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2447 | Skills for Real Engineers. Straight f... |
-| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +750 | Beautiful, Modern & Opinionated Linux |
-| 5 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1009 | ⚡️A native, local-first alternative t... |
-| 6 | [block/buzz](https://github.com/block/buzz) | Rust | +410 | A hive mind communication platform |
-| 7 | [apache/maka](https://github.com/apache/maka) | TypeScript | +51 | Apache Maka (Incubating) is a local-f... |
-| 8 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +1081 | Use Claude Code, Codex, Pi, and OpenC... |
-| 9 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +39 | Your Personal AI super intelligence. ... |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +427 | The agent harness performance optimiz... |
+| 1 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +891 | Use Claude Code, Codex, Pi, and OpenC... |
+| 2 | [openai/codex](https://github.com/openai/codex) | Rust | +1994 | Lightweight coding agent that runs in... |
+| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +434 | The job search that runs on your mach... |
+| 4 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +588 | A single CLAUDE.md file to improve Cl... |
+| 5 | [makeplane/plane](https://github.com/makeplane/plane) | TypeScript | +243 | 🔥🔥🔥 Open-source Jira, Linear, Monday,... |
+| 6 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +896 | The agent that grows with you |
+| 7 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +489 | Community plugin marketplace for Clau... |
+| 8 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +1097 | ⚡️A native, local-first alternative t... |
+| 9 | [apache/maka](https://github.com/apache/maka) | TypeScript | +411 | Apache Maka (Incubating) is a local-f... |
+| 10 | [PostHog/posthog](https://github.com/PostHog/posthog) | Python | +83 | 🦔 PostHog is the leading platform for... |
 
 
 [查看更多 →](trending/)
