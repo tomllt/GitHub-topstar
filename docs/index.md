@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-26 02:41 UTC
+> 最后更新: 2026-08-27 11:14 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +1698 | 18.3k | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
-| 2 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +1265 | 35.4k | The job search that runs on your mach... |
-| 3 | [openai/codex](https://github.com/openai/codex) | Rust | +1181 | 118.2k | Lightweight coding agent that runs in... |
-| 4 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +1083 | 31.3k | Beautiful, Modern & Opinionated Linux |
-| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +982 | 111.1k | Makes your AI agent think like the la... |
-| 6 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +830 | 207.3k | A single CLAUDE.md file to improve Cl... |
-| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | +813 | 12.8k | Self-organizing AI second brain for O... |
-| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +569 | 49.1k | Learn it. Build it. Ship it for others. |
-| 9 | [apache/maka](https://github.com/apache/maka) | TypeScript | +543 | 3.4k | Apache Maka (Incubating) is a local-f... |
-| 10 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +542 | 37.8k | Your Personal AI super intelligence. ... |
+| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +4050 | 22.4k | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1598 | 113.3k | Makes your AI agent think like the la... |
+| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +1284 | 51.8k | World's first open-source, agentic vi... |
+| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1040 | 87.1k | The open-source CapCut alternative |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +1035 | 20.7k | Agent skill for beautiful, verifiable... |
+| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +838 | 49.9k | Learn it. Build it. Ship it for others. |
+| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | +810 | 13.7k | Self-organizing AI second brain for O... |
+| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +707 | 100.8k | TradingAgents: Multi-Agents LLM Finan... |
+| 9 | [marin-community/marin](https://github.com/marin-community/marin) | Python | +441 | 2.6k | Open-source framework for the researc... |
+| 10 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | +314 | 1.8k | Help AI coding agents write modern Go |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +1698 | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
-| 2 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +351 | Community plugin marketplace for Clau... |
-| 3 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +1265 | The job search that runs on your mach... |
-| 4 | [apache/maka](https://github.com/apache/maka) | TypeScript | +543 | Apache Maka (Incubating) is a local-f... |
-| 5 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +218 | TradingAgents: Multi-Agents LLM Finan... |
-| 6 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | +813 | Self-organizing AI second brain for O... |
-| 7 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +569 | Learn it. Build it. Ship it for others. |
-| 8 | [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Rust | +542 | Your Personal AI super intelligence. ... |
-| 9 | [basecamp/omarchy](https://github.com/basecamp/omarchy) | Shell | +1083 | Beautiful, Modern & Opinionated Linux |
-| 10 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | Python | +161 | 100+ AI Agents, Agent Skills and RAG ... |
+| 1 | [zedeus/nitter](https://github.com/zedeus/nitter) | Nim | +63 | Alternative Twitter front-end |
+| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +4050 | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
+| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +1035 | Agent skill for beautiful, verifiable... |
+| 4 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | +314 | Help AI coding agents write modern Go |
+| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +308 | Official, Anthropic-managed directory... |
+| 6 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +138 | Turn any AI agent into an AI Scientis... |
+| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1598 | Makes your AI agent think like the la... |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +1284 | World's first open-source, agentic vi... |
+| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +838 | Learn it. Build it. Ship it for others. |
+| 10 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | CSS | +113 | ConardLi's open-source Skills collect... |
 
 
 [查看更多 →](trending/)
