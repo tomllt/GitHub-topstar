@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-27 11:14 UTC
+> 最后更新: 2026-08-28 12:49 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +4050 | 22.4k | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1598 | 113.3k | Makes your AI agent think like the la... |
-| 3 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +1284 | 51.8k | World's first open-source, agentic vi... |
-| 4 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +1040 | 87.1k | The open-source CapCut alternative |
-| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +1035 | 20.7k | Agent skill for beautiful, verifiable... |
-| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +838 | 49.9k | Learn it. Build it. Ship it for others. |
-| 7 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | Python | +810 | 13.7k | Self-organizing AI second brain for O... |
-| 8 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +707 | 100.8k | TradingAgents: Multi-Agents LLM Finan... |
-| 9 | [marin-community/marin](https://github.com/marin-community/marin) | Python | +441 | 2.6k | Open-source framework for the researc... |
-| 10 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | +314 | 1.8k | Help AI coding agents write modern Go |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +4561 | 25.5k | Agent skill for beautiful, verifiable... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1984 | 10.0k | A spy satellite simulator in your bro... |
+| 3 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +1687 | 24.0k | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1396 | 114.8k | Makes your AI agent think like the la... |
+| 5 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +1144 | 52.9k | World's first open-source, agentic vi... |
+| 6 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | +986 | 2.3k | like netcat, but over Tailscale's dat... |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +720 | 35.8k | Turn any AI agent into an AI Scientis... |
+| 8 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +703 | 50.5k | Learn it. Build it. Ship it for others. |
+| 9 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | +574 | 2.4k | Help AI coding agents write modern Go |
+| 10 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +457 | 34.9k | Official, Anthropic-managed directory... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [zedeus/nitter](https://github.com/zedeus/nitter) | Nim | +63 | Alternative Twitter front-end |
-| 2 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +4050 | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
-| 3 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +1035 | Agent skill for beautiful, verifiable... |
-| 4 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | +314 | Help AI coding agents write modern Go |
-| 5 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +308 | Official, Anthropic-managed directory... |
-| 6 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +138 | Turn any AI agent into an AI Scientis... |
-| 7 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1598 | Makes your AI agent think like the la... |
-| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +1284 | World's first open-source, agentic vi... |
-| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +838 | Learn it. Build it. Ship it for others. |
-| 10 | [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) | CSS | +113 | ConardLi's open-source Skills collect... |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +4561 | Agent skill for beautiful, verifiable... |
+| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +720 | Turn any AI agent into an AI Scientis... |
+| 3 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +457 | Official, Anthropic-managed directory... |
+| 4 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1984 | A spy satellite simulator in your bro... |
+| 5 | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) | TypeScript | +189 | GitNexus: The Zero-Server Code Intell... |
+| 6 | [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) | Go | +574 | Help AI coding agents write modern Go |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +1144 | World's first open-source, agentic vi... |
+| 8 | [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) | Python | +309 | Drop in a screenshot and convert it t... |
+| 9 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +257 | Cursor plugin specification and offic... |
+| 10 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +1687 | Prompt as Code / GPT-Image2 工业级提示词引擎与... |
 
 
 [查看更多 →](trending/)
