@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-08-31 07:01 UTC
+> 最后更新: 2026-09-01 06:21 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +3722 | 35.9k | Agent skill for beautiful, verifiable... |
-| 2 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +1370 | 24.9k | Open Multi-Agent Interactive Classroo... |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1114 | 39.8k | Turn any AI agent into an AI Scientis... |
-| 4 | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | TypeScript | +504 | 23.0k | 7.4 billion tokens per month. 34 free... |
-| 5 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +469 | 15.3k | Open source alternative to Semrush an... |
-| 6 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +369 | 29.3k | Fully automatic censorship removal fo... |
-| 7 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | +361 | 9.8k |  |
-| 8 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +230 | 60.6k | AI agent skill that researches any to... |
-| 9 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | +221 | 80.4k | 🚀🤖 Crawl4AI: Open-source LLM Friendly... |
-| 10 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +198 | 74.0k | Ghidra is a software reverse engineer... |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +3991 | 39.7k | Agent skill for beautiful, verifiable... |
+| 2 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +2824 | 27.9k | Open Multi-Agent Interactive Classroo... |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1980 | 41.0k | Turn any AI agent into an AI Scientis... |
+| 4 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +1401 | 33.4k | Reverse Engineering / Authorized Pene... |
+| 5 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +610 | 15.9k | Open source alternative to Semrush an... |
+| 6 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | +582 | 23.5k | Advanced UX and interoperability exte... |
+| 7 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +571 | 6.4k | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读... |
+| 8 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +537 | 29.8k | Fully automatic censorship removal fo... |
+| 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +512 | 245.4k | The agent harness performance optimiz... |
+| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +495 | 56.4k | 🧠 Train a 64M-parameter LLM from scra... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +1370 | Open Multi-Agent Interactive Classroo... |
-| 2 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1114 | Turn any AI agent into an AI Scientis... |
-| 3 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | +361 |  |
-| 4 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +3722 | Agent skill for beautiful, verifiable... |
-| 5 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +369 | Fully automatic censorship removal fo... |
-| 6 | [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) | Python | +221 | 🚀🤖 Crawl4AI: Open-source LLM Friendly... |
-| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +230 | AI agent skill that researches any to... |
-| 8 | [majd/ipatool](https://github.com/majd/ipatool) | Go | +58 | Command-line tool that allows searchi... |
-| 9 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | - | +96 | A collection of MCP servers. |
-| 10 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | +115 | Checkstyle is a development tool to h... |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +2824 | Open Multi-Agent Interactive Classroo... |
+| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +3991 | Agent skill for beautiful, verifiable... |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1980 | Turn any AI agent into an AI Scientis... |
+| 4 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | +582 | Advanced UX and interoperability exte... |
+| 5 | [majd/ipatool](https://github.com/majd/ipatool) | Go | +373 | Command-line tool that allows searchi... |
+| 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +495 | 🧠 Train a 64M-parameter LLM from scra... |
+| 7 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | +77 | Turn your PC, Mac, or Linux box into ... |
+| 8 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | +198 | Checkstyle is a development tool to h... |
+| 9 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +1401 | Reverse Engineering / Authorized Pene... |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +512 | The agent harness performance optimiz... |
 
 
 [查看更多 →](trending/)
