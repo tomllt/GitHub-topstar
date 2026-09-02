@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-01 06:21 UTC
+> 最后更新: 2026-09-02 05:47 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +3991 | 39.7k | Agent skill for beautiful, verifiable... |
-| 2 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +2824 | 27.9k | Open Multi-Agent Interactive Classroo... |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1980 | 41.0k | Turn any AI agent into an AI Scientis... |
-| 4 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +1401 | 33.4k | Reverse Engineering / Authorized Pene... |
-| 5 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +610 | 15.9k | Open source alternative to Semrush an... |
-| 6 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | +582 | 23.5k | Advanced UX and interoperability exte... |
-| 7 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +571 | 6.4k | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读... |
-| 8 | [p-e-w/heretic](https://github.com/p-e-w/heretic) | Python | +537 | 29.8k | Fully automatic censorship removal fo... |
-| 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +512 | 245.4k | The agent harness performance optimiz... |
-| 10 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +495 | 56.4k | 🧠 Train a 64M-parameter LLM from scra... |
+| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +3128 | 29.8k | Open Multi-Agent Interactive Classroo... |
+| 2 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +1005 | 57.3k | 🧠 Train a 64M-parameter LLM from scra... |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +912 | 41.7k | Turn any AI agent into an AI Scientis... |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +623 | 245.8k | The agent harness performance optimiz... |
+| 5 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +577 | 23.8k | Invidious is an alternative front-end... |
+| 6 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | +541 | 18.1k | Fast Rust library for PDF inspection,... |
+| 7 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +501 | 6.8k | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读... |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +472 | 23.1k | Edit videos with coding agents |
+| 9 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | - | +323 | 113.0k | A collection of DESIGN.md files analy... |
+| 10 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +193 | 45.1k | Academic Research Skills for Claude C... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +2824 | Open Multi-Agent Interactive Classroo... |
-| 2 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +3991 | Agent skill for beautiful, verifiable... |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1980 | Turn any AI agent into an AI Scientis... |
-| 4 | [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer) | C# | +582 | Advanced UX and interoperability exte... |
-| 5 | [majd/ipatool](https://github.com/majd/ipatool) | Go | +373 | Command-line tool that allows searchi... |
-| 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +495 | 🧠 Train a 64M-parameter LLM from scra... |
-| 7 | [Osmantic/ODS](https://github.com/Osmantic/ODS) | Python | +77 | Turn your PC, Mac, or Linux box into ... |
-| 8 | [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) | Java | +198 | Checkstyle is a development tool to h... |
-| 9 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +1401 | Reverse Engineering / Authorized Pene... |
-| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +512 | The agent harness performance optimiz... |
+| 1 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | +80 | runs anywhere. uses anything |
+| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +193 | Academic Research Skills for Claude C... |
+| 3 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +3128 | Open Multi-Agent Interactive Classroo... |
+| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +577 | Invidious is an alternative front-end... |
+| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +1005 | 🧠 Train a 64M-parameter LLM from scra... |
+| 6 | [3b1b/manim](https://github.com/3b1b/manim) | Python | +86 | Animation engine for explanatory math... |
+| 7 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | +541 | Fast Rust library for PDF inspection,... |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +472 | Edit videos with coding agents |
+| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +912 | Turn any AI agent into an AI Scientis... |
+| 10 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +501 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读... |
 
 
 [查看更多 →](trending/)
