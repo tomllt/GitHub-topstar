@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-02 05:47 UTC
+> 最后更新: 2026-09-03 05:48 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +3128 | 29.8k | Open Multi-Agent Interactive Classroo... |
-| 2 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +1005 | 57.3k | 🧠 Train a 64M-parameter LLM from scra... |
-| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +912 | 41.7k | Turn any AI agent into an AI Scientis... |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +623 | 245.8k | The agent harness performance optimiz... |
-| 5 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +577 | 23.8k | Invidious is an alternative front-end... |
-| 6 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | +541 | 18.1k | Fast Rust library for PDF inspection,... |
-| 7 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +501 | 6.8k | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读... |
-| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +472 | 23.1k | Edit videos with coding agents |
-| 9 | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | - | +323 | 113.0k | A collection of DESIGN.md files analy... |
-| 10 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +193 | 45.1k | Academic Research Skills for Claude C... |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1354 | 122.1k | Makes your AI agent think like the la... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1166 | 245.5k | Skills for Real Engineers. Straight f... |
+| 3 | [pacifio/atlas](https://github.com/pacifio/atlas) | Rust | +888 | 3.0k | Source control for agents. Use multip... |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +832 | 15.1k | VoiceStudio is the open-source, fully... |
+| 5 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +799 | 45.7k | Academic Research Skills for Claude C... |
+| 6 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | +775 | 32.1k | runs anywhere. uses anything |
+| 7 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | +586 | 18.6k | Fast Rust library for PDF inspection,... |
+| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +533 | 240.3k | The agent that grows with you |
+| 9 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +516 | 246.5k | The agent harness performance optimiz... |
+| 10 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +374 | 40.6k | Agent skill that removes signs of AI-... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | +80 | runs anywhere. uses anything |
-| 2 | [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | +193 | Academic Research Skills for Claude C... |
-| 3 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +3128 | Open Multi-Agent Interactive Classroo... |
-| 4 | [iv-org/invidious](https://github.com/iv-org/invidious) | Crystal | +577 | Invidious is an alternative front-end... |
-| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +1005 | 🧠 Train a 64M-parameter LLM from scra... |
-| 6 | [3b1b/manim](https://github.com/3b1b/manim) | Python | +86 | Animation engine for explanatory math... |
-| 7 | [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) | Rust | +541 | Fast Rust library for PDF inspection,... |
-| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +472 | Edit videos with coding agents |
-| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +912 | Turn any AI agent into an AI Scientis... |
-| 10 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +501 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读... |
+| 1 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | +14 | A modern formatting library |
+| 2 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +343 | TimesFM (Time Series Foundation Model... |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1354 | Makes your AI agent think like the la... |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +832 | VoiceStudio is the open-source, fully... |
+| 5 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | Python | +63 | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| 6 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +148 | Chrome DevTools for coding agents |
+| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +533 | The agent that grows with you |
+| 8 | [superlinked/sie](https://github.com/superlinked/sie) | Python | +60 | Open-source inference server and prod... |
+| 9 | [pacifio/atlas](https://github.com/pacifio/atlas) | Rust | +888 | Source control for agents. Use multip... |
+| 10 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Vue | +21 | Practice English, one strike, one ste... |
 
 
 [查看更多 →](trending/)
