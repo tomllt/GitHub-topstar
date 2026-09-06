@@ -5,29 +5,28 @@ title: GitHub Trending
 
 # GitHub Trending 热门推荐
 
-> 更新时间: 2026-09-05 05:36 UTC
+> 更新时间: 2026-09-06 05:52 UTC
 
 ## 今日热门 (全语言)
 
 | 排名 | 项目 | 语言 | 今日 Star | 总 Star | 描述 |
 |------|------|------|-----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2758 | 250.7k | Skills for Real Engineers. Straight from my .ag... |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1679 | 126.5k | Makes your AI agent think like the laziest seni... |
-| 3 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | +688 | 25.5k | A modern formatting library |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1135 | 248.7k | The agent harness performance optimization syst... |
-| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +511 | 174.2k | Public repository for Agent Skills |
-| 6 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +1130 | 42.9k | Agent skill that removes signs of AI-generated ... |
-| 7 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +720 | 241.6k | The agent that grows with you |
-| 8 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +501 | 103.6k | 🪨 why use many token when few token do trick — ... |
-| 9 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | TypeScript | +391 | 2.6k | Open source inference server that runs the best... |
-| 10 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | Python | +74 | 4.6k | A single archive of public exploit PoCs and vul... |
-| 11 | [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) | Kotlin | +730 | 52.9k | 翻墙-科学上网 |
-| 12 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1345 | 18.2k | VoiceStudio is the open-source, fully-local Ele... |
-| 13 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +342 | 31.1k | TimesFM (Time Series Foundation Model) is a pre... |
-| 14 | [radixark/miles](https://github.com/radixark/miles) | Python | +64 | 2.6k | Miles is an enterprise-facing reinforcement lea... |
-| 15 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +345 | 204.2k | The open source coding agent. |
-| 16 | [clshortfuse/renodx](https://github.com/clshortfuse/renodx) | HLSL | +261 | 3.6k | Renovation Engine for DirectX Games |
-| 17 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +437 | 31.1k | 38 editorial diagram types for Claude Code, Cod... |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2692 | 253.0k | Skills for Real Engineers. Straight from my .ag... |
+| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1314 | 250.1k | The agent harness performance optimization syst... |
+| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +2845 | 128.2k | Makes your AI agent think like the laziest seni... |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +575 | 242.1k | The agent that grows with you |
+| 5 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | +134 | 25.6k | A modern formatting library |
+| 6 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +475 | 174.6k | Public repository for Agent Skills |
+| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +855 | 31.8k | 38 editorial diagram types for Claude Code, Cod... |
+| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +725 | 204.8k | The open source coding agent. |
+| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +136 | 70.7k | 🌊 The original agent meta-harness. Deploy intel... |
+| 10 | [humanlayer/skills](https://github.com/humanlayer/skills) | TypeScript | +442 | 2.8k |  |
+| 11 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +990 | 43.6k | Agent skill that removes signs of AI-generated ... |
+| 12 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | +68 | 3.0k | A list of tools that are open-source, in-browse... |
+| 13 | [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) | JavaScript | +95 | 2.4k | Claude Code toolkit - agents, commands, skills,... |
+| 14 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | TypeScript | +674 | 3.3k | Open source inference server that runs the best... |
+| 15 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | Python | +230 | 4.7k | A single archive of public exploit PoCs and vul... |
+| 16 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +22 | 94.9k | Node Version Manager - POSIX-compliant bash scr... |
 
 
 ---
@@ -37,16 +36,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [anthropics/skills](https://github.com/anthropics/skills) | +511 | 174.2k | Public repository for Agent Skills |
-| 2 | [blader/humanizer](https://github.com/blader/humanizer) | +1130 | 42.9k | Agent skill that removes signs of AI-generated ... |
-| 3 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +720 | 241.6k | The agent that grows with you |
-| 4 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | +74 | 4.6k | A single archive of public exploit PoCs and vul... |
-| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1345 | 18.2k | VoiceStudio is the open-source, fully-local Ele... |
-| 6 | [google-research/timesfm](https://github.com/google-research/timesfm) | +342 | 31.1k | TimesFM (Time Series Foundation Model) is a pre... |
-| 7 | [radixark/miles](https://github.com/radixark/miles) | +64 | 2.6k | Miles is an enterprise-facing reinforcement lea... |
-| 8 | [github/spec-kit](https://github.com/github/spec-kit) | +194 | 133.5k | 💫 Toolkit to help you get started with Spec-Dri... |
-| 9 | [Sumanth077/Hands-On-AI-Engineering](https://github.com/Sumanth077/Hands-On-AI-Engineering) | +60 | 3.1k | A curated collection of practical AI projects i... |
-| 10 | [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) | +209 | 77.0k | 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程 |
+| 1 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | +575 | 242.1k | The agent that grows with you |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | +475 | 174.6k | Public repository for Agent Skills |
+| 3 | [blader/humanizer](https://github.com/blader/humanizer) | +990 | 43.6k | Agent skill that removes signs of AI-generated ... |
+| 4 | [bikini/exploitarium](https://github.com/bikini/exploitarium) | +230 | 4.7k | A single archive of public exploit PoCs and vul... |
+| 5 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | +708 | 35.5k | SGLang is a high-performance serving framework ... |
+| 6 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | +1456 | 19.1k | VoiceStudio is the open-source, fully-local Ele... |
+| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | +166 | 16.3k | Security scanner for AI agent skills. Detect vu... |
+| 8 | [sngyai/Sequoia-X](https://github.com/sngyai/Sequoia-X) | +112 | 6.8k | A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 |
+| 9 | [k2-fsa/OmniVoice](https://github.com/k2-fsa/OmniVoice) | +128 | 10.0k | High-Quality Voice Cloning TTS for 600+ Languages |
+| 10 | [huggingface/datasets](https://github.com/huggingface/datasets) | +5 | 21.9k | 🤗 The largest hub of ready-to-use datasets for ... |
 
 
 ---
@@ -56,16 +55,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +1679 | 126.5k | Makes your AI agent think like the laziest seni... |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1135 | 248.7k | The agent harness performance optimization syst... |
-| 3 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | +262 | 6.8k | Voice-to-text dictation app with local (Nvidia ... |
-| 4 | [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) | +11 | 825 | A plugin marketplace for Claude Code/GitHub Cop... |
-| 5 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | +116 | 46.9k | Marketing skills for Claude Code and AI agents.... |
-| 6 | [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | +64 | 27.7k | Unrestricted Open-source alternative to AI vide... |
-| 7 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | +52 | 32.8k | Use Codex from Claude Code to review code or de... |
-| 8 | [TryGhost/Ghost](https://github.com/TryGhost/Ghost) | +19 | 55.2k | Independent technology for modern publishing, m... |
-| 9 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +331 | 92.3k | Production-grade engineering skills for AI codi... |
-| 10 | [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) | +161 | 15.0k | The fastest browser for AI agents to run browse... |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | +1314 | 250.1k | The agent harness performance optimization syst... |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | +2845 | 128.2k | Makes your AI agent think like the laziest seni... |
+| 3 | [WorldFlowAI/everything-claude-code](https://github.com/WorldFlowAI/everything-claude-code) | +95 | 2.4k | Claude Code toolkit - agents, commands, skills,... |
+| 4 | [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) | +34 | 32.8k | Use Codex from Claude Code to review code or de... |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | +172 | 92.5k | Production-grade engineering skills for AI codi... |
+| 6 | [fmhy/edit](https://github.com/fmhy/edit) | +32 | 11.6k | Make changes to FMHY |
+| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | +236 | 65.9k | The design language that makes your AI harness ... |
+| 8 | [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) | +41 | 30.9k | Vercel's official collection of agent skills |
+| 9 | [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) | +274 | 7.0k | Voice-to-text dictation app with local (Nvidia ... |
+| 10 | [facebook/stylex](https://github.com/facebook/stylex) | +19 | 10.2k | StyleX is the styling system for ambitious user... |
 
 
 ---
@@ -75,16 +74,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +391 | 2.6k | Open source inference server that runs the best... |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +345 | 204.2k | The open source coding agent. |
-| 3 | [awslabs/aidlc-workflows](https://github.com/awslabs/aidlc-workflows) | +37 | 4.3k | AI-Driven Life Cycle (AI-DLC) adaptive workflow... |
-| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | +84 | 50.9k | Chrome DevTools for coding agents |
-| 5 | [NateBJones-Projects/OB1](https://github.com/NateBJones-Projects/OB1) | +10 | 4.6k | Open Brain — The infrastructure layer for your ... |
-| 6 | [shadcn-ui/ui](https://github.com/shadcn-ui/ui) | +101 | 123.1k | A set of beautifully-designed, accessible compo... |
-| 7 | [stablyai/orca](https://github.com/stablyai/orca) | +831 | 61.8k | Orca is the ADE for working with a fleet of par... |
-| 8 | [upstash/context7](https://github.com/upstash/context7) | +39 | 61.6k | Context7 Platform -- Up-to-date code documentat... |
-| 9 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | +281 | 32.6k | runs anywhere. uses anything |
-| 10 | [github/docs](https://github.com/github/docs) | +14 | 20.8k | The open-source repo for docs.github.com |
+| 1 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | +725 | 204.8k | The open source coding agent. |
+| 2 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | +136 | 70.7k | 🌊 The original agent meta-harness. Deploy intel... |
+| 3 | [humanlayer/skills](https://github.com/humanlayer/skills) | +442 | 2.8k |  |
+| 4 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | +68 | 3.0k | A list of tools that are open-source, in-browse... |
+| 5 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | +674 | 3.3k | Open source inference server that runs the best... |
+| 6 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | +35 | 20.4k | Context window optimization for AI coding agent... |
+| 7 | [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) | +201 | 29.7k | ⌥ Coding agent with the IDE wired in |
+| 8 | [actions/upload-artifact](https://github.com/actions/upload-artifact) | +4 | 4.2k |  |
+| 9 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | +156 | 389.0k | The AI that really does things. Any OS. Any Pla... |
+| 10 | [777genius/agent-teams-ai](https://github.com/777genius/agent-teams-ai) | +17 | 2.1k | You're the boss, agents are your team. They han... |
 
 
 ---
@@ -94,16 +93,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +501 | 103.6k | 🪨 why use many token when few token do trick — ... |
-| 2 | [multica-ai/multica](https://github.com/multica-ai/multica) | +118 | 48.9k | Make humans and AI agents work as one team — op... |
-| 3 | [opentofu/opentofu](https://github.com/opentofu/opentofu) | +27 | 30.1k | OpenTofu lets you declaratively manage your clo... |
-| 4 | [seakee/CPA-Manager-Plus](https://github.com/seakee/CPA-Manager-Plus) | +29 | 3.2k | A self-hosted CPA / CLIProxyAPI management pane... |
-| 5 | [Gentleman-Programming/engram](https://github.com/Gentleman-Programming/engram) | +24 | 6.3k | Persistent memory system for AI coding agents. ... |
-| 6 | [DataDog/datadog-agent](https://github.com/DataDog/datadog-agent) | +0 | 3.7k | Main repository for Datadog Agent |
-| 7 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | +130 | 40.5k | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订... |
-| 8 | [gastownhall/beads](https://github.com/gastownhall/beads) | +43 | 26.9k | Beads - A memory upgrade for your coding agent |
-| 9 | [crossplane/crossplane](https://github.com/crossplane/crossplane) | +10 | 12.0k | The Cloud Native Control Plane |
-| 10 | [cilium/cilium](https://github.com/cilium/cilium) | +10 | 25.1k | eBPF-based Networking, Security, and Observability |
+| 1 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | +18 | 32.7k | GitHub's official MCP Server |
+| 2 | [ollama/ollama](https://github.com/ollama/ollama) | +100 | 180.3k | Get up and running with Kimi-K2.6, GLM-5.2, Min... |
+| 3 | [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) | +102 | 40.6k | Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订... |
+| 4 | [netbirdio/netbird](https://github.com/netbirdio/netbird) | +36 | 28.9k | Connect your devices into a secure WireGuard®-b... |
+| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | +336 | 103.8k | 🪨 why use many token when few token do trick — ... |
+| 6 | [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) | +8 | 7.9k | 🪓 An orchestration engine for background tasks,... |
+| 7 | [openfga/openfga](https://github.com/openfga/openfga) | +6 | 5.7k | A high performance and flexible authorization/p... |
+| 8 | [livekit/livekit](https://github.com/livekit/livekit) | +15 | 20.7k | End-to-end realtime stack for connecting humans... |
+| 9 | [rclone/rclone](https://github.com/rclone/rclone) | +32 | 59.6k | "rsync for cloud storage" - Google Drive, S3, D... |
+| 10 | [derailed/k9s](https://github.com/derailed/k9s) | +7 | 34.5k | 🐶 Kubernetes CLI To Manage Your Clusters In Style! |
 
 
 ---
@@ -113,16 +112,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 今日 Star | 总 Star | 描述 |
 |------|------|-----------|---------|------|
-| 1 | [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) | +179 | 14.0k | Rust GUI components for building fantastic cros... |
-| 2 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | +113 | 5.8k | Solution for long term memory for agent coding ... |
-| 3 | [rust-lang/rust](https://github.com/rust-lang/rust) | +42 | 117.5k | Empowering everyone to build reliable and effic... |
-| 4 | [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) | +56 | 3.6k | MicYou is a powerful tool that turns your Andro... |
-| 5 | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | +95 | 21.7k | Open source Loom alternative. Beautiful, sharea... |
-| 6 | [pacifio/atlas](https://github.com/pacifio/atlas) | +69 | 3.2k | Source control for agents. Use multiple coding ... |
-| 7 | [jj-vcs/jj](https://github.com/jj-vcs/jj) | +29 | 31.4k | A Git-compatible VCS that is both simple and po... |
-| 8 | [confeden/Antigravity](https://github.com/confeden/Antigravity) | +19 | 444 | Antigravity в России без VPN и смены региона ак... |
-| 9 | [lbjlaq/Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) | +53 | 31.0k | Professional Antigravity Account Manager & Swit... |
-| 10 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | +102 | 9.5k | Download Udemy and Hotmart courses, YouTube vid... |
+| 1 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | +280 | 19.6k | ⚡️A native, local-first alternative to Logitech... |
+| 2 | [openai/codex](https://github.com/openai/codex) | +232 | 121.8k | Lightweight coding agent that runs in your term... |
+| 3 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | +49 | 9.5k | Download Udemy and Hotmart courses, YouTube vid... |
+| 4 | [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) | +59 | 14.0k | Rust GUI components for building fantastic cros... |
+| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | +62 | 42.0k | Browser automation CLI for AI agents |
+| 6 | [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox) | +18 | 1.4k | Personal AI Toolbox |
+| 7 | [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) | +16 | 6.6k | The open-source observability database. One col... |
+| 8 | [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) | +56 | 17.1k | 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / Git... |
+| 9 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | +58 | 66.9k | Unofficial Bitwarden compatible server written ... |
+| 10 | [slint-ui/slint](https://github.com/slint-ui/slint) | +7 | 23.7k | Slint is an open-source declarative GUI toolkit... |
 
 
 ---
@@ -133,16 +132,16 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本周 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +21896 | Agent skill for beautiful, verifiable architect... |
-| 2 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +10274 | Open Multi-Agent Interactive Classroom — Get an... |
-| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +7314 | A spy satellite simulator in your browser, exce... |
-| 4 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | +1679 | runs anywhere. uses anything |
-| 5 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +2653 | TimesFM (Time Series Foundation Model) is a pre... |
-| 6 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +3390 | 🧠 Train a 64M-parameter LLM from scratch in jus... |
-| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +6898 | Turn any AI agent into an AI Scientist. The #1 ... |
-| 8 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | +1982 |  |
-| 9 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | +1671 | A modern formatting library |
-| 10 | [every-app/open-seo](https://github.com/every-app/open-seo) | TypeScript | +2950 | Open source alternative to Semrush and Ahrefs |
+| 1 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +19480 | Agent skill for beautiful, verifiable architect... |
+| 2 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +10109 | Open Multi-Agent Interactive Classroom — Get an... |
+| 3 | [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude) | TypeScript | +1839 | runs anywhere. uses anything |
+| 4 | [google-research/timesfm](https://github.com/google-research/timesfm) | Python | +2968 | TimesFM (Time Series Foundation Model) is a pre... |
+| 5 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +3649 | 🧠 Train a 64M-parameter LLM from scratch in jus... |
+| 6 | [tailscale/tailcat](https://github.com/tailscale/tailcat) | Go | +3187 | like netcat, but over Tailscale's data plane, w... |
+| 7 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +5491 | Turn any AI agent into an AI Scientist. The #1 ... |
+| 8 | [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | Swift | +1631 |  |
+| 9 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | +1809 | A modern formatting library |
+| 10 | [handsomestWei/patent-disclosure-skill](https://github.com/handsomestWei/patent-disclosure-skill) | Python | +1996 | 中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，... |
 
 
 ---
@@ -151,13 +150,13 @@ title: GitHub Trending
 
 | 排名 | 项目 | 语言 | 本月 Star | 描述 |
 |------|------|------|-----------|------|
-| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +27843 | 38 editorial diagram types for Claude Code, Cod... |
-| 2 | [omacom/omarchy](https://github.com/omacom/omarchy) | Shell | +13961 | Beautiful, Modern & Opinionated Linux |
-| 3 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +19927 | A self-improving RLM agent for coding workflows... |
-| 4 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | +10154 | Graph-Native Infrastructure for Context and Acc... |
-| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +38699 | Agent skill for beautiful, verifiable architect... |
-| 6 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +3126 | Community plugin marketplace for Claude Cowork ... |
-| 7 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +11070 | ⚡️A native, local-first alternative to Logitech... |
-| 8 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +7710 | Self-evolving Context Database for AI Agents. U... |
-| 9 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | Python | +2480 | The ultimate RAG for your monorepo. Query, unde... |
-| 10 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +19360 | Prompt as Code / GPT-Image2 工业级提示词引擎与模板库，530+ 个... |
+| 1 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +28654 | 38 editorial diagram types for Claude Code, Cod... |
+| 2 | [omacom/omarchy](https://github.com/omacom/omarchy) | Shell | +14222 | Beautiful, Modern & Opinionated Linux |
+| 3 | [semantica-agi/semantica](https://github.com/semantica-agi/semantica) | Python | +10251 | Graph-Native Infrastructure for Context and Acc... |
+| 4 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +4411 | Cursor plugin specification and official plugins |
+| 5 | [tt-a1i/archify](https://github.com/tt-a1i/archify) | JavaScript | +40038 | Agent skill for beautiful, verifiable architect... |
+| 6 | [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) | Python | +3187 | Community plugin marketplace for Claude Cowork ... |
+| 7 | [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) | TypeScript | +20036 | A self-improving RLM agent for coding workflows... |
+| 8 | [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi) | Rust | +11323 | ⚡️A native, local-first alternative to Logitech... |
+| 9 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | Python | +7811 | Self-evolving Context Database for AI Agents. U... |
+| 10 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +19395 | Prompt as Code / GPT-Image2 工业级提示词引擎与模板库，530+ 个... |
