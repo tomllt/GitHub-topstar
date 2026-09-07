@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-06 05:52 UTC
+> 最后更新: 2026-09-07 06:02 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +2845 | 128.2k | Makes your AI agent think like the la... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2692 | 253.0k | Skills for Real Engineers. Straight f... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1314 | 250.1k | The agent harness performance optimiz... |
-| 4 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +990 | 43.6k | Agent skill that removes signs of AI-... |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +855 | 31.8k | 38 editorial diagram types for Claude... |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +725 | 204.8k | The open source coding agent. |
-| 7 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | TypeScript | +674 | 3.3k | Open source inference server that run... |
-| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +575 | 242.1k | The agent that grows with you |
-| 9 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +475 | 174.6k | Public repository for Agent Skills |
-| 10 | [humanlayer/skills](https://github.com/humanlayer/skills) | TypeScript | +442 | 2.8k |  |
+| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2207 | 255.0k | Skills for Real Engineers. Straight f... |
+| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1539 | 129.8k | Makes your AI agent think like the la... |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1485 | 251.8k | The agent harness performance optimiz... |
+| 4 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +748 | 44.5k | Agent skill that removes signs of AI-... |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +620 | 32.6k | 38 editorial diagram types for Claude... |
+| 6 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | TypeScript | +604 | 3.8k | Open source inference server that run... |
+| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +551 | 205.4k | The open source coding agent. |
+| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +520 | 242.7k | The agent that grows with you |
+| 9 | [humanlayer/skills](https://github.com/humanlayer/skills) | TypeScript | +451 | 3.3k |  |
+| 10 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | +436 | 3.4k | A list of tools that are open-source,... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2692 | Skills for Real Engineers. Straight f... |
-| 2 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1314 | The agent harness performance optimiz... |
-| 3 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +2845 | Makes your AI agent think like the la... |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +575 | The agent that grows with you |
-| 5 | [fmtlib/fmt](https://github.com/fmtlib/fmt) | C++ | +134 | A modern formatting library |
-| 6 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +475 | Public repository for Agent Skills |
-| 7 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +855 | 38 editorial diagram types for Claude... |
-| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +725 | The open source coding agent. |
-| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +136 | 🌊 The original agent meta-harness. De... |
-| 10 | [humanlayer/skills](https://github.com/humanlayer/skills) | TypeScript | +442 |  |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1485 | The agent harness performance optimiz... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2207 | Skills for Real Engineers. Straight f... |
+| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +620 | 38 editorial diagram types for Claude... |
+| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +520 | The agent that grows with you |
+| 5 | [openai/skills](https://github.com/openai/skills) | Python | +46 | Skills Catalog for Codex |
+| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +551 | The open source coding agent. |
+| 7 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +748 | Agent skill that removes signs of AI-... |
+| 8 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | LLVM | +23 | The LLVM Project is a collection of m... |
+| 9 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1539 | Makes your AI agent think like the la... |
+| 10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +276 | 🌊 The original agent meta-harness. De... |
 
 
 [查看更多 →](trending/)
