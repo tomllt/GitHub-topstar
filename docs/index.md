@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-07 06:02 UTC
+> 最后更新: 2026-09-08 05:56 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2207 | 255.0k | Skills for Real Engineers. Straight f... |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1539 | 129.8k | Makes your AI agent think like the la... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1485 | 251.8k | The agent harness performance optimiz... |
-| 4 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +748 | 44.5k | Agent skill that removes signs of AI-... |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +620 | 32.6k | 38 editorial diagram types for Claude... |
-| 6 | [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) | TypeScript | +604 | 3.8k | Open source inference server that run... |
-| 7 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +551 | 205.4k | The open source coding agent. |
-| 8 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +520 | 242.7k | The agent that grows with you |
-| 9 | [humanlayer/skills](https://github.com/humanlayer/skills) | TypeScript | +451 | 3.3k |  |
-| 10 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | +436 | 3.4k | A list of tools that are open-source,... |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1897 | 253.1k | The agent harness performance optimiz... |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +886 | 180.7k | Python tool for converting files and ... |
+| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +580 | 48.3k | Marketing skills for Claude Code and ... |
+| 4 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Python | +517 | 5.4k | Build your autonomous hedge fund in m... |
+| 5 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | +501 | 3.9k | A list of tools that are open-source,... |
+| 6 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +474 | 46.5k | Write HTML. Render video. Built for a... |
+| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +394 | 71.5k | 🌊 The original agent meta-harness. De... |
+| 8 | [openai/skills](https://github.com/openai/skills) | Python | +351 | 26.2k | Skills Catalog for Codex |
+| 9 | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | TypeScript | +197 | 9.9k | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目... |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +195 | 81.9k | An open-source long-horizon SuperAgen... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1485 | The agent harness performance optimiz... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2207 | Skills for Real Engineers. Straight f... |
-| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +620 | 38 editorial diagram types for Claude... |
-| 4 | [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | Python | +520 | The agent that grows with you |
-| 5 | [openai/skills](https://github.com/openai/skills) | Python | +46 | Skills Catalog for Codex |
-| 6 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +551 | The open source coding agent. |
-| 7 | [blader/humanizer](https://github.com/blader/humanizer) | Python | +748 | Agent skill that removes signs of AI-... |
-| 8 | [llvm/llvm-project](https://github.com/llvm/llvm-project) | LLVM | +23 | The LLVM Project is a collection of m... |
-| 9 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1539 | Makes your AI agent think like the la... |
-| 10 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +276 | 🌊 The original agent meta-harness. De... |
+| 1 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +474 | Write HTML. Render video. Built for a... |
+| 2 | [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python | +886 | Python tool for converting files and ... |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +96 | Context window optimization for AI co... |
+| 4 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | +135 | Stealth headless browser for AI agent... |
+| 5 | [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | TypeScript | +197 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目... |
+| 6 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1897 | The agent harness performance optimiz... |
+| 7 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +580 | Marketing skills for Claude Code and ... |
+| 8 | [The-Swarm-Corporation/AutoHedge](https://github.com/The-Swarm-Corporation/AutoHedge) | Python | +517 | Build your autonomous hedge fund in m... |
+| 9 | [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) | TypeScript | +501 | A list of tools that are open-source,... |
+| 10 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | Python | +195 | An open-source long-horizon SuperAgen... |
 
 
 [查看更多 →](trending/)
