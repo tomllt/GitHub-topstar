@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-11 05:56 UTC
+> 最后更新: 2026-09-12 05:44 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +3882 | 39.0k | A skill to stop your coding agent fro... |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1762 | 24.9k | A spy satellite simulator in your bro... |
-| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1294 | 38.0k | 38 editorial diagram types for Claude... |
-| 4 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +962 | 31.0k | Prompt as Code / GPT Image 2 / 2.5 提示... |
-| 5 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | +900 | 19.0k | Notes of the book System Desgin Inter... |
-| 6 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | TypeScript | +841 | 3.9k | Make Every Team AI Native |
-| 7 | [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) | TypeScript | +837 | 35.5k | Open Multi-Agent Interactive Classroo... |
-| 8 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +732 | 284.8k | An agentic skills framework & softwar... |
-| 9 | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | TypeScript | +626 | 64.4k | Never stop coding. Free MIT AI gatewa... |
-| 10 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | TypeScript | +624 | 2.4k | Local-first AI coding agent desktop: ... |
+| 1 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +3680 | 27.4k | A spy satellite simulator in your bro... |
+| 2 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +3463 | 42.3k | A skill to stop your coding agent fro... |
+| 3 | [github/spec-kit](https://github.com/github/spec-kit) | Python | +1015 | 135.8k | 💫 Toolkit to help you get started wit... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +729 | 285.5k | An agentic skills framework & softwar... |
+| 5 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | TypeScript | +647 | 18.8k | LLM Wiki is a cross-platform desktop ... |
+| 6 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | +626 | 2.2k | Open Source AI trading agent that ope... |
+| 7 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | TypeScript | +552 | 2.9k | Local-first AI coding agent desktop: ... |
+| 8 | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | C | +350 | 4.8k | Graphics Creation Tools |
+| 9 | [p1neappleXpress/OpenFlux](https://github.com/p1neappleXpress/OpenFlux) | Go | +198 | 1.2k | Network stack research tool. TCP tunn... |
+| 10 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | C# | +191 | 15.8k | Smart PVR for newsgroup and bittorren... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +3882 | A skill to stop your coding agent fro... |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1762 | A spy satellite simulator in your bro... |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +732 | An agentic skills framework & softwar... |
-| 4 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | +277 | Open Source AI trading agent that ope... |
-| 5 | [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | TypeScript | +841 | Make Every Team AI Native |
-| 6 | [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) | Rust | +258 | Hundreds of models & providers. One c... |
-| 7 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | +900 | Notes of the book System Desgin Inter... |
-| 8 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1294 | 38 editorial diagram types for Claude... |
-| 9 | [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | JavaScript | +962 | Prompt as Code / GPT Image 2 / 2.5 提示... |
-| 10 | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | C | +72 | Graphics Creation Tools |
+| 1 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +3463 | A skill to stop your coding agent fro... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +3680 | A spy satellite simulator in your bro... |
+| 3 | [nab138/iloader](https://github.com/nab138/iloader) | TypeScript | +50 | User friendly sideloader |
+| 4 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | +152 | Open-source AI sales OS — self-hosted... |
+| 5 | [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | TypeScript | +552 | Local-first AI coding agent desktop: ... |
+| 6 | [armory3d/armorpaint](https://github.com/armory3d/armorpaint) | C | +350 | Graphics Creation Tools |
+| 7 | [alsk1992/CloddsBot](https://github.com/alsk1992/CloddsBot) | TypeScript | +626 | Open Source AI trading agent that ope... |
+| 8 | [nashsu/llm_wiki](https://github.com/nashsu/llm_wiki) | TypeScript | +647 | LLM Wiki is a cross-platform desktop ... |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +729 | An agentic skills framework & softwar... |
+| 10 | [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) | C# | +191 | Smart PVR for newsgroup and bittorren... |
 
 
 [查看更多 →](trending/)
