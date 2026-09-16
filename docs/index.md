@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-15 06:12 UTC
+> 最后更新: 2026-09-16 05:58 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2776 | 29.7k | VoiceStudio is the open-source, fully... |
-| 2 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +2173 | 32.5k | Run frontier MoE models on hardware y... |
-| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +1571 | 26.3k | Fast, efficient, battle-tested at Ali... |
-| 4 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | +1130 | 6.1k | Ever® Gauzy™ - Open Business Manageme... |
-| 5 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +764 | 67.0k | Extracted system prompts from Anthrop... |
-| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +745 | 106.3k | TradingAgents: Multi-Agents LLM Finan... |
-| 7 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +651 | 81.6k | Give your AI agent eyes to see the en... |
-| 8 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +579 | 4.9k | claude-red is a curated library of of... |
-| 9 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +560 | 73.4k | A Simple and Universal Swarm Intellig... |
-| 10 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | Python | +559 | 8.6k | YuE2: frontier music generation with ... |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +2756 | 29.2k | Fast, efficient, battle-tested at Ali... |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2072 | 31.3k | VoiceStudio is the open-source, fully... |
+| 3 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +2026 | 34.1k | Run frontier MoE models on hardware y... |
+| 4 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +725 | 76.9k | Ghidra is a software reverse engineer... |
+| 5 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | +634 | 6.8k | Ever® Gauzy™ - Open Business Manageme... |
+| 6 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | +531 | 3.6k | Turn your coding agents into research... |
+| 7 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | +458 | 105.9k | AI agent toolkit: unified LLM API, ag... |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +307 | 94.9k | Production-grade engineering skills f... |
+| 9 | [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | Swift | +271 | 1.5k | 📺 Homebrew's official macOS GUI |
+| 10 | [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | Rust | +258 | 13.1k | Download Udemy and Hotmart courses, Y... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +2173 | Run frontier MoE models on hardware y... |
-| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +1571 | Fast, efficient, battle-tested at Ali... |
-| 3 | [multimodal-art-projection/YuE](https://github.com/multimodal-art-projection/YuE) | Python | +559 | YuE2: frontier music generation with ... |
-| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2776 | VoiceStudio is the open-source, fully... |
-| 5 | [666ghj/MiroFish](https://github.com/666ghj/MiroFish) | Python | +560 | A Simple and Universal Swarm Intellig... |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +651 | Give your AI agent eyes to see the en... |
-| 7 | [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | JavaScript | +764 | Extracted system prompts from Anthrop... |
-| 8 | [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | Python | +77 | All in one plugin for Hermes Agent ⚚ ... |
-| 9 | [localsend/localsend](https://github.com/localsend/localsend) | Dart | +251 | An open-source cross-platform alterna... |
-| 10 | [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) | Rust | +115 | Unofficial Bitwarden compatible serve... |
+| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +2756 | Fast, efficient, battle-tested at Ali... |
+| 2 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +2026 | Run frontier MoE models on hardware y... |
+| 3 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | TypeScript | +634 | Ever® Gauzy™ - Open Business Manageme... |
+| 4 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2072 | VoiceStudio is the open-source, fully... |
+| 5 | [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | Swift | +271 | 📺 Homebrew's official macOS GUI |
+| 6 | [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | TypeScript | +193 | Open-source AI sales OS — self-hosted... |
+| 7 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | +531 | Turn your coding agents into research... |
+| 8 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +725 | Ghidra is a software reverse engineer... |
+| 9 | [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | TypeScript | +254 | Enhanced ChatGPT Clone: Features Agen... |
+| 10 | [pacifio/atlas](https://github.com/pacifio/atlas) | Rust | +91 | Source control for agents. Use multip... |
 
 
 [查看更多 →](trending/)
