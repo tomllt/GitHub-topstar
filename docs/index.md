@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-18 05:52 UTC
+> 最后更新: 2026-09-19 05:48 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +3607 | 11.1k | A coding-agent skill for multi-phase ... |
-| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +3286 | 35.4k | Fast, efficient, battle-tested at Ali... |
-| 3 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | +1302 | 4.5k | Let AI agents use your real, logged-i... |
-| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1171 | 261.3k | The agent harness performance optimiz... |
-| 5 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Go | +1125 | 26.5k | Open-source LLM knowledge platform: t... |
-| 6 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | +939 | 5.1k | Turn your coding agents into research... |
-| 7 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +912 | 78.6k | Ghidra is a software reverse engineer... |
-| 8 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +873 | 35.9k | Run frontier MoE models on hardware y... |
-| 9 | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | Swift | +739 | 6.2k | Tinycast — a tiny, fully native macOS... |
-| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +680 | 96.0k | Production-grade engineering skills f... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +3006 | 14.2k | A coding-agent skill for multi-phase ... |
+| 2 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +2704 | 36.9k | Secure, fast, efficient, battle-teste... |
+| 3 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | +1306 | 5.4k | Let AI agents use your real, logged-i... |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +958 | 262.2k | The agent harness performance optimiz... |
+| 5 | [asciimoo/hister](https://github.com/asciimoo/hister) | Go | +889 | 5.0k | Your own search engine |
+| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +675 | 96.5k | Production-grade engineering skills f... |
+| 7 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | +569 | 4.0k | A smarter, self-hosted AI assistant —... |
+| 8 | [coder/coder](https://github.com/coder/coder) | Go | +478 | 15.4k | Secure environments for developers an... |
+| 9 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +444 | 146.4k | Claude Code is an agentic coding tool... |
+| 10 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +299 | 24.9k | Open source repository of plugins pri... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +3286 | Fast, efficient, battle-tested at Ali... |
-| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +3607 | A coding-agent skill for multi-phase ... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +680 | Production-grade engineering skills f... |
-| 4 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | +1302 | Let AI agents use your real, logged-i... |
-| 5 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | Rust | +939 | Turn your coding agents into research... |
-| 6 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +538 | Claude Code is an agentic coding tool... |
-| 7 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +912 | Ghidra is a software reverse engineer... |
-| 8 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +287 | Open source repository of plugins pri... |
-| 9 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | Go | +1125 | Open-source LLM knowledge platform: t... |
-| 10 | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | Swift | +739 | Tinycast — a tiny, fully native macOS... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +3006 | A coding-agent skill for multi-phase ... |
+| 2 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +444 | Claude Code is an agentic coding tool... |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +2704 | Secure, fast, efficient, battle-teste... |
+| 4 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +958 | The agent harness performance optimiz... |
+| 5 | [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill) | TypeScript | +1306 | Let AI agents use your real, logged-i... |
+| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +675 | Production-grade engineering skills f... |
+| 7 | [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | Python | +569 | A smarter, self-hosted AI assistant —... |
+| 8 | [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) | TypeScript | +296 | Spec-driven development (SDD) for AI ... |
+| 9 | [ankitects/anki](https://github.com/ankitects/anki) | Rust | +174 | Anki is a smart spaced repetition fla... |
+| 10 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +299 | Open source repository of plugins pri... |
 
 
 [查看更多 →](trending/)
