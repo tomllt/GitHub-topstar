@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-20 06:05 UTC
+> 最后更新: 2026-09-21 06:14 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +3155 | 16.8k | A coding-agent skill for multi-phase ... |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +859 | 24.6k | Scale computer-use 2.0 with open-sour... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +556 | 97.2k | Production-grade engineering skills f... |
-| 4 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +483 | 146.8k | Claude Code is an agentic coding tool... |
-| 5 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +472 | 16.2k | OpenStock is an open-source alternati... |
-| 6 | [asciimoo/hister](https://github.com/asciimoo/hister) | Go | +420 | 5.3k | Your own search engine |
-| 7 | [coder/coder](https://github.com/coder/coder) | Go | +402 | 15.7k | Secure environments for developers an... |
-| 8 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +281 | 25.2k | Open source repository of plugins pri... |
-| 9 | [cactus-compute/needle](https://github.com/cactus-compute/needle) | Python | +234 | 11.7k | Automation foundation model for tiny ... |
-| 10 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | +196 | 5.0k | Fault-tolerant, highly scalable GPU o... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2428 | 18.3k | A coding-agent skill for multi-phase ... |
+| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +1018 | 25.3k | Scale computer-use 2.0 with open-sour... |
+| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +826 | 264.0k | The agent harness performance optimiz... |
+| 4 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +755 | 17.0k | OpenStock is an open-source alternati... |
+| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +736 | 97.8k | Production-grade engineering skills f... |
+| 6 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | +465 | 5.5k | Fault-tolerant, highly scalable GPU o... |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +419 | 147.3k | Claude Code is an agentic coding tool... |
+| 8 | [coder/coder](https://github.com/coder/coder) | Go | +379 | 16.2k | Secure environments for developers an... |
+| 9 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | TypeScript | +291 | 17.5k | The Generative UI framework |
+| 10 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +260 | 35.5k |  |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +3155 | A coding-agent skill for multi-phase ... |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +859 | Scale computer-use 2.0 with open-sour... |
-| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +556 | Production-grade engineering skills f... |
-| 4 | [coder/coder](https://github.com/coder/coder) | Go | +402 | Secure environments for developers an... |
-| 5 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +483 | Claude Code is an agentic coding tool... |
-| 6 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +472 | OpenStock is an open-source alternati... |
-| 7 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | +196 | Fault-tolerant, highly scalable GPU o... |
-| 8 | [docling-project/docling](https://github.com/docling-project/docling) | Python | +129 | Get your documents ready for gen AI |
-| 9 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | +31 | 🥧 Savoury implementation of the QUIC ... |
-| 10 | [asciimoo/hister](https://github.com/asciimoo/hister) | Go | +420 | Your own search engine |
+| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +826 | The agent harness performance optimiz... |
+| 2 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +98 | A framework for building agentic apps |
+| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2428 | A coding-agent skill for multi-phase ... |
+| 4 | [trycua/cua](https://github.com/trycua/cua) | HTML | +1018 | Scale computer-use 2.0 with open-sour... |
+| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +260 |  |
+| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | +57 | A community-supported supercharged do... |
+| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +419 | Claude Code is an agentic coding tool... |
+| 8 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | Python | +172 | Assignments for CS146S: The Modern So... |
+| 9 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | +465 | Fault-tolerant, highly scalable GPU o... |
+| 10 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +755 | OpenStock is an open-source alternati... |
 
 
 [查看更多 →](trending/)
