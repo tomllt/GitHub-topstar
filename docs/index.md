@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-21 06:14 UTC
+> 最后更新: 2026-09-22 06:11 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2428 | 18.3k | A coding-agent skill for multi-phase ... |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +1018 | 25.3k | Scale computer-use 2.0 with open-sour... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +826 | 264.0k | The agent harness performance optimiz... |
-| 4 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +755 | 17.0k | OpenStock is an open-source alternati... |
-| 5 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +736 | 97.8k | Production-grade engineering skills f... |
-| 6 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | +465 | 5.5k | Fault-tolerant, highly scalable GPU o... |
-| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +419 | 147.3k | Claude Code is an agentic coding tool... |
-| 8 | [coder/coder](https://github.com/coder/coder) | Go | +379 | 16.2k | Secure environments for developers an... |
-| 9 | [vercel-labs/json-render](https://github.com/vercel-labs/json-render) | TypeScript | +291 | 17.5k | The Generative UI framework |
-| 10 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +260 | 35.5k |  |
+| 1 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +844 | 18.0k | OpenStock is an open-source alternati... |
+| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +609 | 25.8k | Scale computer-use 2.0 with open-sour... |
+| 3 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +607 | 6.1k | A framework for building agentic apps |
+| 4 | [coder/coder](https://github.com/coder/coder) | Go | +460 | 16.5k | Secure environments for developers an... |
+| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +424 | 35.9k |  |
+| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +394 | 38.0k | Project NOMAD is an offline-first kno... |
+| 7 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +250 | 8.4k | AutoClip : AI-powered video clipping ... |
+| 8 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | - | +182 | 104.2k | 科技爱好者周刊，每周五发布 |
+| 9 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +169 | 13.7k | MVT (Mobile Verification Toolkit) hel... |
+| 10 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +167 | 7.8k | Solution for long term memory for age... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +826 | The agent harness performance optimiz... |
-| 2 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +98 | A framework for building agentic apps |
-| 3 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2428 | A coding-agent skill for multi-phase ... |
-| 4 | [trycua/cua](https://github.com/trycua/cua) | HTML | +1018 | Scale computer-use 2.0 with open-sour... |
-| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +260 |  |
-| 6 | [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | Python | +57 | A community-supported supercharged do... |
-| 7 | [anthropics/claude-code](https://github.com/anthropics/claude-code) | TypeScript | +419 | Claude Code is an agentic coding tool... |
-| 8 | [mihail911/modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) | Python | +172 | Assignments for CS146S: The Modern So... |
-| 9 | [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) | Jupyter Notebook | +465 | Fault-tolerant, highly scalable GPU o... |
-| 10 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +755 | OpenStock is an open-source alternati... |
+| 1 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +607 | A framework for building agentic apps |
+| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +609 | Scale computer-use 2.0 with open-sour... |
+| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +844 | OpenStock is an open-source alternati... |
+| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +167 | Solution for long term memory for age... |
+| 5 | [coder/coder](https://github.com/coder/coder) | Go | +460 | Secure environments for developers an... |
+| 6 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +424 |  |
+| 7 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | +32 | 🥧 Savoury implementation of the QUIC ... |
+| 8 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +169 | MVT (Mobile Verification Toolkit) hel... |
+| 9 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +250 | AutoClip : AI-powered video clipping ... |
+| 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | - | +182 | 科技爱好者周刊，每周五发布 |
 
 
 [查看更多 →](trending/)
