@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-22 06:11 UTC
+> 最后更新: 2026-09-23 05:51 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +844 | 18.0k | OpenStock is an open-source alternati... |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +609 | 25.8k | Scale computer-use 2.0 with open-sour... |
-| 3 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +607 | 6.1k | A framework for building agentic apps |
-| 4 | [coder/coder](https://github.com/coder/coder) | Go | +460 | 16.5k | Secure environments for developers an... |
-| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +424 | 35.9k |  |
-| 6 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | TypeScript | +394 | 38.0k | Project NOMAD is an offline-first kno... |
-| 7 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +250 | 8.4k | AutoClip : AI-powered video clipping ... |
-| 8 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | - | +182 | 104.2k | 科技爱好者周刊，每周五发布 |
-| 9 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +169 | 13.7k | MVT (Mobile Verification Toolkit) hel... |
-| 10 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +167 | 7.8k | Solution for long term memory for age... |
+| 1 | [google/ax](https://github.com/google/ax) | Go | +2305 | 7.9k | Google's open agentic orchestration r... |
+| 2 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +441 | 14.2k | MVT (Mobile Verification Toolkit) hel... |
+| 3 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +438 | 36.5k |  |
+| 4 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +255 | 15.7k | The Office Harness for AI Agents — Sp... |
+| 5 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | +245 | 3.1k | Agent Substrate: the core system |
+| 6 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | +230 | 2.3k | OpenRouter for agent tools. Join comm... |
+| 7 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +191 | 26.0k | Edit videos with coding agents |
+| 8 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +64 | 31.2k | CLI tool for configuring and monitori... |
+| 9 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 456.0k | freeCodeCamp.org's open-source codeba... |
+| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 390.3k | The AI that really does things. Any O... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,14 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | TypeScript | +607 | A framework for building agentic apps |
-| 2 | [trycua/cua](https://github.com/trycua/cua) | HTML | +609 | Scale computer-use 2.0 with open-sour... |
-| 3 | [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) | TypeScript | +844 | OpenStock is an open-source alternati... |
-| 4 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +167 | Solution for long term memory for age... |
-| 5 | [coder/coder](https://github.com/coder/coder) | Go | +460 | Secure environments for developers an... |
-| 6 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +424 |  |
-| 7 | [cloudflare/quiche](https://github.com/cloudflare/quiche) | Rust | +32 | 🥧 Savoury implementation of the QUIC ... |
-| 8 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +169 | MVT (Mobile Verification Toolkit) hel... |
-| 9 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +250 | AutoClip : AI-powered video clipping ... |
-| 10 | [ruanyf/weekly](https://github.com/ruanyf/weekly) | - | +182 | 科技爱好者周刊，每周五发布 |
+| 1 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +438 |  |
+| 2 | [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | Go | +245 | Agent Substrate: the core system |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +255 | The Office Harness for AI Agents — Sp... |
+| 4 | [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | +64 | CLI tool for configuring and monitori... |
+| 5 | [google/ax](https://github.com/google/ax) | Go | +2305 | Google's open agentic orchestration r... |
+| 6 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +441 | MVT (Mobile Verification Toolkit) hel... |
+| 7 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | +230 | OpenRouter for agent tools. Join comm... |
+| 8 | [browser-use/video-use](https://github.com/browser-use/video-use) | Python | +191 | Edit videos with coding agents |
 
 
 [查看更多 →](trending/)
