@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-25 06:12 UTC
+> 最后更新: 2026-09-26 06:12 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +1668 | 28.1k | Hindsight: Agent Memory That Learns |
-| 2 | [google/ax](https://github.com/google/ax) | Go | +1373 | 10.7k | Google's open agentic orchestration r... |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1082 | 18.0k | The Office Harness for AI Agents — Sp... |
-| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +611 | 291.3k | An agentic skills framework & softwar... |
-| 5 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +509 | 37.4k |  |
-| 6 | [superdesigndev/treg](https://github.com/superdesigndev/treg) | Python | +468 | 3.2k | OpenRouter for agent tools. Join comm... |
-| 7 | [strands-agents/harness-sdk](https://github.com/strands-agents/harness-sdk) | Python | +455 | 8.3k | Build an agent harness and control it... |
-| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +413 | 50.4k | "CLI-Anything: Making ALL Software Ag... |
-| 9 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +347 | 56.8k | Learn it. Build it. Ship it for others. |
-| 10 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +272 | 14.8k | MVT (Mobile Verification Toolkit) hel... |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2109 | 85.4k | The open-source app everyone uses to ... |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +1653 | 30.1k | Hindsight: Agent Memory That Learns |
+| 3 | [google/ax](https://github.com/google/ax) | Go | +1379 | 11.6k | Google's open agentic orchestration r... |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +1177 | 57.7k | Learn it. Build it. Ship it for others. |
+| 5 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1050 | 18.8k | The Office Harness for AI Agents — Sp... |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +583 | 269.8k | Skills for Real Engineers. Straight f... |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +468 | 291.7k | An agentic skills framework & softwar... |
+| 8 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | Python | +359 | 4.5k | A unified library of SOTA model optim... |
+| 9 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +306 | 71.3k | The design language that makes your A... |
+| 10 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +189 | 178.4k | Public repository for Agent Skills |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +347 | Learn it. Build it. Ship it for others. |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +1668 | Hindsight: Agent Memory That Learns |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1082 | The Office Harness for AI Agents — Sp... |
-| 4 | [google/ax](https://github.com/google/ax) | Go | +1373 | Google's open agentic orchestration r... |
-| 5 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | Python | +44 | A unified library of SOTA model optim... |
-| 6 | [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | TypeScript | +182 | Fix X/Twitter and Bluesky embeds! Use... |
-| 7 | [anthropics/financial-services](https://github.com/anthropics/financial-services) | Python | +509 |  |
-| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +413 | "CLI-Anything: Making ALL Software Ag... |
-| 9 | [mvt-project/mvt](https://github.com/mvt-project/mvt) | Python | +272 | MVT (Mobile Verification Toolkit) hel... |
-| 10 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +611 | An agentic skills framework & softwar... |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2109 | The open-source app everyone uses to ... |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +83 | Official, Anthropic-managed directory... |
+| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +1653 | Hindsight: Agent Memory That Learns |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +468 | An agentic skills framework & softwar... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +583 | Skills for Real Engineers. Straight f... |
+| 6 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1050 | The Office Harness for AI Agents — Sp... |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +189 | Public repository for Agent Skills |
+| 8 | [androoAGI/starnet](https://github.com/androoAGI/starnet) | JavaScript | +93 | A living pixel-art station where real... |
+| 9 | [derv82/wifit3](https://github.com/derv82/wifit3) | Python | +183 | Wifite but USB-only & cross-platform. |
+| 10 | [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) | - | +119 | Bootstrap Kubernetes the hard way. No... |
 
 
 [查看更多 →](trending/)
