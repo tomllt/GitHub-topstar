@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-27 06:37 UTC
+> 最后更新: 2026-09-28 06:39 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2608 | 87.8k | The open-source app everyone uses to ... |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +2147 | 33.6k | Hindsight: Agent Memory That Learns |
-| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +849 | 19.7k | The Office Harness for AI Agents — Sp... |
-| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +827 | 58.5k | Learn it. Build it. Ship it for others. |
-| 5 | [openbao/openbao](https://github.com/openbao/openbao) | Go | +364 | 8.1k | OpenBao is a software solution to man... |
-| 6 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +361 | 38.1k | Reverse Engineering / Authorized Pene... |
-| 7 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | Python | +357 | 4.8k | A unified library of SOTA model optim... |
-| 8 | [block/buzz](https://github.com/block/buzz) | Rust | +339 | 34.9k | A hive mind communication platform |
-| 9 | [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) | TypeScript | +168 | 7.5k | Model Context Protocol Server for Mob... |
-| 10 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | +95 | 193.1k | Visual Studio Code |
+| 1 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +4520 | 38.3k | Hindsight: Agent Memory That Learns |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3086 | 40.8k | VoiceStudio is the open-source, fully... |
+| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2401 | 90.7k | The open-source app everyone uses to ... |
+| 4 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +895 | 20.8k | The Office Harness for AI Agents — Sp... |
+| 5 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +790 | 59.7k | Learn it. Build it. Ship it for others. |
+| 6 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | Shell | +242 | 6.7k | An open-source Android app to let you... |
+| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +114 | 1.2k | Multi-agent harness that runs Claude ... |
+| 8 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | TypeScript | +102 | 5.5k | TypeScript-to-Native Compiler |
+| 9 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | C | +83 | 881 | Run x86-64 Windows PC games on jailed... |
+| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 456.4k | freeCodeCamp.org's open-source codeba... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,15 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2608 | The open-source app everyone uses to ... |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +2147 | Hindsight: Agent Memory That Learns |
-| 3 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | Python | +357 | A unified library of SOTA model optim... |
-| 4 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +849 | The Office Harness for AI Agents — Sp... |
-| 5 | [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) | C++ | +46 | An Open Source Machine Learning Frame... |
-| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +827 | Learn it. Build it. Ship it for others. |
-| 7 | [openbao/openbao](https://github.com/openbao/openbao) | Go | +364 | OpenBao is a software solution to man... |
-| 8 | [block/buzz](https://github.com/block/buzz) | Rust | +339 | A hive mind communication platform |
-| 9 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | +95 | Visual Studio Code |
-| 10 | [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) | PowerShell | +361 | Reverse Engineering / Authorized Pene... |
+| 1 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2401 | The open-source app everyone uses to ... |
+| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +4520 | Hindsight: Agent Memory That Learns |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3086 | VoiceStudio is the open-source, fully... |
+| 4 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +790 | Learn it. Build it. Ship it for others. |
+| 5 | [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) | Shell | +242 | An open-source Android app to let you... |
+| 6 | [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | TypeScript | +102 | TypeScript-to-Native Compiler |
+| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +114 | Multi-agent harness that runs Claude ... |
+| 8 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +895 | The Office Harness for AI Agents — Sp... |
+| 9 | [willfaust/Madeira](https://github.com/willfaust/Madeira) | C | +83 | Run x86-64 Windows PC games on jailed... |
 
 
 [查看更多 →](trending/)
