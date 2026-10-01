@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-09-30 06:37 UTC
+> 最后更新: 2026-10-01 07:13 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +4758 | 48.8k | VoiceStudio is the open-source, fully... |
-| 2 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +2575 | 43.2k | Hindsight: Agent Memory That Learns |
-| 3 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2458 | 94.7k | The open-source app everyone uses to ... |
-| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +990 | 10.9k | OpenShell is the safe, private runtim... |
-| 5 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | +835 | 37.6k | 📑 PageIndex: Document Index for Vecto... |
-| 6 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +786 | 61.7k | Learn it. Build it. Ship it for others. |
-| 7 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +737 | 2.6k | Multi-agent harness that runs Claude ... |
-| 8 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +696 | 22.0k | The Office Harness for AI Agents — Sp... |
-| 9 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | +572 | 3.2k | Open Source Introductory Systems Prog... |
-| 10 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | +437 | 14.0k | Self-hosted deployment platform |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3483 | 50.8k | VoiceStudio is the open-source, fully... |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1281 | 13.2k | OpenShell is the safe, private runtim... |
+| 3 | [t8y2/dbx](https://github.com/t8y2/dbx) | Rust | +1138 | 23.4k | 25 MB lightweight cross-platform data... |
+| 4 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | Python | +1097 | 38.2k | 📑 PageIndex: Document Index for Vecto... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +876 | 273.2k | Skills for Real Engineers. Straight f... |
+| 6 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +743 | 149.5k | Makes your AI agent think like the la... |
+| 7 | [byoungd/up](https://github.com/byoungd/up) | JavaScript | +743 | 66.5k | An advanced guide which might benefit... |
+| 8 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +624 | 3.2k | Multi-agent harness that runs Claude ... |
+| 9 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +431 | 127.7k | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +349 | 54.9k | Write HTML. Render video. Built for a... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +4758 | VoiceStudio is the open-source, fully... |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +990 | OpenShell is the safe, private runtim... |
-| 3 | [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) | Python | +2575 | Hindsight: Agent Memory That Learns |
-| 4 | [paperclipai/paperclip](https://github.com/paperclipai/paperclip) | TypeScript | +2458 | The open-source app everyone uses to ... |
-| 5 | [t8y2/dbx](https://github.com/t8y2/dbx) | Rust | +232 | 25 MB lightweight cross-platform data... |
-| 6 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +737 | Multi-agent harness that runs Claude ... |
-| 7 | [oblien/openship](https://github.com/oblien/openship) | TypeScript | +437 | Self-hosted deployment platform |
-| 8 | [averygan/reclip](https://github.com/averygan/reclip) | HTML | +113 | Download videos from almost any websi... |
-| 9 | [cs341-illinois/coursebook](https://github.com/cs341-illinois/coursebook) | TeX | +572 | Open Source Introductory Systems Prog... |
-| 10 | [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) | Python | +786 | Learn it. Build it. Ship it for others. |
+| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1281 | OpenShell is the safe, private runtim... |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3483 | VoiceStudio is the open-source, fully... |
+| 3 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +624 | Multi-agent harness that runs Claude ... |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +90 | Context window optimization for AI co... |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +743 | Makes your AI agent think like the la... |
+| 6 | [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | Python | +431 | 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Ge... |
+| 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | +136 | The AI that really does things. Any O... |
+| 8 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | Python | +123 | A curated list of awesome Claude Skil... |
+| 9 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +876 | Skills for Real Engineers. Straight f... |
+| 10 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +349 | Write HTML. Render video. Built for a... |
 
 
 [查看更多 →](trending/)
