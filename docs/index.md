@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-02 07:03 UTC
+> 最后更新: 2026-10-03 06:23 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +2456 | 14.1k | OpenShell is the safe, private runtim... |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1194 | 150.8k | Makes your AI agent think like the la... |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +883 | 274.1k | Skills for Real Engineers. Straight f... |
-| 4 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +642 | 3.9k | Build your own network of agents from... |
-| 5 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +627 | 55.5k | Write HTML. Render video. Built for a... |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +495 | 73.8k | The design language that makes your A... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +455 | 294.1k | An agentic skills framework & softwar... |
-| 8 | [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) | Python | +368 | 16.5k | Useful tool to track location or mobi... |
-| 9 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +362 | 24.9k | Context window optimization for AI co... |
-| 10 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | TypeScript | +361 | 3.1k | yoink any video from your terminal. n... |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1435 | 152.0k | Makes your AI agent think like the la... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +955 | 274.8k | Skills for Real Engineers. Straight f... |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +722 | 74.5k | The design language that makes your A... |
+| 4 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +696 | 89.0k | Give your AI agent eyes to see the en... |
+| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +683 | 4.4k | Build your own network of agents from... |
+| 6 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | TypeScript | +623 | 3.6k | yoink any video from your terminal. n... |
+| 7 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +594 | 14.5k | OpenShell is the safe, private runtim... |
+| 8 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +580 | 56.0k | Write HTML. Render video. Built for a... |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +556 | 294.6k | An agentic skills framework & softwar... |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +282 | 25.1k | Context window optimization for AI co... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1194 | Makes your AI agent think like the la... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +883 | Skills for Real Engineers. Straight f... |
-| 3 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +2456 | OpenShell is the safe, private runtim... |
-| 4 | [firebase/firebase-ios-sdk](https://github.com/firebase/firebase-ios-sdk) | C++ | +112 | Firebase SDK for Apple App Development |
-| 5 | [mvschwarz/openrig](https://github.com/mvschwarz/openrig) | TypeScript | +642 | Build your own network of agents from... |
-| 6 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +150 | Cursor plugin specification and offic... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +455 | An agentic skills framework & softwar... |
-| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +362 | Context window optimization for AI co... |
-| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +627 | Write HTML. Render video. Built for a... |
-| 10 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | +298 | AI agent toolkit: unified LLM API, ag... |
+| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +696 | Give your AI agent eyes to see the en... |
+| 2 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +209 | 🪨 why use many token when few token d... |
+| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +556 | An agentic skills framework & softwar... |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1435 | Makes your AI agent think like the la... |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +722 | The design language that makes your A... |
+| 6 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +955 | Skills for Real Engineers. Straight f... |
+| 7 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +594 | OpenShell is the safe, private runtim... |
+| 8 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +140 | Marketing skills for Claude Code and ... |
+| 9 | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | TypeScript | +580 | Write HTML. Render video. Built for a... |
+| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +282 | Context window optimization for AI co... |
 
 
 [查看更多 →](trending/)
