@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-04 06:55 UTC
+> 最后更新: 2026-10-05 06:52 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +1696 | 90.0k | Give your AI agent eyes to see the en... |
-| 2 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1281 | 153.8k | Makes your AI agent think like the la... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +897 | 272.4k | The agent harness performance optimiz... |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +751 | 275.5k | Skills for Real Engineers. Straight f... |
-| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +699 | 75.5k | The design language that makes your A... |
-| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +577 | 295.0k | An agentic skills framework & softwar... |
-| 7 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +507 | 109.6k | 🪨 why use many token when few token d... |
-| 8 | [earendil-works/pi](https://github.com/earendil-works/pi) | TypeScript | +408 | 112.2k | AI agent toolkit: unified LLM API, ag... |
-| 9 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | TypeScript | +302 | 16.9k | Build production-ready applications i... |
-| 10 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +256 | 25.3k | Context window optimization for AI co... |
+| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1894 | 155.2k | Makes your AI agent think like the la... |
+| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +1171 | 76.5k | The design language that makes your A... |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +980 | 91.2k | Give your AI agent eyes to see the en... |
+| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +628 | 96.3k | Persistent Context Across Sessions fo... |
+| 5 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +512 | 92.3k | The open-source CapCut alternative |
+| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +490 | 25.3k |  |
+| 7 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +345 | 3.5k | Next generation e2e testing framework... |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +336 | 101.3k | Production-grade engineering skills f... |
+| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +245 | 63.4k | World's first open-source, agentic vi... |
+| 10 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | +232 | 1.2k | Claude Code, Codex, Pi, OpenCode, Gem... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1281 | Makes your AI agent think like the la... |
-| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +699 | The design language that makes your A... |
-| 3 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +897 | The agent harness performance optimiz... |
-| 4 | [Effect-TS/effect](https://github.com/Effect-TS/effect) | TypeScript | +302 | Build production-ready applications i... |
-| 5 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +507 | 🪨 why use many token when few token d... |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +1696 | Give your AI agent eyes to see the en... |
-| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +252 |  |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +79 | Persistent Context Across Sessions fo... |
-| 9 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | TypeScript | +85 | Agent workspace built on Cloudflare W... |
-| 10 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +252 | Production-grade engineering skills f... |
+| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +345 | Next generation e2e testing framework... |
+| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +1171 | The design language that makes your A... |
+| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +197 | Marketing skills for Claude Code and ... |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1894 | Makes your AI agent think like the la... |
+| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | +83 | Give your agent CAD superpowers. |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +980 | Give your AI agent eyes to see the en... |
+| 7 | [getsentry/sentry](https://github.com/getsentry/sentry) | Python | +152 | Developer-first error tracking and pe... |
+| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +245 | World's first open-source, agentic vi... |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +490 |  |
+| 10 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | +24 | Fast and extensible multi-platform HT... |
 
 
 [查看更多 →](trending/)
