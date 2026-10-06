@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-05 06:52 UTC
+> 最后更新: 2026-10-06 07:32 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1894 | 155.2k | Makes your AI agent think like the la... |
-| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +1171 | 76.5k | The design language that makes your A... |
-| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +980 | 91.2k | Give your AI agent eyes to see the en... |
-| 4 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +628 | 96.3k | Persistent Context Across Sessions fo... |
-| 5 | [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | TypeScript | +512 | 92.3k | The open-source CapCut alternative |
-| 6 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +490 | 25.3k |  |
-| 7 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +345 | 3.5k | Next generation e2e testing framework... |
-| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +336 | 101.3k | Production-grade engineering skills f... |
-| 9 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +245 | 63.4k | World's first open-source, agentic vi... |
-| 10 | [michael-denyer/pstack-claude](https://github.com/michael-denyer/pstack-claude) | JavaScript | +232 | 1.2k | Claude Code, Codex, Pi, OpenCode, Gem... |
+| 1 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | +1433 | 4.6k | Self-hosted gym & body-weight tracker... |
+| 2 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +1398 | 5.2k | Next generation e2e testing framework... |
+| 3 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +1155 | 92.1k | Give your AI agent eyes to see the en... |
+| 4 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +997 | 5.2k | Tool for automatic PS5 executables po... |
+| 5 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +744 | 157.4k | A complete AI agency at your fingerti... |
+| 6 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +742 | 64.3k | World's first open-source, agentic vi... |
+| 7 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +534 | 96.7k | Persistent Context Across Sessions fo... |
+| 8 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | +515 | 77.3k | Fast and extensible multi-platform HT... |
+| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +485 | 25.7k |  |
+| 10 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | +437 | 17.6k | Give your agent CAD superpowers. |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +345 | Next generation e2e testing framework... |
-| 2 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | JavaScript | +1171 | The design language that makes your A... |
-| 3 | [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | JavaScript | +197 | Marketing skills for Claude Code and ... |
-| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1894 | Makes your AI agent think like the la... |
-| 5 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | +83 | Give your agent CAD superpowers. |
-| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +980 | Give your AI agent eyes to see the en... |
-| 7 | [getsentry/sentry](https://github.com/getsentry/sentry) | Python | +152 | Developer-first error tracking and pe... |
-| 8 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +245 | World's first open-source, agentic vi... |
-| 9 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +490 |  |
-| 10 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | +24 | Fast and extensible multi-platform HT... |
+| 1 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +1398 | Next generation e2e testing framework... |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +534 | Persistent Context Across Sessions fo... |
+| 3 | [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | Python | +437 | Give your agent CAD superpowers. |
+| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +485 |  |
+| 5 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +997 | Tool for automatic PS5 executables po... |
+| 6 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +1155 | Give your AI agent eyes to see the en... |
+| 7 | [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) | Python | +742 | World's first open-source, agentic vi... |
+| 8 | [caddyserver/caddy](https://github.com/caddyserver/caddy) | Go | +515 | Fast and extensible multi-platform HT... |
+| 9 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | +1433 | Self-hosted gym & body-weight tracker... |
+| 10 | [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) | TypeScript | +101 | Agent workspace built on Cloudflare W... |
 
 
 [查看更多 →](trending/)
