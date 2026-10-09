@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-08 07:19 UTC
+> 最后更新: 2026-10-09 07:27 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +4655 | 17.5k | Reverse engineer anything with agents... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +2716 | 11.6k | Tool for automatic PS5 executables po... |
-| 3 | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) | JavaScript | +1493 | 7.4k | Self-hosted gym & body-weight tracker... |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1403 | 280.1k | Skills for Real Engineers. Straight f... |
-| 5 | [tester-army/e2e](https://github.com/tester-army/e2e) | TypeScript | +1390 | 7.8k | Next generation e2e testing framework... |
-| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +825 | 45.3k | Editorial diagram design for Claude C... |
-| 7 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +677 | 103.0k | Production-grade engineering skills f... |
-| 8 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +619 | 55.4k | A skill to stop your coding agent fro... |
-| 9 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +578 | 97.9k | Persistent Context Across Sessions fo... |
-| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +576 | 26.2k | A coding-agent skill for multi-phase ... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +7738 | 31.2k | Reverse engineer anything with agents... |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +4669 | 17.1k | Tool for automatic PS5 executables po... |
+| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2103 | 8.9k | ArtCraft is an intentional crafting e... |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1774 | 281.6k | Skills for Real Engineers. Straight f... |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1160 | 46.9k | Editorial diagram design for Claude C... |
+| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +670 | 98.7k | Persistent Context Across Sessions fo... |
+| 7 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | +393 | 25.0k | Notes of the book System Desgin Inter... |
+| 8 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +392 | 27.8k | Open source repository of plugins pri... |
+| 9 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | +279 | 8.2k | A native, user-mode, multi-process, g... |
+| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 456.7k | freeCodeCamp.org's open-source codeba... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,15 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +4655 | Reverse engineer anything with agents... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1403 | Skills for Real Engineers. Straight f... |
-| 3 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +2716 | Tool for automatic PS5 executables po... |
-| 4 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | Python | +619 | A skill to stop your coding agent fro... |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +825 | Editorial diagram design for Claude C... |
-| 6 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +677 | Production-grade engineering skills f... |
-| 7 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | +90 | A native, user-mode, multi-process, g... |
-| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +578 | Persistent Context Across Sessions fo... |
-| 9 | [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) | Swift | +44 | Open source Ghostty-based macOS termi... |
-| 10 | [trycua/cua](https://github.com/trycua/cua) | Rust | +228 | Scale computer-use 2.0 with open-sour... |
+| 1 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +4669 | Tool for automatic PS5 executables po... |
+| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1160 | Editorial diagram design for Claude C... |
+| 3 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +7738 | Reverse engineer anything with agents... |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1774 | Skills for Real Engineers. Straight f... |
+| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +670 | Persistent Context Across Sessions fo... |
+| 6 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | +279 | A native, user-mode, multi-process, g... |
+| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +392 | Open source repository of plugins pri... |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2103 | ArtCraft is an intentional crafting e... |
+| 9 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | +393 | Notes of the book System Desgin Inter... |
 
 
 [查看更多 →](trending/)
