@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-09 07:27 UTC
+> 最后更新: 2026-10-10 07:00 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +7738 | 31.2k | Reverse engineer anything with agents... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +4669 | 17.1k | Tool for automatic PS5 executables po... |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2103 | 8.9k | ArtCraft is an intentional crafting e... |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1774 | 281.6k | Skills for Real Engineers. Straight f... |
-| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1160 | 46.9k | Editorial diagram design for Claude C... |
-| 6 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +670 | 98.7k | Persistent Context Across Sessions fo... |
-| 7 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | +393 | 25.0k | Notes of the book System Desgin Inter... |
-| 8 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +392 | 27.8k | Open source repository of plugins pri... |
-| 9 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | +279 | 8.2k | A native, user-mode, multi-process, g... |
-| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 456.7k | freeCodeCamp.org's open-source codeba... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +14927 | 53.8k | Reverse engineer anything with agents... |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +5868 | 23.3k | Tool for automatic PS5 executables po... |
+| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +3752 | 12.2k | ArtCraft is an intentional crafting e... |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1739 | 48.2k | Editorial diagram design for Claude C... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1687 | 283.2k | Skills for Real Engineers. Straight f... |
+| 6 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +709 | 28.4k | Open source repository of plugins pri... |
+| 7 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +436 | 104.2k | Production-grade engineering skills f... |
+| 8 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +326 | 45.5k | Secure, fast, efficient, battle-teste... |
+| 9 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | +110 | 17.8k | [ECCV 2026 Best Paper Award Candidate... |
+| 10 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | +95 | 60.8k | The fastest, litest AI Gateway. Rust ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,15 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +4669 | Tool for automatic PS5 executables po... |
-| 2 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1160 | Editorial diagram design for Claude C... |
-| 3 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +7738 | Reverse engineer anything with agents... |
-| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1774 | Skills for Real Engineers. Straight f... |
-| 5 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +670 | Persistent Context Across Sessions fo... |
-| 6 | [EpicGames/raddebugger](https://github.com/EpicGames/raddebugger) | C | +279 | A native, user-mode, multi-process, g... |
-| 7 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +392 | Open source repository of plugins pri... |
-| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2103 | ArtCraft is an intentional crafting e... |
-| 9 | [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) | - | +393 | Notes of the book System Desgin Inter... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +14927 | Reverse engineer anything with agents... |
+| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +5868 | Tool for automatic PS5 executables po... |
+| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1687 | Skills for Real Engineers. Straight f... |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1739 | Editorial diagram design for Claude C... |
+| 5 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +326 | Secure, fast, efficient, battle-teste... |
+| 6 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +709 | Open source repository of plugins pri... |
+| 7 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | Python | +95 | The fastest, litest AI Gateway. Rust ... |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +436 | Production-grade engineering skills f... |
+| 9 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +3752 | ArtCraft is an intentional crafting e... |
+| 10 | [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | +110 | [ECCV 2026 Best Paper Award Candidate... |
 
 
 [查看更多 →](trending/)
