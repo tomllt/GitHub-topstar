@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-12 07:18 UTC
+> 最后更新: 2026-10-13 07:42 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +25599 | 119.7k | Reverse engineer anything with agents... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +3952 | 30.9k | Tool for automatic PS5 executables po... |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2957 | 19.0k | ArtCraft is an intentional crafting e... |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1083 | 51.0k | Editorial diagram design for Claude C... |
-| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +886 | 52.2k | A spy satellite simulator in your bro... |
-| 6 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +548 | 36.8k | AirLLM 70B inference with single 4GB GPU |
-| 7 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | +466 | 74.4k | Original Apollo 11 Guidance Computer ... |
-| 8 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | +315 | 104.6k | Tensors and Dynamic neural networks i... |
-| 9 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 456.9k | freeCodeCamp.org's open-source codeba... |
-| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 391.7k | The AI that really does things. Any O... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45327 | 175.1k | Reverse engineer anything with agents... |
+| 2 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4095 | 23.2k | ArtCraft is an intentional crafting e... |
+| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +2081 | 53.1k | Editorial diagram design for Claude C... |
+| 4 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1895 | 54.2k | A spy satellite simulator in your bro... |
+| 5 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +879 | 37.8k | AirLLM 2.8T LLM inference with single... |
+| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 | 59.5k | Use Claude Code, Codex, VSCode, Pi, a... |
+| 7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +246 | 27.6k | Context window optimization for AI co... |
+| 8 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 | 155.3k | User-friendly AI Interface (Supports ... |
+| 9 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 | 41.0k | Official inference framework for 1-bi... |
+| 10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | - | 488.1k | A collective list of free APIs |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,14 +31,15 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +25599 | Reverse engineer anything with agents... |
-| 2 | [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) | C++ | +3952 | Tool for automatic PS5 executables po... |
-| 3 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +2957 | ArtCraft is an intentional crafting e... |
-| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1083 | Editorial diagram design for Claude C... |
-| 5 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +886 | A spy satellite simulator in your bro... |
-| 6 | [pytorch/pytorch](https://github.com/pytorch/pytorch) | Python | +315 | Tensors and Dynamic neural networks i... |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +548 | AirLLM 70B inference with single 4GB GPU |
-| 8 | [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) | Assembly | +466 | Original Apollo 11 Guidance Computer ... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45327 | Reverse engineer anything with agents... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1895 | A spy satellite simulator in your bro... |
+| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +246 | Context window optimization for AI co... |
+| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4095 | ArtCraft is an intentional crafting e... |
+| 5 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 | User-friendly AI Interface (Supports ... |
+| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +2081 | Editorial diagram design for Claude C... |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +879 | AirLLM 2.8T LLM inference with single... |
+| 8 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 | Official inference framework for 1-bi... |
+| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 | Use Claude Code, Codex, VSCode, Pi, a... |
 
 
 [查看更多 →](trending/)
