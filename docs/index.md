@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-13 07:42 UTC
+> 最后更新: 2026-10-14 06:10 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45327 | 175.1k | Reverse engineer anything with agents... |
-| 2 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4095 | 23.2k | ArtCraft is an intentional crafting e... |
-| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +2081 | 53.1k | Editorial diagram design for Claude C... |
-| 4 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1895 | 54.2k | A spy satellite simulator in your bro... |
-| 5 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +879 | 37.8k | AirLLM 2.8T LLM inference with single... |
-| 6 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 | 59.5k | Use Claude Code, Codex, VSCode, Pi, a... |
-| 7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +246 | 27.6k | Context window optimization for AI co... |
-| 8 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 | 155.3k | User-friendly AI Interface (Supports ... |
-| 9 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 | 41.0k | Official inference framework for 1-bi... |
-| 10 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | - | 488.1k | A collective list of free APIs |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +54679 | 216.6k | Reverse engineer anything with agents... |
+| 2 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4081 | 26.3k | ArtCraft is an intentional crafting e... |
+| 3 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1961 | 55.8k | A spy satellite simulator in your bro... |
+| 4 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1815 | 54.5k | Editorial diagram design for Claude C... |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1748 | 64.0k | VoiceStudio is the open-source, fully... |
+| 6 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1198 | 9.7k | Cross-platform Xcode replacement. Bui... |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +1001 | 38.5k | AirLLM 2.8T LLM inference with single... |
+| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +969 | 28.4k | Context window optimization for AI co... |
+| 9 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | +190 | 34.7k | The open agent skills tool - npx skills |
+| 10 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | TypeScript | - | 457.0k | freeCodeCamp.org's open-source codeba... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,15 +31,15 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +45327 | Reverse engineer anything with agents... |
-| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1895 | A spy satellite simulator in your bro... |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +246 | Context window optimization for AI co... |
-| 4 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4095 | ArtCraft is an intentional crafting e... |
-| 5 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | Python | +157 | User-friendly AI Interface (Supports ... |
-| 6 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +2081 | Editorial diagram design for Claude C... |
-| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +879 | AirLLM 2.8T LLM inference with single... |
-| 8 | [microsoft/BitNet](https://github.com/microsoft/BitNet) | C++ | +97 | Official inference framework for 1-bi... |
-| 9 | [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Python | +626 | Use Claude Code, Codex, VSCode, Pi, a... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +54679 | Reverse engineer anything with agents... |
+| 2 | [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | JavaScript | +1961 | A spy satellite simulator in your bro... |
+| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1748 | VoiceStudio is the open-source, fully... |
+| 4 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +969 | Context window optimization for AI co... |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +1815 | Editorial diagram design for Claude C... |
+| 6 | [vercel-labs/skills](https://github.com/vercel-labs/skills) | TypeScript | +190 | The open agent skills tool - npx skills |
+| 7 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | Jupyter Notebook | +1001 | AirLLM 2.8T LLM inference with single... |
+| 8 | [storytold/artcraft](https://github.com/storytold/artcraft) | Rust | +4081 | ArtCraft is an intentional crafting e... |
+| 9 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1198 | Cross-platform Xcode replacement. Bui... |
 
 
 [查看更多 →](trending/)
