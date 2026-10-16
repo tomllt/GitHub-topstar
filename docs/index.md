@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-15 05:54 UTC
+> 最后更新: 2026-10-16 05:49 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +41034 | 249.3k | Reverse engineer anything with agents... |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3538 | 67.0k | VoiceStudio is the open-source, fully... |
-| 3 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | +2109 | 27.7k | Independent Auditing of AI Agents. Ru... |
-| 4 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1502 | 11.1k | Cross-platform Xcode replacement. Bui... |
-| 5 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +1025 | 29.8k | Fully autonomous AI Agents system cap... |
-| 6 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +1008 | 87.8k | Ghidra is a software reverse engineer... |
-| 7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +947 | 29.3k | Context window optimization for AI co... |
-| 8 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +207 | 120.1k | Empowering everyone to build reliable... |
-| 9 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +163 | 49.6k | Turn any AI agent into an AI Scientis... |
-| 10 | [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) | C# | +139 | 20.3k | WinUI app for building smaller, custo... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +32314 | 275.8k | Reverse engineer anything with agents... |
+| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3024 | 69.5k | VoiceStudio is the open-source, fully... |
+| 3 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +1369 | 89.0k | Ghidra is a software reverse engineer... |
+| 4 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1091 | 50.7k | Turn any AI agent into an AI Scientis... |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1013 | 280.6k | The agent harness performance optimiz... |
+| 6 | [LibreSpark/LibreTV](https://github.com/LibreSpark/LibreTV) | TypeScript | +978 | 18.2k | 一分钟搭建影视站，支持Docker等部署方式 |
+| 7 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +904 | 29.9k | Context window optimization for AI co... |
+| 8 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Rust | +715 | 5.9k | XERJ is the new way for AI to search ... |
+| 9 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +582 | 300.1k | An agentic skills framework & softwar... |
+| 10 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +433 | 112.7k | 🪨 why use many token when few token d... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +41034 | Reverse engineer anything with agents... |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3538 | VoiceStudio is the open-source, fully... |
-| 3 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +947 | Context window optimization for AI co... |
-| 4 | [nvm-sh/nvm](https://github.com/nvm-sh/nvm) | Shell | +52 | Node Version Manager - POSIX-complian... |
-| 5 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +163 | Turn any AI agent into an AI Scientis... |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +103 | "CLI-Anything: Making ALL Software Ag... |
-| 7 | [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) | Python | +2109 | Independent Auditing of AI Agents. Ru... |
-| 8 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | Go | +1025 | Fully autonomous AI Agents system cap... |
-| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +207 | Empowering everyone to build reliable... |
-| 10 | [xtool-org/xtool](https://github.com/xtool-org/xtool) | Swift | +1502 | Cross-platform Xcode replacement. Bui... |
+| 1 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | +32314 | Reverse engineer anything with agents... |
+| 2 | [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) | Python | +307 | Official, Anthropic-managed directory... |
+| 3 | [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | Python | +1091 | Turn any AI agent into an AI Scientis... |
+| 4 | [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | Go | +433 | 🪨 why use many token when few token d... |
+| 5 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +3024 | VoiceStudio is the open-source, fully... |
+| 6 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +582 | An agentic skills framework & softwar... |
+| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +147 | 🌊 The original agent harness. Deploy ... |
+| 8 | [mksglu/context-mode](https://github.com/mksglu/context-mode) | TypeScript | +904 | Context window optimization for AI co... |
+| 9 | [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) | Java | +1369 | Ghidra is a software reverse engineer... |
+| 10 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1013 | The agent harness performance optimiz... |
 
 
 [查看更多 →](trending/)
