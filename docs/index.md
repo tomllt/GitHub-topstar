@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-20 06:00 UTC
+> 最后更新: 2026-10-21 06:03 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3856 | 58.0k | The job search that runs on your mach... |
-| 2 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1590 | 98.6k | Orca is the place for working with a ... |
-| 3 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1311 | 218.0k | The open source coding agent. |
-| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1011 | 140.0k | The most powerful and modular diffusi... |
-| 5 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +666 | 11.5k | Solution for long term memory for age... |
-| 6 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +606 | 55.4k | "CLI-Anything: Making ALL Software Ag... |
-| 7 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +564 | 77.3k | 🌊 The original agent harness. Deploy ... |
-| 8 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | +498 | 3.0k | Video restoration tool |
-| 9 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +363 | 41.8k | Kronos: A Foundation Model for the La... |
-| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +310 | 76.4k | Compress tool outputs, logs, files, a... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3861 | 61.2k | The job search that runs on your mach... |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +1712 | 34.6k | A coding-agent skill for multi-phase ... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1565 | 100.1k | Orca is the place for working with a ... |
+| 4 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1240 | 219.1k | The open source coding agent. |
+| 5 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1208 | 170.1k | Makes your AI agent think like the la... |
+| 6 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1206 | 141.0k | The most powerful and modular diffusi... |
+| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +802 | 130.5k | Turn any codebase, with its docs, SQL... |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +733 | 42.5k | Kronos: A Foundation Model for the La... |
+| 9 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +684 | 78.0k | 🌊 The original agent harness. Deploy ... |
+| 10 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +562 | 162.5k | A complete AI agency at your fingerti... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3856 | The job search that runs on your mach... |
-| 2 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1311 | The open source coding agent. |
-| 3 | [akitaonrails/ai-memory](https://github.com/akitaonrails/ai-memory) | Rust | +666 | Solution for long term memory for age... |
-| 4 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1011 | The most powerful and modular diffusi... |
-| 5 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +564 | 🌊 The original agent harness. Deploy ... |
-| 6 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1590 | Orca is the place for working with a ... |
-| 7 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +310 | Compress tool outputs, logs, files, a... |
-| 8 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | +284 |  |
-| 9 | [Kruk2/jasna](https://github.com/Kruk2/jasna) | Python | +498 | Video restoration tool |
-| 10 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +606 | "CLI-Anything: Making ALL Software Ag... |
+| 1 | [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) | Python | +3861 | The job search that runs on your mach... |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +1712 | A coding-agent skill for multi-phase ... |
+| 3 | [stablyai/orca](https://github.com/stablyai/orca) | TypeScript | +1565 | Orca is the place for working with a ... |
+| 4 | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | JavaScript | +1208 | Makes your AI agent think like the la... |
+| 5 | [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) | Python | +1206 | The most powerful and modular diffusi... |
+| 6 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | TypeScript | +684 | 🌊 The original agent harness. Deploy ... |
+| 7 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Python | +802 | Turn any codebase, with its docs, SQL... |
+| 8 | [anomalyco/opencode](https://github.com/anomalyco/opencode) | TypeScript | +1240 | The open source coding agent. |
+| 9 | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | +562 | A complete AI agency at your fingerti... |
+| 10 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | Python | +549 | Compress tool outputs, logs, files, a... |
 
 
 [查看更多 →](trending/)
