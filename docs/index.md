@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-24 05:44 UTC
+> 最后更新: 2026-10-25 06:03 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2716 | 42.5k | A coding-agent skill for multi-phase ... |
-| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1119 | 18.9k | OpenShell is the safe, private runtim... |
-| 3 | [php/php-src](https://github.com/php/php-src) | C | +716 | 41.6k | The PHP Interpreter |
-| 4 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +635 | 32.3k | Open source repository of plugins pri... |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 | 7.0k | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统... |
-| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +226 | 8.6k | claude-red is a curated library of of... |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +150 | 40.4k | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +66 | 122.9k | Node.js JavaScript runtime ✨🐢🚀✨ |
-| 9 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | - | 392.9k | The AI that really does things. Any O... |
-| 10 | [morluto/rea](https://github.com/morluto/rea) | TypeScript | - | 374.1k | Reverse engineer anything with agents... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2264 | 45.1k | A coding-agent skill for multi-phase ... |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +896 | 19.6k | OpenShell is the safe, private runtim... |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +619 | 86.6k | The design language that makes your A... |
+| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 | 4.2k | Consider it done. The open-source AI ... |
+| 5 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 | 32.4k | Anti-AI-slop design skill for Claude ... |
+| 6 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +392 | 44.7k | A visual, example-driven guide to Cla... |
+| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +319 | 11.1k | A Tiny biped duck robot 🦆 |
+| 8 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | +227 | 22.8k | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅... |
+| 9 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | +44 | 108.2k | An open-source AI agent that brings t... |
+| 10 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 | 3.2k | Official, AWS-supported MCP servers, ... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,14 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2716 | A coding-agent skill for multi-phase ... |
-| 2 | [php/php-src](https://github.com/php/php-src) | C | +716 | The PHP Interpreter |
-| 3 | [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | Python | +635 | Open source repository of plugins pri... |
-| 4 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +1119 | OpenShell is the safe, private runtim... |
-| 5 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +546 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统... |
-| 6 | [SnailSploit/Claude-Red](https://github.com/SnailSploit/Claude-Red) | Python | +226 | claude-red is a curated library of of... |
-| 7 | [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | +150 | VoxCPM2: Tokenizer-Free TTS for Multi... |
-| 8 | [nodejs/node](https://github.com/nodejs/node) | JavaScript | +66 | Node.js JavaScript runtime ✨🐢🚀✨ |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2264 | A coding-agent skill for multi-phase ... |
+| 2 | [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) | Rust | +896 | OpenShell is the safe, private runtim... |
+| 3 | [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws) | Python | +13 | Official, AWS-supported MCP servers, ... |
+| 4 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +455 | Anti-AI-slop design skill for Claude ... |
+| 5 | [luongnv89/claude-howto](https://github.com/luongnv89/claude-howto) | Python | +392 | A visual, example-driven guide to Cla... |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +619 | The design language that makes your A... |
+| 7 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +319 | A Tiny biped duck robot 🦆 |
+| 8 | [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | +44 | An open-source AI agent that brings t... |
+| 9 | [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest) | Python | +227 | 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅... |
+| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +477 | Consider it done. The open-source AI ... |
 
 
 [查看更多 →](trending/)
