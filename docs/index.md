@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-26 06:06 UTC
+> 最后更新: 2026-10-27 06:18 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2878 | 47.3k | A coding-agent skill for multi-phase ... |
-| 2 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1592 | 87.3k | VoiceStudio is the open-source, fully... |
-| 3 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1317 | 34.3k | Anti-AI-slop design skill for Claude ... |
-| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1092 | 88.0k | The design language that makes your A... |
-| 5 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +675 | 5.2k | Consider it done. The open-source AI ... |
-| 6 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +647 | 11.9k | A Tiny biped duck robot 🦆 |
-| 7 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +381 | 114.9k | TradingAgents: Multi-Agents LLM Finan... |
-| 8 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +199 | 7.9k | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统... |
-| 9 | [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) | Python | +197 | 21.2k | Universal SEO skill for Claude Code. ... |
-| 10 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | +152 | 64.6k | An open-source, self-hostable PaaS al... |
+| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2297 | 89.8k | VoiceStudio is the open-source, fully... |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2244 | 37.0k | Anti-AI-slop design skill for Claude ... |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1506 | 89.5k | The design language that makes your A... |
+| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1395 | 116.5k | TradingAgents: Multi-Agents LLM Finan... |
+| 5 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1296 | 6.8k | Consider it done. The open-source AI ... |
+| 6 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1173 | 3.2k | Vibe code with pi in a lightweight, r... |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +896 | 290.1k | The agent harness performance optimiz... |
+| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +843 | 12.5k | A Tiny biped duck robot 🦆 |
+| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +746 | 104.0k | Give your AI agent eyes to see the en... |
+| 10 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +638 | 224.9k | A single CLAUDE.md file to improve Cl... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +675 | Consider it done. The open-source AI ... |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +1317 | Anti-AI-slop design skill for Claude ... |
-| 3 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +1592 | VoiceStudio is the open-source, fully... |
-| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1092 | The design language that makes your A... |
-| 5 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +647 | A Tiny biped duck robot 🦆 |
-| 6 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +381 | TradingAgents: Multi-Agents LLM Finan... |
-| 7 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +199 | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统... |
-| 8 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +51 | Vibe code with pi in a lightweight, r... |
-| 9 | [coollabsio/coolify](https://github.com/coollabsio/coolify) | PHP | +152 | An open-source, self-hostable PaaS al... |
-| 10 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2878 | A coding-agent skill for multi-phase ... |
+| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2244 | Anti-AI-slop design skill for Claude ... |
+| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1395 | TradingAgents: Multi-Agents LLM Finan... |
+| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1173 | Vibe code with pi in a lightweight, r... |
+| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1296 | Consider it done. The open-source AI ... |
+| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +896 | The agent harness performance optimiz... |
+| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1506 | The design language that makes your A... |
+| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | +214 | Security scanner for AI agent skills.... |
+| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +843 | A Tiny biped duck robot 🦆 |
+| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +176 | A local-first desktop workspace for p... |
+| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +746 | Give your AI agent eyes to see the en... |
 
 
 [查看更多 →](trending/)
