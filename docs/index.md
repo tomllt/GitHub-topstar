@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-27 06:18 UTC
+> 最后更新: 2026-10-28 06:57 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | Python | +2297 | 89.8k | VoiceStudio is the open-source, fully... |
-| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2244 | 37.0k | Anti-AI-slop design skill for Claude ... |
-| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1506 | 89.5k | The design language that makes your A... |
-| 4 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1395 | 116.5k | TradingAgents: Multi-Agents LLM Finan... |
-| 5 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1296 | 6.8k | Consider it done. The open-source AI ... |
-| 6 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1173 | 3.2k | Vibe code with pi in a lightweight, r... |
-| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +896 | 290.1k | The agent harness performance optimiz... |
-| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +843 | 12.5k | A Tiny biped duck robot 🦆 |
-| 9 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +746 | 104.0k | Give your AI agent eyes to see the en... |
-| 10 | [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | - | +638 | 224.9k | A single CLAUDE.md file to improve Cl... |
+| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2830 | 39.5k | Anti-AI-slop design skill for Claude ... |
+| 2 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1598 | 46.6k | DeepTutor: Lifelong Personalized Tuto... |
+| 3 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1465 | 7.7k | Consider it done. The open-source AI ... |
+| 4 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1449 | 91.0k | The design vocabulary for your coding... |
+| 5 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | +1395 | 10.0k |  |
+| 6 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1204 | 4.3k | Vibe code with pi in a lightweight, r... |
+| 7 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1165 | 291.1k | The agent harness performance optimiz... |
+| 8 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | TypeScript | +951 | 39.6k | 📨 The ultimate agentic social media s... |
+| 9 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | +902 | 6.0k | LIST OF ALL MY JAILBREAKS |
+| 10 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +777 | 2.7k | A local-first desktop workspace for p... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2244 | Anti-AI-slop design skill for Claude ... |
-| 2 | [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | Python | +1395 | TradingAgents: Multi-Agents LLM Finan... |
-| 3 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1173 | Vibe code with pi in a lightweight, r... |
-| 4 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1296 | Consider it done. The open-source AI ... |
-| 5 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +896 | The agent harness performance optimiz... |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1506 | The design language that makes your A... |
-| 7 | [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) | Python | +214 | Security scanner for AI agent skills.... |
-| 8 | [pollen-robotics/microduck](https://github.com/pollen-robotics/microduck) | Rust | +843 | A Tiny biped duck robot 🦆 |
-| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +176 | A local-first desktop workspace for p... |
-| 10 | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Python | +746 | Give your AI agent eyes to see the en... |
+| 1 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | +1395 |  |
+| 2 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2830 | Anti-AI-slop design skill for Claude ... |
+| 3 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +777 | A local-first desktop workspace for p... |
+| 4 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +617 | An agentic skills framework & softwar... |
+| 5 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1449 | The design vocabulary for your coding... |
+| 6 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +1465 | Consider it done. The open-source AI ... |
+| 7 | [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) | TypeScript | +951 | 📨 The ultimate agentic social media s... |
+| 8 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | JavaScript | +1165 | The agent harness performance optimiz... |
+| 9 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1598 | DeepTutor: Lifelong Personalized Tuto... |
+| 10 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1204 | Vibe code with pi in a lightweight, r... |
 
 
 [查看更多 →](trending/)
