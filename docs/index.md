@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-10-29 07:04 UTC
+> 最后更新: 2026-10-30 07:08 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +2371 | 48.6k | DeepTutor: Lifelong Personalized Tuto... |
-| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | +2139 | 11.4k |  |
-| 3 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2110 | 41.1k | Anti-AI-slop design skill for Claude ... |
-| 4 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | JavaScript | +1616 | 35.5k | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链... |
-| 5 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | +1477 | 7.5k | LIST OF ALL MY JAILBREAKS |
-| 6 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1472 | 93.5k | The design vocabulary for your coding... |
-| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1095 | 307.7k | An agentic skills framework & softwar... |
-| 8 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1068 | 5.4k | Vibe code with pi in a lightweight, r... |
-| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +1054 | 3.4k | A local-first desktop workspace for p... |
-| 10 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +728 | 8.3k | Consider it done. The open-source AI ... |
+| 1 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2870 | 95.9k | The design vocabulary for your coding... |
+| 2 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1930 | 50.8k | DeepTutor: Lifelong Personalized Tuto... |
+| 3 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | +1594 | 9.5k | LIST OF ALL MY JAILBREAKS |
+| 4 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1199 | 7.7k | Open-source Grok Bot alternative with... |
+| 5 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | +1187 | 12.5k |  |
+| 6 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1117 | 6.2k | Vibe code with pi in a lightweight, r... |
+| 7 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1034 | 308.8k | An agentic skills framework & softwar... |
+| 8 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +709 | 4.0k | A local-first desktop workspace for p... |
+| 9 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +353 | 29.6k | Turn Claude Code into a full game dev... |
+| 10 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +336 | 105.1k | Persistent Context Across Sessions fo... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1068 | Vibe code with pi in a lightweight, r... |
-| 2 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | +2139 |  |
-| 3 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1095 | An agentic skills framework & softwar... |
-| 4 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +2371 | DeepTutor: Lifelong Personalized Tuto... |
-| 5 | [macro-inc/macro](https://github.com/macro-inc/macro) | Rust | +117 | Macro is a unified workspace for team... |
-| 6 | [Nutlope/hallmark](https://github.com/Nutlope/hallmark) | CSS | +2110 | Anti-AI-slop design skill for Claude ... |
-| 7 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +1472 | The design vocabulary for your coding... |
-| 8 | [makecindy/cindy](https://github.com/makecindy/cindy) | TypeScript | +728 | Consider it done. The open-source AI ... |
-| 9 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +1054 | A local-first desktop workspace for p... |
-| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | +1477 | LIST OF ALL MY JAILBREAKS |
+| 1 | [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) | Python | +1930 | DeepTutor: Lifelong Personalized Tuto... |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +1034 | An agentic skills framework & softwar... |
+| 3 | [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | Rust | +2870 | The design vocabulary for your coding... |
+| 4 | [JetBrains/thinkrail](https://github.com/JetBrains/thinkrail) | TypeScript | +1117 | Vibe code with pi in a lightweight, r... |
+| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1199 | Open-source Grok Bot alternative with... |
+| 6 | [nightly-labs/openbot](https://github.com/nightly-labs/openbot) | TypeScript | +709 | A local-first desktop workspace for p... |
+| 7 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | - | +1187 |  |
+| 8 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +336 | Persistent Context Across Sessions fo... |
+| 9 | [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | TypeScript | +247 | Open-source AI coworkers that each ge... |
+| 10 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | +1594 | LIST OF ALL MY JAILBREAKS |
 
 
 [查看更多 →](trending/)
