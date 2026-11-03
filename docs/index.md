@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-11-02 07:38 UTC
+> 最后更新: 2026-11-03 07:56 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3094 | 38.8k |  |
-| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1526 | 109.8k | Persistent Context Across Sessions fo... |
-| 3 | [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) | Jupyter Notebook | +1191 | 40.6k | In-depth tutorials on LLMs, RAGs and ... |
-| 4 | [anomalyco/hex](https://github.com/anomalyco/hex) | Rust | +1179 | 3.6k | Local voice dictation for mac, window... |
-| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +967 | 32.7k | Turn Claude Code into a full game dev... |
-| 6 | [Renhuai123/ziwei-doushu](https://github.com/Renhuai123/ziwei-doushu) | TypeScript | +941 | 13.6k | 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统... |
-| 7 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +922 | 10.8k | Open-source Grok Bot alternative with... |
-| 8 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +825 | 40.5k | Lightpanda: the headless browser desi... |
-| 9 | [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) | - | +726 | 13.2k | LIST OF ALL MY JAILBREAKS |
-| 10 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +630 | 45.6k | Kronos: A Foundation Model for the La... |
+| 1 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3229 | 42.6k |  |
+| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2275 | 10.9k | Computer use CLI for AI agents |
+| 3 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1803 | 111.1k | Persistent Context Across Sessions fo... |
+| 4 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +1379 | 33.9k | Turn Claude Code into a full game dev... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +858 | 310.6k | Skills for Real Engineers. Straight f... |
+| 6 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +857 | 46.1k | Kronos: A Foundation Model for the La... |
+| 7 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +706 | 93.4k | 🕷️ The BEST Web Scraping framework th... |
+| 8 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +675 | 46.8k | Run frontier MoE models on hardware y... |
+| 9 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | +653 | 16.3k | FreeToken brings datacenter-scale mod... |
+| 10 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +509 | 40.1k | Hyprland is an independent, highly cu... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1526 | Persistent Context Across Sessions fo... |
-| 2 | [lightpanda-io/browser](https://github.com/lightpanda-io/browser) | Zig | +825 | Lightpanda: the headless browser desi... |
-| 3 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +630 | Kronos: A Foundation Model for the La... |
-| 4 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3094 |  |
-| 5 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +922 | Open-source Grok Bot alternative with... |
-| 6 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | Python | +324 | A collective list of free APIs |
-| 7 | [cjpais/Handy](https://github.com/cjpais/Handy) | Rust | +339 | A free, open source, and extensible s... |
-| 8 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +967 | Turn Claude Code into a full game dev... |
-| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | +101 | 🐍 Geometric Computer Vision Library f... |
-| 10 | [beenuar/AiSOC](https://github.com/beenuar/AiSOC) | Python | +446 | Open-source AI Security Operations Ce... |
+| 1 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2275 | Computer use CLI for AI agents |
+| 2 | [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | TypeScript | +1803 | Persistent Context Across Sessions fo... |
+| 3 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +706 | 🕷️ The BEST Web Scraping framework th... |
+| 4 | [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) | C++ | +509 | Hyprland is an independent, highly cu... |
+| 5 | [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) | Shell | +1379 | Turn Claude Code into a full game dev... |
+| 6 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | Python | +653 | FreeToken brings datacenter-scale mod... |
+| 7 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | TypeScript | +3229 |  |
+| 8 | [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) | Python | +857 | Kronos: A Foundation Model for the La... |
+| 9 | [kornia/kornia](https://github.com/kornia/kornia) | Python | +412 | 🐍 Geometric Computer Vision Library f... |
+| 10 | [JustVugg/colibri](https://github.com/JustVugg/colibri) | C | +675 | Run frontier MoE models on hardware y... |
 
 
 [查看更多 →](trending/)
