@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-11-06 08:00 UTC
+> 最后更新: 2026-11-07 07:08 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2679 | 7.9k | Auto Ontology is a Python framework f... |
-| 2 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2173 | 17.4k | Computer use CLI for AI agents |
-| 3 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2071 | 315.8k | Skills for Real Engineers. Straight f... |
-| 4 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1655 | 98.4k | 🕷️ The BEST Web Scraping framework th... |
-| 5 | [JiaFeiMiao-K-Cat/DiscImageStudio](https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio) | C# | +984 | 7.5k |  |
-| 6 | [floci-io/floci](https://github.com/floci-io/floci) | Java | +779 | 30.6k | Light, fluffy, and always free - The ... |
-| 7 | [scenario-labs/skills](https://github.com/scenario-labs/skills) | Python | +667 | 3.3k | Get production-ready images, video, a... |
-| 8 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +612 | 140.2k | Use Garry Tan's exact Claude Code set... |
-| 9 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +546 | 11.7k | Worktrunk is a CLI for Git worktree m... |
-| 10 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +240 | 18.0k | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2548 | 64.4k | A coding-agent skill for multi-phase ... |
+| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2070 | 316.9k | Skills for Real Engineers. Straight f... |
+| 3 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2015 | 9.3k | Auto Ontology is a Python framework f... |
+| 4 | [google/skills](https://github.com/google/skills) | Python | +534 | 23.0k | Agent Skills for Google products and ... |
+| 5 | [lz4/lz4](https://github.com/lz4/lz4) | C | +315 | 12.6k | Extremely Fast Compression algorithm |
+| 6 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 | 93.8k | Code at the speed of thought – Zed is... |
+| 7 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | +301 | 195.1k | Visual Studio Code |
+| 8 | [react/react](https://github.com/react/react) | JavaScript | +248 | 252.3k | The library for web and native user i... |
+| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 | 121.5k | Empowering everyone to build reliable... |
+| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +169 | 50.8k | An extremely fast Python linter and c... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2679 | Auto Ontology is a Python framework f... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2071 | Skills for Real Engineers. Straight f... |
-| 3 | [garrytan/gstack](https://github.com/garrytan/gstack) | TypeScript | +612 | Use Garry Tan's exact Claude Code set... |
-| 4 | [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | +240 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析... |
-| 5 | [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | Python | +1655 | 🕷️ The BEST Web Scraping framework th... |
-| 6 | [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop) | Rust | +2173 | Computer use CLI for AI agents |
-| 7 | [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) | Rust | +546 | Worktrunk is a CLI for Git worktree m... |
-| 8 | [lz4/lz4](https://github.com/lz4/lz4) | C | +23 | Extremely Fast Compression algorithm |
-| 9 | [google/skills](https://github.com/google/skills) | Python | +211 | Agent Skills for Google products and ... |
-| 10 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +150 | Browser automation CLI for AI agents |
+| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 | Code at the speed of thought – Zed is... |
+| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2015 | Auto Ontology is a Python framework f... |
+| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | +142 | Ruby on Rails |
+| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | +37 | 🎥 Command line media player |
+| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 | Empowering everyone to build reliable... |
+| 6 | [react/react](https://github.com/react/react) | JavaScript | +248 | The library for web and native user i... |
+| 7 | [angular/angular](https://github.com/angular/angular) | TypeScript | +135 | Deliver web apps with confidence 🚀 |
+| 8 | [symfony/symfony](https://github.com/symfony/symfony) | PHP | +128 | The Symfony PHP framework |
+| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +148 | The Prometheus monitoring system and ... |
+| 10 | [google/skills](https://github.com/google/skills) | Python | +534 | Agent Skills for Google products and ... |
 
 
 [查看更多 →](trending/)
