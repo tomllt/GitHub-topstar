@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-11-07 07:08 UTC
+> 最后更新: 2026-11-08 07:14 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2548 | 64.4k | A coding-agent skill for multi-phase ... |
-| 2 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +2070 | 316.9k | Skills for Real Engineers. Straight f... |
-| 3 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2015 | 9.3k | Auto Ontology is a Python framework f... |
-| 4 | [google/skills](https://github.com/google/skills) | Python | +534 | 23.0k | Agent Skills for Google products and ... |
-| 5 | [lz4/lz4](https://github.com/lz4/lz4) | C | +315 | 12.6k | Extremely Fast Compression algorithm |
-| 6 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 | 93.8k | Code at the speed of thought – Zed is... |
-| 7 | [microsoft/vscode](https://github.com/microsoft/vscode) | TypeScript | +301 | 195.1k | Visual Studio Code |
-| 8 | [react/react](https://github.com/react/react) | JavaScript | +248 | 252.3k | The library for web and native user i... |
-| 9 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 | 121.5k | Empowering everyone to build reliable... |
-| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +169 | 50.8k | An extremely fast Python linter and c... |
+| 1 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2085 | 66.1k | A coding-agent skill for multi-phase ... |
+| 2 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1955 | 17.3k | Open-source Grok Bot alternative with... |
+| 3 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +1766 | 101.1k | Hunt down social media accounts by us... |
+| 4 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +1114 | 94.4k | Code at the speed of thought – Zed is... |
+| 5 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1100 | 317.9k | Skills for Real Engineers. Straight f... |
+| 6 | [google/skills](https://github.com/google/skills) | Python | +443 | 23.5k | Agent Skills for Google products and ... |
+| 7 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +390 | 188.9k | Public repository for Agent Skills |
+| 8 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +350 | 51.0k | An extremely fast Python linter and c... |
+| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +322 | 67.5k | The Prometheus monitoring system and ... |
+| 10 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +191 | 4.7k | A context-compression plugin for mont... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [zed-industries/zed](https://github.com/zed-industries/zed) | Rust | +306 | Code at the speed of thought – Zed is... |
-| 2 | [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology) | Python | +2015 | Auto Ontology is a Python framework f... |
-| 3 | [rails/rails](https://github.com/rails/rails) | Ruby | +142 | Ruby on Rails |
-| 4 | [mpv-player/mpv](https://github.com/mpv-player/mpv) | C | +37 | 🎥 Command line media player |
-| 5 | [rust-lang/rust](https://github.com/rust-lang/rust) | Rust | +192 | Empowering everyone to build reliable... |
-| 6 | [react/react](https://github.com/react/react) | JavaScript | +248 | The library for web and native user i... |
-| 7 | [angular/angular](https://github.com/angular/angular) | TypeScript | +135 | Deliver web apps with confidence 🚀 |
-| 8 | [symfony/symfony](https://github.com/symfony/symfony) | PHP | +128 | The Symfony PHP framework |
-| 9 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +148 | The Prometheus monitoring system and ... |
-| 10 | [google/skills](https://github.com/google/skills) | Python | +534 | Agent Skills for Google products and ... |
+| 1 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +190 | Browser automation CLI for AI agents |
+| 2 | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | JavaScript | +2085 | A coding-agent skill for multi-phase ... |
+| 3 | [google/skills](https://github.com/google/skills) | Python | +443 | Agent Skills for Google products and ... |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1100 | Skills for Real Engineers. Straight f... |
+| 5 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +390 | Public repository for Agent Skills |
+| 6 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +96 | An open source design system that's f... |
+| 7 | [prometheus/prometheus](https://github.com/prometheus/prometheus) | Go | +322 | The Prometheus monitoring system and ... |
+| 8 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +1766 | Hunt down social media accounts by us... |
+| 9 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1955 | Open-source Grok Bot alternative with... |
+| 10 | [astral-sh/ruff](https://github.com/astral-sh/ruff) | Rust | +350 | An extremely fast Python linter and c... |
 
 
 [查看更多 →](trending/)
