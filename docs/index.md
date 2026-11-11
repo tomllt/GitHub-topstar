@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-11-10 08:19 UTC
+> 最后更新: 2026-11-11 07:48 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +4267 | 107.8k | Hunt down social media accounts by us... |
-| 2 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3278 | 21.0k | An open source design system that's f... |
-| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | +1587 | 20.2k | Open-source Grok Bot alternative with... |
-| 4 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1038 | 191.5k | Public repository for Agent Skills |
-| 5 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +916 | 48.7k | Browser automation CLI for AI agents |
-| 6 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +574 | 17.1k | Multi-Joint dynamics with Contact. A ... |
-| 7 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +551 | 20.2k | A collection of projects designed to ... |
-| 8 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +506 | 69.3k | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推... |
-| 9 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | +216 | 32.3k | Garry's Opinionated OpenClaw/Hermes A... |
-| 10 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +172 | 103.7k | π RuView turns commodity WiFi signals... |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3108 | 23.7k | An open source design system that's f... |
+| 2 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +2393 | 109.5k | Hunt down social media accounts by us... |
+| 3 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1679 | 192.6k | Public repository for Agent Skills |
+| 4 | [mattpocock/skills](https://github.com/mattpocock/skills) | Shell | +1225 | 321.3k | Skills for Real Engineers. Straight f... |
+| 5 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +790 | 6.8k | Configure and automate Home Assistant... |
+| 6 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +780 | 49.5k | Browser automation CLI for AI agents |
+| 7 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +531 | 20.6k | A collection of projects designed to ... |
+| 8 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +465 | 115.4k | Production-grade engineering skills f... |
+| 9 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +456 | 17.5k | Multi-Joint dynamics with Contact. A ... |
+| 10 | [ranxianglei/billion-context](https://github.com/ranxianglei/billion-context) | TypeScript | +375 | 6.6k | A context-compression plugin for mont... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1038 | Public repository for Agent Skills |
-| 2 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3278 | An open source design system that's f... |
-| 3 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +4267 | Hunt down social media accounts by us... |
-| 4 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +574 | Multi-Joint dynamics with Contact. A ... |
-| 5 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +551 | A collection of projects designed to ... |
-| 6 | [garrytan/gbrain](https://github.com/garrytan/gbrain) | TypeScript | +216 | Garry's Opinionated OpenClaw/Hermes A... |
-| 7 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +916 | Browser automation CLI for AI agents |
-| 8 | [ruvnet/RuView](https://github.com/ruvnet/RuView) | Rust | +172 | π RuView turns commodity WiFi signals... |
-| 9 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | Python | +506 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推... |
-| 10 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +31 | Configure and automate Home Assistant... |
+| 1 | [meta/astryx](https://github.com/meta/astryx) | TypeScript | +3108 | An open source design system that's f... |
+| 2 | [anthropics/skills](https://github.com/anthropics/skills) | Python | +1679 | Public repository for Agent Skills |
+| 3 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | JavaScript | +465 | Production-grade engineering skills f... |
+| 4 | [anthropics/claude-quickstarts](https://github.com/anthropics/claude-quickstarts) | Python | +531 | A collection of projects designed to ... |
+| 5 | [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) | C++ | +456 | Multi-Joint dynamics with Contact. A ... |
+| 6 | [we-promise/sure](https://github.com/we-promise/sure) | Ruby | +159 | The personal finance app for everyone... |
+| 7 | [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | Python | +790 | Configure and automate Home Assistant... |
+| 8 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | Rust | +780 | Browser automation CLI for AI agents |
+| 9 | [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) | Python | +2393 | Hunt down social media accounts by us... |
+| 10 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | Rust | +192 | A batteries-included framework for bu... |
 
 
 [查看更多 →](trending/)
