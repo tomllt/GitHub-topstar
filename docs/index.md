@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-11-16 07:59 UTC
+> 最后更新: 2026-11-17 09:08 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1219 | 7.5k | Keep your coding agent up to date wit... |
-| 2 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +988 | 26.6k | Build your own AI office with Univer ... |
-| 3 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +866 | 12.1k | The workspace to stay in the loop and... |
-| 4 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +717 | 57.3k | Chrome DevTools for coding agents |
-| 5 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +706 | 5.8k | Claude Code skills for equity investo... |
-| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +691 | 52.4k | Secure, fast, efficient, battle-teste... |
-| 7 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | +423 | 1.9k | Self-hosted workflows for coding-agen... |
-| 8 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +355 | 18.2k | AG-UI: the Agent-User Interaction Pro... |
-| 9 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +247 | 9.5k | A library of Agent Skills designed to... |
-| 10 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +122 | 2.0k | Multi-tier framework for evaluating A... |
+| 1 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1828 | 28.6k | Build your own AI office with Univer ... |
+| 2 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1094 | 7.8k | A Claude Code skill bundle for bug hu... |
+| 3 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +951 | 53.2k | Secure, fast, efficient, battle-teste... |
+| 4 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +873 | 3.1k | Multi-tier framework for evaluating A... |
+| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +841 | 57.9k | Chrome DevTools for coding agents |
+| 6 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +837 | 6.6k | Claude Code skills for equity investo... |
+| 7 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +791 | 19.6k | AG-UI: the Agent-User Interaction Pro... |
+| 8 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +696 | 12.8k | The workspace to stay in the loop and... |
+| 9 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +529 | 9.9k | A library of Agent Skills designed to... |
+| 10 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Python | +367 | 7.3k | Local video editor for coding agents:... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +988 | Build your own AI office with Univer ... |
-| 2 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +355 | AG-UI: the Agent-User Interaction Pro... |
-| 3 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +247 | A library of Agent Skills designed to... |
-| 4 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +866 | The workspace to stay in the loop and... |
-| 5 | [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) | TypeScript | +717 | Chrome DevTools for coding agents |
-| 6 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | Go | +691 | Secure, fast, efficient, battle-teste... |
-| 7 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | Go | +423 | Self-hosted workflows for coding-agen... |
-| 8 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | C++ | +43 | Tensor library for machine learning |
-| 9 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +98 | A Claude Code skill bundle for bug hu... |
-| 10 | [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | TypeScript | +1219 | Keep your coding agent up to date wit... |
+| 1 | [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) | TypeScript | +791 | AG-UI: the Agent-User Interaction Pro... |
+| 2 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | TypeScript | +696 | The workspace to stay in the loop and... |
+| 3 | [dream-num/univer](https://github.com/dream-num/univer) | TypeScript | +1828 | Build your own AI office with Univer ... |
+| 4 | [tradermonty/claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | Python | +837 | Claude Code skills for equity investo... |
+| 5 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1094 | A Claude Code skill bundle for bug hu... |
+| 6 | [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | Go | +46 | Modern Docker Management, Designed fo... |
+| 7 | [DeanChensj/jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | JavaScript | +288 | 江山时序 · 中国历史交互地图时间轴 (403 BCE – Present... |
+| 8 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | TypeScript | +529 | A library of Agent Skills designed to... |
+| 9 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +135 | AI agent skill that researches any to... |
+| 10 | [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | Python | +873 | Multi-tier framework for evaluating A... |
 
 
 [查看更多 →](trending/)
