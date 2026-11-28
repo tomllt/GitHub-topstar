@@ -5,22 +5,22 @@ title: GitHub TopStar
 
 # GitHub TopStar 排行榜
 
-> 最后更新: 2026-11-27 09:45 UTC
+> 最后更新: 2026-11-28 08:59 UTC
 
 ## 今日 Star 飙升 TOP 10
 
 | # | 项目 | 语言 | 今日 Star | 总 Star | 简介 |
 |---|------|------|----------|---------|------|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1597 | 25.2k | A Claude Code skill bundle for bug hu... |
-| 2 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +1046 | 211.2k | Knowledge infrastructure to make your... |
-| 3 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +955 | 74.2k | Editorial diagram design for Claude C... |
-| 4 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Python | +889 | 19.5k | The only downloader you need. 下载器的集大成者。 |
-| 5 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +854 | 327.8k | An agentic skills framework & softwar... |
-| 6 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +774 | 17.3k | AutoClip｜The open-source OpusClip alt... |
-| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +759 | 76.0k | AI agent skill that researches any to... |
-| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +746 | 66.6k | "CLI-Anything: Making ALL Software Ag... |
-| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +702 | 72.0k | 🧠 两小时从 0 训出你的 64M 大模型。Train your own ... |
-| 10 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +562 | 7.2k | Avoid common App Store and Google Pla... |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1608 | 26.5k | A Claude Code skill bundle for bug hu... |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +922 | 328.6k | An agentic skills framework & softwar... |
+| 3 | [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) | Python | +836 | 20.1k | The only downloader you need. 下载器的集大成者。 |
+| 4 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +822 | 211.9k | Knowledge infrastructure to make your... |
+| 5 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +725 | 74.6k | Editorial diagram design for Claude C... |
+| 6 | [zhouxiaoka/autoclip](https://github.com/zhouxiaoka/autoclip) | Python | +718 | 17.8k | AutoClip｜The open-source OpusClip alt... |
+| 7 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +675 | 76.5k | AI agent skill that researches any to... |
+| 8 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +666 | 67.2k | "CLI-Anything: Making ALL Software Ag... |
+| 9 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +660 | 72.4k | 🧠 两小时从 0 训出你的 64M 大模型。Train your own ... |
+| 10 | [mjmirza/app-store-compliance](https://github.com/mjmirza/app-store-compliance) | Shell | +530 | 8.1k | Avoid common App Store and Google Pla... |
 
 
 [查看完整每日榜单 →](daily/)
@@ -31,16 +31,16 @@ title: GitHub TopStar
 
 | # | 项目 | 语言 | 今日 Star | 简介 |
 |---|------|------|----------|------|
-| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1597 | A Claude Code skill bundle for bug hu... |
-| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +854 | An agentic skills framework & softwar... |
-| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +746 | "CLI-Anything: Making ALL Software Ag... |
-| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +702 | 🧠 两小时从 0 训出你的 64M 大模型。Train your own ... |
-| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +270 | Cursor plugin specification and offic... |
-| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +1046 | Knowledge infrastructure to make your... |
-| 7 | [nginx/nginx](https://github.com/nginx/nginx) | C | +150 | The official NGINX Open Source reposi... |
-| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +176 | OpenVINO™ is an open source toolkit f... |
-| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +955 | Editorial diagram design for Claude C... |
-| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +759 | AI agent skill that researches any to... |
+| 1 | [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | Python | +1608 | A Claude Code skill bundle for bug hu... |
+| 2 | [obra/superpowers](https://github.com/obra/superpowers) | Shell | +922 | An agentic skills framework & softwar... |
+| 3 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | Python | +666 | "CLI-Anything: Making ALL Software Ag... |
+| 4 | [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | Python | +660 | 🧠 两小时从 0 训出你的 64M 大模型。Train your own ... |
+| 5 | [cursor/plugins](https://github.com/cursor/plugins) | TypeScript | +243 | Cursor plugin specification and offic... |
+| 6 | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | TypeScript | +822 | Knowledge infrastructure to make your... |
+| 7 | [nginx/nginx](https://github.com/nginx/nginx) | C | +146 | The official NGINX Open Source reposi... |
+| 8 | [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino) | C++ | +151 | OpenVINO™ is an open source toolkit f... |
+| 9 | [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) | HTML | +725 | Editorial diagram design for Claude C... |
+| 10 | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Python | +675 | AI agent skill that researches any to... |
 
 
 [查看更多 →](trending/)
